@@ -2,33 +2,88 @@ fork of https://github.com/dair-iitd/jeebench
 
 # JEEBench(EMNLP 2023)
 
-Repository for the code and dataset for the paper: "Have LLMs Advanced Enough? A Harder Problem Solving Benchmark For Large Language Models" accepted in EMNLP 2023 as a Main conference paper. https://aclanthology.org/2023.emnlp-main.468/
+Repository for Course Project of CS-678 by Ali and Anjan. Paper chosen to replicate is: "Have LLMs Advanced Enough? A
+Harder Problem Solving Benchmark For Large Language Models" accepted in EMNLP 2023 as a Main conference
+paper. https://aclanthology.org/2023.emnlp-main.468/
 
 ![respresentative](https://github.com/dair-iitd/jeebench/assets/45387992/d0d14064-bce9-4b58-ac3f-87fef18fcff3)
 
-## Dataset 
+## Dataset
 
-To access the dataset, unzip the dataset.zip file. This contains the dataset, few-shot examples and responses collected from GPT models along with extracted answers. 
-The dataset contains questions from Physics, Chemistry and Mathematics collected from JEE Advanced 2016 to 2023. The breakdown with respect to subject type and response type is as follows:
+To access the dataset, unzip the dataset.zip file. This contains the dataset, few-shot examples and responses collected
+from GPT models along with extracted answers.
+The dataset contains questions from Physics, Chemistry and Mathematics collected from JEE Advanced 2016 to 2023. The
+breakdown with respect to subject type and response type is as follows:
 
 <img src="https://github.com/dair-iitd/jeebench/assets/45387992/592af8bc-6a5f-457e-a8d8-806046e0463a" alt="drawing" width="500"/>
 
+## How to run the code?
 
-## Quick example
+### Set environment variable for OPENAI_API_KEY
 
-To run a baseline such as GPT-3.5 with zero-shot Chain of Thought on the first 10 questions of the dataset using 2 parallel requests, run:
-`python inference.py --model gpt-3.5-turbo --mode CoT --max_questions 1 --num_procs 2`
+For macOS/Linux
 
-To evaluate your results, use the code provided in compute_metrics.py:
-`python compute_metrics.py`
+```bash
+export OPENAI_API_KEY='your_openai_api_key_here'
+```
 
-## Baselines
+For Windows Powershell
+
+```bash
+$env:OPENAI_API_KEY="your_openai_api_key_here"
+```
+
+### General Command Structure
+
+Here is the general form of the command to run the inference script:
+
+```bash
+python inference.py --model [model_name] --mode [mode] --max_questions [number] --num_procs [number]
+```
+
+--model: Specifies the model name.<br />
+--mode: Sets the mode of operation ('normal' or 'CoT' for Chain of Thought).<br />
+--max_questions: Limits the number of questions to process.<br />
+--num_procs: Sets the number of processes for parallel execution.<br />
+
+#### Running GPT-3.5 Turbo in Chain of Thought Mode:
+
+```bash
+python inference.py --model gpt-3.5-turbo --mode CoT --max_questions 1 --num_procs 2
+```
+
+#### Running GPT-3.5 Turbo in Normal Mode:
+
+```bash
+python inference.py --model gpt-3.5-turbo --mode normal --max_questions 10 --num_procs 4
+```
+
+#### Running GPT-4 Model in Normal Mode:
+
+```bash
+python inference.py --model gpt-4-0613 --mode normal --max_questions 10 --num_procs 4
+```
+
+### Evaluating Results
+
+```bash
+python compute_metrics.py
+```
+
+This script will compute the relevant metrics for your model's output. Ensure your results data is formatted correctly
+as expected by compute_metrics.py.
+
+## Results
+
+Upon evaluating results, the results calculated seemed to exactly match the findings of the original authors showing
+that OpenAI's GPT-4 would roughly rank around the top 20% in the JEE Advanced of 2023
+
 ![image](https://github.com/dair-iitd/jeebench/assets/45387992/3d79ba50-d4a3-4ba5-9a84-32b74ae5a887)
-
 
 ## Citation
 
 If you use our dataset in your research, please cite it using the following
+
 ```latex
 @inproceedings{arora-etal-2023-llms,
     title = "Have {LLM}s Advanced Enough? A Challenging Problem Solving Benchmark For Large Language Models",
