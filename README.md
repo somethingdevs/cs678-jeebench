@@ -17,6 +17,34 @@ breakdown with respect to subject type and response type is as follows:
 
 <img src="https://github.com/dair-iitd/jeebench/assets/45387992/592af8bc-6a5f-457e-a8d8-806046e0463a" alt="drawing" width="500"/>
 
+## Folder Directory Structure
+
+```bash
+
+D:.
+├───data
+│   └───responses
+│       ├───GPT3.5_normal_responses
+│       ├───GPT3_normal_responses
+│       ├───GPT4_0613_normal_responses
+│       ├───GPT4_CoT+OneShot_responses
+│       ├───GPT4_CoT+SC_responses
+│       │   └───marks_dump
+│       ├───GPT4_CoT_responses
+│       ├───GPT4_CoT_self_refine_responses
+│       └───GPT4_normal_responses
+├───responses
+│   ├───GPT3.5_normal_responses
+│   └───GPT4_0613_normal_responses
+└───results
+```
+
+## How did we run the code
+
+As it turns out, the code uses teh responses that the author already had with him to generate the results. This led to giving the same results every single time. We generated new answers to the question prompts and used them but were only able to use 114 questions since OpenAI rate limited us and the cost that incurred were significant.
+
+We then edited the code to run only 114 questions on each model and ended up getting roughly close values.
+
 ## How to run the code?
 
 ### Set environment variable for OPENAI_API_KEY
