@@ -1,0 +1,4 @@
+Type,count,Random,GPT3_normal,GPT3.5_normal,GPT4_normal,GPT4_CoT,GPT4_CoT_self_refine,GPT4_CoT+OneShot,GPT4_0613_normal
+Integer,26,0.0,0.038,0.192,0.192,0.385,0.423,0.269,0.154
+MCQ,35,0.25,0.143,0.2,0.514,0.571,0.514,0.543,0.514
+MCQ(multiple),53,0.135,0.113,0.259,0.425,0.575,0.557,0.363,0.401

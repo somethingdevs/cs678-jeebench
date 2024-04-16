@@ -1,0 +1,2 @@
+index,Random,GPT3_normal,GPT3.5_normal,GPT4_normal,GPT4_CoT,GPT4_CoT_self_refine,GPT4_CoT+OneShot,GPT4_0613_normal
+mean,0.139,0.105,0.226,0.399,0.531,0.513,0.397,0.379
