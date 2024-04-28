@@ -1,0 +1,1058 @@
+[
+  {
+    "1": "在一个历史性的实验中，用来确定普朗克常数的方法是用不同波长的光照射金属表面。通过施加一个阻止电位来测量发射的光电子能量。下面给出了有关入射光波长 $(\\lambda)$ 和相应阻止电位 $\\left(V_{0}\\right)$ 的相关数据：\n\n\\begin{center}\n\n\\begin{tabular}{cc}\n\n\\hline\n\n$\\lambda(\\mu \\mathrm{m})$ & $V_{0}($ Volt $)$ \\\\\n\n\\hline\n\n0.3 & 2.0 \\\\\n\n0.4 & 1.0 \\\\\n\n0.5 & 0.4 \\\\\n\n\\hline\n\n\\end{tabular}\n\n\\end{center}\n\n已知$c=3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}$和$e=1.6 \\times 10^{-19} \\mathrm{C}$，由这样一个实验得到的普朗克常数（单位为$J \\mathrm{~s}$）是\n\n(A) $6.0 \\times 10^{-34}$\n\n(B) $6.4 \\times 10^{-34}$\n\n(C) $6.6 \\times 10^{-34}$\n\n(D) $6.8 \\times 10^{-34}$"
+  },
+  {
+    "2": "一个质量为$1.6 \\mathrm{~kg}$、长度为$l$的均匀木棍倾斜放置在高度为$h(<l)$的光滑垂直墙壁上，使得木棍的一小部分伸出墙外。墙对木棍的反作用力垂直于木棍。木棍与墙壁成$30^{\\circ}$角，木棍底部放在粗糙地板上。墙对木棍的反作用力大小等于地板对木棍的反作用力。墙对木棍的反作用力大小和木棍底部的摩擦力$f$以及比值$h/l$为\n\n$\\left(g=10 \\mathrm{~ms}^{2}\\right)$\n\n(A) $\\frac{h}{l}=\\frac{\\sqrt{3}}{16}, f=\\frac{16 \\sqrt{3}}{3} \\mathrm{~N}$\n\n(B) $\\frac{h}{l}=\\frac{3}{16}, f=\\frac{16 \\sqrt{3}}{3} \\mathrm{~N}$\n\n(C) $\\frac{h}{l}=\\frac{3 \\sqrt{3}}{16}, f=\\frac{8 \\sqrt{3}}{3} \\mathrm{~N}$\n\n(D) $\\frac{h}{l}=\\frac{3 \\sqrt{3}}{16}, f=\\frac{16 \\sqrt{3}}{3} \\mathrm{~N}$"
+  },
+  {
+    "3": "对于带核电荷$Z e$的类氢原子的高度激发态（也称为Rydberg态），其由主量子数$n$定义，其中$n \\gg 1$。以下哪种陈述是正确的？\n\n(A) 两个连续轨道的半径的相对变化不依赖于$Z$\n\n(B) 两个连续轨道的半径的相对变化随$1 / n$变化\n\n(C) 两个连续轨道的能量的相对变化随$1 / n^{3}$变化\n\n(D) 两个连续轨道的角动量的相对变化随$1 / n$变化"
+  },
+  {
+    "4": "一个白炽灯泡有一根钨细丝，通过通电加热到高温。热的细丝会发出黑体辐射。观察到，在运行足够长的时间后，由于钨从细丝的不均匀蒸发，细丝会在随机位置破裂。如果灯泡被恒定电压供电，以下哪些说法为真？\n\n(A) 细丝上的温度分布是均匀的\n\n(B) 细丝小部分上的电阻会随时间减小\n\n(C) 在细丝断裂之前，在更高频段上，细丝发出了更多光\n\n(D) 灯泡寿命结束时，细丝消耗的电功率减少"
+  },
+  {
+    "5": "一个凸面透镜由折射率为$n$的材料制成。当一个小物体放置在透镜曲面前$30 \\mathrm{~cm}$处时，将产生一个放大两倍的物体图像。由于从透镜的凸面反射，另一个微弱的图像观察到距透镜$10 \\mathrm{~cm}$远的地方。以下哪种说法是正确的？\n\n(A) 透镜的折射率为2.5\n\n(B) 凸面的曲率半径为$45 \\mathrm{~cm}$\n\n(C) 微弱的图像是直立且真实的\n\n(D) 透镜的焦距为$20 \\mathrm{~cm}$"
+  },
+  {
+    "6": "长度尺度$(l)$取决于介电材料的介电常数$(\\varepsilon)$、玻尔兹曼常数$\\left(k_{B}\\right)$、绝对温度$(T)$、单位体积内的某些带电粒子数量$(n)$以及每个粒子携带的电荷$(q)$。以下哪个表示$l$的表达式是维度上正确的？\n\n(A) $l=\\sqrt{\\left(\\frac{n q^{2}}{\\varepsilon k_{B} T}\\right)}$\n\n(B) $l=\\sqrt{\\left(\\frac{\\varepsilon k_{B} T}{n q^{2}}\\right)}$\n\n(C) $l=\\sqrt{\\left(\\frac{q^{2}}{\\varepsilon n^{2 / 3} k_{B} T}\\right)}$\n\n(D) $l=\\sqrt{\\left(\\frac{q^{2}}{\\varepsilon n^{1 / 3} k_{B} T}\\right)}$"
+  },
+  {
+    "7": "质量为$m$的粒子的位置矢量$\\vec{r}$由以下方程给出：\n\n\\[\n\\vec{r}(t) = \\alpha t^{3} \\hat{i} + \\beta t^{2} \\hat{j}\n\\]\n\n其中$\\alpha = 10/3 \\mathrm{~m} \\mathrm{~s}^{-3}, \\beta = 5 \\mathrm{~m} \\mathrm{~s}^{-2}$，$m=0.1 \\mathrm{~kg}$。在$t=1 \\mathrm{~s}$时，以下哪个陈述是真的？\n\n(A) 速度$\\vec{v}$由$\\vec{v} = (10 \\hat{i} + 10 \\hat{j}) \\mathrm{ms}^{-1}$给出。\n\n(B) 相对于原点的角动量$\\vec{L}$为$\\vec{L} = -(5/3) \\hat{k} \\mathrm{~N} \\mathrm{~m}$。\n\n(C) 力$\\vec{F}$由$\\vec{F} = (\\hat{i} + 2 \\hat{j}) \\mathrm{N}$给出。\n\n(D) 相对于原点的力矩$\\vec{\\tau}$为$\\vec{\\tau} = -(20/3) \\hat{k} \\mathrm{~N} \\mathrm{~m}$。"
+  },
+  {
+    "8": "金属在炉内加热，一个传感器放置在金属表面上方来读取金属辐射的功率$(P)$。传感器有一个显示$\\log _{2}\\left(P / P_{0}\\right)$的刻度，其中$P_{0}$是一个常数。当金属表面温度为$487^{\\circ} \\mathrm{C}$时，传感器显示数值为1。假设金属表面的发射率保持不变。当金属表面温度升至$2767{ }^{\\circ} \\mathrm{C}$时，传感器显示的数值是多少？"
+  },
+  {
+    "9": "同位素 ${ }_{5}^{12} \\mathrm{~B}$ 其质量为 12.014 u，发生 $\\beta$衰变转变成 ${ }_{6}^{12} \\mathrm{C}$。 ${ }_{6}^{12} \\mathrm{C}$ 具有一个位于核的激发态 $\\left({ }_{6}^{12} \\mathrm{C}^{*}\\right)$，能量为其基态的$4.041 \\mathrm{MeV}$。如果 ${ }_{5}^{12} \\mathrm{~B}$ 衰变为 ${ }_{6}^{12} \\mathrm{C}^{*}$，那么 $\\beta$粒子的最大动能是多少，单位为 $\\mathrm{MeV}$？\n\n$\\left(1 \\mathrm{u}=931.5 \\mathrm{MeV} / c^{2}\\right)$，其中 $c$ 是真空中的光速。"
+  },
+  {
+    "10": "一个处于基态的氢原子被波长为 $970 \\ \\text{A}$ 的光辐射。取 $h c / e=1.237 \\times 10^{-6} \\ \\text{eV m}$，氢原子的基态能量为 $-13.6 \\ \\text{eV}$，请问在发射光谱中有多少条谱线存在？"
+  },
+  {
+    "11": "考虑两个固体球体 $\\mathrm{P}$ 和 $\\mathrm{Q}$，密度均为 $8 \\mathrm{gm} \\mathrm{cm}^{-3}$，直径分别为 $1 \\mathrm{~cm}$ 和 $0.5 \\mathrm{~cm}$。球体 $P$ 被放入密度为 $0.8 \\mathrm{gm} \\mathrm{cm}^{-3}$，粘度为 $\\eta=3$ 泊（Po）的液体中。球体 $Q$ 被放入密度为 $1.6 \\mathrm{gm} \\mathrm{cm}^{-3}$，粘度为 $\\eta=2$ 泊（Po）的液体中。求 $P$ 和 $Q$ 的终端速度之比是多少？"
+  },
+  {
+    "12": "两个电感$L_{1}$（电感$1 \\mathrm{mH}$，内阻$3 \\Omega$）和$L_{2}$（电感$2 \\mathrm{mH}$，内阻$4 \\Omega$），以及一个电阻$R$（电阻$12 \\Omega$）并联连接到一个$5 \\mathrm{~V}$的电池上。在时刻$t=0$，电路闭合。从电池中流出的最大电流与最小电流之比为多少$\\left(I_{\\max} / I_{\\min}\\right)$？"
+  },
+  {
+    "13": "在与周围环境热接触的条件下，$300 \\mathrm{~K}$时一摩尔理想气体从$1.0 \\mathrm{~L}$等温膨胀至$2.0 \\mathrm{~L}$，背靠一个$3.0 \\mathrm{~atm}$的恒定压力。在这个过程中，周围环境的熵变$\\left(\\Delta S_{\\text {surr }}\\right)$为$\\mathrm{J} \\mathrm{K}^{-1}$是\n\n(1 $\\mathrm{L} \\operatorname{atm}=101.3 \\mathrm{~J}$)\n\n(A) 5.763\n\n(B) 1.013\n\n(C) -1.013\n\n(D) -5.763"
+  },
+  {
+    "14": "以下是13族元素原子半径的增长顺序：\n\n(A) $\\mathrm{Al}<\\mathrm{Ga}<\\mathrm{In}<\\mathrm{Tl}$\n\n(B) $\\mathrm{Ga}<\\mathrm{Al}<\\mathrm{In}<\\mathrm{Tl}$\n\n(C) $\\mathrm{Al}<\\mathrm{In}<\\mathrm{Ga}<\\mathrm{Tl}$\n\n(D) $\\mathrm{Al}<\\mathrm{Ga}<\\mathrm{Tl}<\\mathrm{In}$"
+  },
+  {
+    "15": "在$[\\mathrm{Ni(CO)}_{4}]$, $[\\mathrm{NiCl}_{4}]^{2-}$, $[\\mathrm{Co(NH_3)_{4}Cl_2}]\\mathrm{Cl}$, $\\mathrm{Na_3}[\\mathrm{CoF_6}]$, $\\mathrm{Na_2O_2}$和$\\mathrm{CsO_2}$中，铁磁性化合物的数量是\n\n(A) 2\n\n(B) 3\n\n(C) 4\n\n(D) 5"
+  },
+  {
+    "16": "在完全氢化的情况下，天然橡胶产生\n\n(A) 乙烯-丙烯共聚物\n\n(B) 硫化橡胶\n\n(C) 聚丙烯\n\n(D) 聚丁烯"
+  },
+  {
+    "102": "以下哪种组合将产生$\\mathrm{H}_{2}$气体？\n\n[A] Fe金属和浓硝酸($\\mathrm{HNO}_{3}$)\n\n[B] Cu金属和浓硝酸($\\mathrm{HNO}_{3}$)\n\n[C] $\\mathrm{Zn}$金属和氢氧化钠($\\mathrm{NaOH}(\\mathrm{aq})$\n\n[D] Au金属和氰化钠($\\mathrm{NaCN}(\\mathrm{aq})$ 在空气存在下"
+  },
+  {
+    "103": "磷原子的氧化态在\\(\\mathrm{H}_{3} \\mathrm{PO}_{2}, \\mathrm{H}_{3} \\mathrm{PO}_{4}, \\mathrm{H}_{3} \\mathrm{PO}_{3}\\)和\\(\\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{6}\\)中的顺序是\n\n[A] \\(\\mathrm{H}_{3} \\mathrm{PO}_{3}>\\mathrm{H}_{3} \\mathrm{PO}_{2}>\\mathrm{H}_{3} \\mathrm{PO}_{4}>\\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{6}\\)\n\n[B] \\(\\mathrm{H}_{3} \\mathrm{PO}_{4}>\\mathrm{H}_{3} \\mathrm{PO}_{2}>\\mathrm{H}_{3} \\mathrm{PO}_{3}>\\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{6}\\)\n\n[C] \\(\\mathrm{H}_{3} \\mathrm{PO}_{4}>\\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{6}>\\mathrm{H}_{3} \\mathrm{PO}_{3}>\\mathrm{H}_{3} \\mathrm{PO}_{2}\\)\n\n[D] \\(\\mathrm{H}_{3} \\mathrm{PO}_{2}>\\mathrm{H}_{3} \\mathrm{PO}_{3}>\\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{6}>\\mathrm{H}_{3} \\mathrm{PO}_{4}\\)"
+  },
+  {
+    "104": "关于表面性质的正确陈述是\n\n[A] 吸附伴随着系统焓的减少和熵的减少\n\n[B] 乙烷和氮气的临界温度分别为$563 \\mathrm{~K}$和$126 \\mathrm{~K}$。在相同温度下，乙烷在同等量活性炭上的吸附将多于氮气\n\n[C] 云是一种胶体乳液类型，其中液体是分散相而气体是分散介质\n\n[D] 胶体颗粒的布朗运动并不取决于颗粒的大小，而是取决于溶液的粘度"
+  },
+  {
+    "105": "对于在与周围环境达到平衡的容器中发生的反应，温度对其平衡常数$K$的影响可以用熵变的变化来描述：\n\n[A] 随着温度的升高，放热反应的$K$值下降，因为体系的熵变为正。\n\n[B] 随着温度的升高，吸热反应的$K$值增加，因为环境的熵变变得不利。\n\n[C] 随着温度的升高，吸热反应的$K$值增加，因为体系的熵变为负。\n\n[D] 随着温度的升高，放热反应的$K$值下降，因为环境的熵变变得有利。"
+  },
+  {
+    "106": "在双分子反应中，实验测定的立体因子 $P$ 为4.5。以下选项中正确的是\n\n[A] 反应的活化能不受立体因子数值的影响\n\n[B] 实验测定的频率因子值高于阿伦尼乌斯方程预测的值\n\n[C] 由于 $\\mathrm{P}=4.5$，除非使用有效的催化剂，否则反应不会进行\n\n[D] 阿伦尼乌斯方程预测的频率因子值高于实验测定值"
+  },
+  {
+    "107": "在以下选项中，正确的说法是：\n\n[A] $\\mathrm{Al}\\left(\\mathrm{CH}_{3}\\right)_{3}$ 在其二聚体结构中具有三中心两电子键\n\n[B] $\\mathrm{BH}_{3}$ 在其二聚体结构中具有三中心两电子键\n\n[C] $\\mathrm{AlCl}_{3}$ 在其二聚体结构中具有三中心两电子键\n\n[D] $\\mathrm{BCl}_{3}$ 的Lewis酸性要大于$\\mathrm{AlCl}_{3}$"
+  },
+  {
+    "108": "只含有两性氧化物的选项是\n\n[A] $\\mathrm{Cr}_{2} \\mathrm{O}_{3}, \\mathrm{BeO}, \\mathrm{SnO}, \\mathrm{SnO}_{2}$\n\n[B] $\\mathrm{Cr}_{2} \\mathrm{O}_{3}, \\mathrm{CrO}, \\mathrm{SnO}, \\mathrm{PbO}$\n\n[C] $\\mathrm{NO}, \\mathrm{B}_{2} \\mathrm{O}_{3}, \\mathrm{PbO}, \\mathrm{SnO}_{2}$\n\n[D] $\\mathrm{ZnO}, \\mathrm{Al}_{2} \\mathrm{O}_{3}, \\mathrm{PbO}, \\mathrm{PbO}_{2}$"
+  },
+  {
+    "109": "通过过点$(1,1,1)$和垂直于平面$2x+y-2z=5$和$3x-6y-2z=7$的平面方程为\n\n\\begin{center}\n    [A] $14x + 2y - 15z = 1$ \\\\\n    [B] $14x - 2y + 15z = 27$ \\\\\n    [C] $14x + 2y + 15z = 31$ \\\\\n    [D] $-14x + 2y + 15z = 3$\n\\end{center}"
+  },
+  {
+    "110": "让$O$表示原点，$P Q R$表示任意三角形。点$S$满足以下条件：\n\n\\[\n\\overrightarrow{O P} \\cdot \\overrightarrow{O Q}+\\overrightarrow{O R} \\cdot \\overrightarrow{O S}=\\overrightarrow{O R} \\cdot \\overrightarrow{O P}+\\overrightarrow{O Q} \\cdot \\overrightarrow{O S}=\\overrightarrow{O Q} \\cdot \\overrightarrow{O R}+\\overrightarrow{O P} \\cdot \\overrightarrow{O S}\n\\]\n\n那么三角形$P Q R$将点$S$作为其\n\n[A] 重心\n\n[B] 外心\n\n[C] 内心\n\n[D] 垂心"
+  },
+  {
+    "111": "如果$y=y(x)$满足微分方程\n\\[\n8 \\sqrt{x}(\\sqrt{9+\\sqrt{x}}) d y=(\\sqrt{4+\\sqrt{9+\\sqrt{x}}})^{-1} d x, \\quad x>0\n\\]\n\n且$y(0)=\\sqrt{7}$，则$y(256)=$\n\n[A] 3\n\n[B] 9\n\n[C] 16\n\n[D] 80"
+  },
+  {
+    "112": "如果$f：\\mathbb{R} \\rightarrow \\mathbb{R}$是一个两次可微函数，使得对于所有$x \\in \\mathbb{R}$，$f^{\\prime \\prime}(x)>0$，且$f\\left(\\frac{1}{2}\\right)=\\frac{1}{2}$，$f(1)=1$，那么\n\n[A] $f^{\\prime}(1) \\leq 0$\n\n[B] $0<f^{\\prime}(1) \\leq \\frac{1}{2}$\n\n[C] $\\frac{1}{2}<f^{\\prime}(1) \\leq 1$\n\n[D] $f^{\\prime}(1)>1$"
+  },
+  {
+    "113": "对于从$\\{0,1,2\\}$中取值的$3 \\times 3$矩阵$M$，使得$M^{T} M$的对角线元素之和为5的矩阵有多少个？\n\n[A] 126\n\n[B] 198\n\n[C] 162\n\n[D] 135"
+  },
+  {
+    "114": "设$S=\\{1,2,3, \\ldots, 9\\}$。对于$k=1,2, \\ldots, 5$，令$N_{k}$为$S$的子集数量，每个子集包含五个元素，其中恰好$k$个是奇数。那么$N_{1}+N_{2}+N_{3}+N_{4}+N_{5}=$\n\n[A] 210\n\n[B] 252\n\n[C] 125\n\n[D] 126"
+  },
+  {
+    "115": "从三个随机选择的非负整数 $x, y$ 和 $z$ 满足方程 $x+y+z=10$。那么 $z$ 为偶数的概率是\n\n[A] $\\frac{36}{55}$\n\n[B] $\\frac{6}{11}$\n\n[C] $\\frac{1}{2}$\n\n[D] $\\frac{5}{11}$"
+  },
+  {
+    "116": "如果$f: \\mathbb{R} \\rightarrow \\mathbb{R}$是一个可微函数，满足对于所有$x \\in \\mathbb{R}$都有$f^{\\prime}(x)>2 f(x)$，且$f(0)=1$，那么\n\n[A] $f(x)$在$(0，\\infty)$上是增函数\n\n[B] $f(x)$在$(0，\\infty)$上是减函数\n\n[C] $f(x)>e^{2 x}$在$(0，\\infty)$上成立\n\n[D] $f^{\\prime}(x)<e^{2 x}$在$(0，\\infty)$上成立"
+  },
+  {
+    "117": "令 $f(x)=\\frac{1-x(1+|1-x|)}{|1-x|} \\cos \\left(\\frac{1}{1-x}\\right)$，当 $x \\neq 1$。那么\n\n[A] $\\lim _{x \\rightarrow 1^{-}} f(x)=0$\n\n[B] $\\lim _{x \\rightarrow 1^{-}} f(x)$ 不存在\n\n[C] $\\lim _{x \\rightarrow 1^{+}} f(x)=0$\n\n[D] $\\lim _{x \\rightarrow 1^{+}} f(x)$ 不存在"
+  },
+  {
+    "118": "如果$f(x)=\\left|\\begin{array}{ccc}\\cos (2 x) & \\cos (2 x) & \\sin (2 x) \\\\ -\\cos x & \\cos x & -\\sin x \\\\ \\sin x & \\sin x & \\cos x\\end{array}\\right|$，那么\n\n[A] $f^{\\prime}(x)=0$在$(-\\pi, \\pi)$内恰好三个点处\n\n[B] $f^{\\prime}(x)=0$在$(-\\pi, \\pi)$内多于三个点处\n\n[C] $f(x)$在$x=0$处取得最大值\n\n[D] $f(x)$在$x=0$处取得最小值"
+  },
+  {
+    "119": "如果以 $x=\\alpha$ 作为分隔线，将区域 $R=\\left\\{(x, y) \\in \\mathbb{R}^{2}: x^{3} \\leq y \\leq x, 0 \\leq x \\leq 1\\right\\}$ 分为两个相等的部分，则\n\n[A] $0<\\alpha \\leq \\frac{1}{2}$\n\n[B] $\\frac{1}{2}<\\alpha<1$\n\n[C] $\\quad 2 \\alpha^{4}-4 \\alpha^{2}+1=0$\n\n[D] $\\alpha^{4}+4 \\alpha^{2}-1=0$"
+  },
+  {
+    "120": "如果$I=\\sum_{k=1}^{98} \\int_{k}^{k+1} \\frac{k+1}{x(x+1)} d x$，那么\n\n[A] $I>\\log _{e} 99$\n\n[B] $I<\\log_{e} 99$\n\n[C] $I<\\frac{49}{50}$\n\n[D] $I>\\frac{49}{50}$"
+  },
+  {
+    "121": "质量为 $m$ 的粒子到固定点 $O$ 距离为 $r$ 时的势能为 $V(r)=\\frac{k r^{2}}{2}$，其中 $k$ 是适当维度的正常数。这个粒子围绕点 $O$ 作圆周运动，半径为 $R$。如果 $v$ 是粒子的速度，$L$ 是粒子绕 $O$ 点的角动量大小，则以下哪些陈述是真实的？\n\n(A) $v=\\sqrt{\\frac{k}{2 m}} R$\n\n(B) $v=\\sqrt{\\frac{k}{m}} R$\n\n(C) $L=\\sqrt{m k} R^{2}$\n\n(D) $L=\\sqrt{\\frac{m k}{2}} R^{2}$"
+  },
+  {
+    "122": "考虑一个质量为$1.0 \\mathrm{~kg}$的物体在$t=0$时刻静止在原点。施加在物体上的力为$\\vec{F}=(\\alpha t \\hat{i}+\\beta \\hat{j})$，其中$\\alpha=1.0 \\mathrm{Ns}^{-1}$且$\\beta=1.0 \\mathrm{~N}$。在$t=1.0 \\mathrm{~s}$时刻作用在物体上的力矩为$\\vec{\\tau}$。以下哪种说法是正确的？\n\n(A) $|\\vec{\\tau}|=\\frac{1}{3} N m$\n\n(B) 力矩$\\vec{\\tau}$的方向是单位矢量$+\\hat{k}$\n\n(C) 物体在$t=1$秒时的速度为$\\vec{v}=\\frac{1}{2}(\\hat{i}+2 \\hat{j}) m s^{-1}$\n\n(D) 物体在$t=1$秒时的位移大小为$\\frac{1}{6} m$"
+  },
+  {
+    "123": "一根内半径为$r$的均匀毛细管被垂直地插入到装满水的烧杯中。水在毛细管中上升到高度$h$，超出烧杯中水面。水的表面张力是$\\sigma$。水和毛细管壁之间的接触角为$\\theta$。忽略 meniscus 中水的质量。以下哪种说法是正确的？\n\n(A) 对于给定材料的毛细管，$h$ 随$r$的增加而减小\n\n(B) 对于给定材料的毛细管，$h$ 与$\\sigma$无关\n\n(C) 如果这个实验在一个不断加速上升的电梯中进行，则$h$ 减小\n\n(D) $h$ 与接触角$\\theta$成比例"
+  },
+  {
+    "124": "两根无限长的直导线位于$x y$平面上，沿着$x=\\pm R$这两条线。位于$x=+R$的导线载有恒定电流$I_{1}$，而位于$x=-R$的导线载有恒定电流$I_{2}$。一个半径为$R$的圆环悬浮在$(0,0,\\sqrt{3}R)$处，平行于$x y$平面。这个圆环载有恒定电流$I$，作为从上方观察时，它是顺时针方向的。如果导线中的电流是正的，那么此处所提到的磁场$\\vec{B}$哪些说法是正确的？\n\n(A) 如果$I_{1}=I_{2}$，那么$\\vec{B}$在原点$(0,0,0)$处不可能为零。\n\n(B) 如果$I_{1}>0$且$I_{2}<0$，那么$\\vec{B}$可以在原点$(0,0,0)$处为零。\n\n(C) 如果$I_{1}<0$且$I_{2}>0$，那么$\\vec{B}$可以在原点$(0,0,0)$处为零。\n\n(D) 如果$I_{1}=I_{2}$，那么在圆环中心点的磁场的$z$分量为$\\left(-\\frac{\\mu_{0} I}{2 R}\\right)$。"
+  },
+  {
+    "125": "两个向量$\\vec{A}$和$\\vec{B}$被定义为$\\vec{A}=a \\hat{i}$和$\\vec{B}=a(\\cos \\omega t \\hat{i}+\\sin \\omega t \\hat{j})$，其中$a$是一个常数，$\\omega=\\pi / 6 \\mathrm{rads}^{-1}$。如果在第一次时间$t=\\tau$时$|\\vec{A}+\\vec{B}|=\\sqrt{3}|\\vec{A}-\\vec{B}|$，求$\\tau$的值，单位是秒。"
+  },
+  {
+    "126": "两个男人沿着同一方向的水平直线行走。前面的人以$1.0 \\mathrm{~ms}^{-1}$的速度行走，后面的人以$2.0 \\mathrm{~m} \\mathrm{~s}^{-1}$的速度行走。第三个人站在与同一水平线相距$12 \\mathrm{~m}$的高度处，使得三个人都在垂直平面内。走动的两名男子吹着发出频率为$1430 \\mathrm{~Hz}$的相同口哨。空气中的声速为$330 \\mathrm{~m} \\mathrm{~s}^{-1}$。在那一刻，当移动的男人相距$10 \\mathrm{~m}$时，静止的男人与他们的距离相等。在这一时刻，静止的人听到的声音频率是多少$\\mathrm{Hz}$？"
+  },
+  {
+    "127": "一个圆环和一个圆盘最初静止放在倾斜角为$60^{\\circ}$的斜面顶部，斜面与水平面成$60^{\\circ}$角。它们同时开始沿着最短路径滚动而不滑动。如果它们到达地面之间的时间差是$(2-\\sqrt{3}) / \\sqrt{10}$秒，那么倾斜面顶部的高度是多少米？\n\n取$g=10 m s^{-2}$。"
+  },
+  {
+    "128": "光强为$1.3 \\mathrm{~kW} \\mathrm{~m}^{-2}$的阳光垂直入射到焦距为$20 \\mathrm{~cm}$的薄凸透镜上。忽略透镜对光线的能量损失，并假设透镜的光圈尺寸远小于其焦距。透镜另一侧距离$22 \\mathrm{~cm}$处的光线的平均光强是多少，单位为$\\mathrm{kW} \\mathrm{~m}^{-2}$？"
+  },
+  {
+    "129": "在$300^{\\circ} \\mathrm{C}$以下热分解生成$\\mathrm{N}_{2}$气体的化合物是\n\n(A) $\\mathrm{NH}_{4} \\mathrm{NO}_{3}$\n\n(B) $\\left(\\mathrm{NH}_{4}\\right)_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$\n\n(C) $\\mathrm{Ba}\\left(\\mathrm{N}_{3}\\right)_{2}$\n\n(D) $\\mathrm{Mg}_{3} \\mathrm{~N}_{2}$"
+  },
+  {
+    "130": "关于二元过渡金属羰基化合物的正确陈述是（原子序数：$\\mathrm{Fe}=26, \\mathrm{Ni}=28$）\n\n(A) 在 $\\mathrm{Fe}(\\mathrm{CO})_{5}$ 或 $\\mathrm{Ni}(\\mathrm{CO})_{4}$ 中，金属中心的总价壳电子数为16\n\n(B) 这些化合物主要是低自旋性质的\n\n(C) 当金属的氧化态降低时，金属-碳键变得更加牢固\n\n(D) 当金属的氧化态增加时，羰基 C-O 键变得较弱"
+  },
+  {
+    "131": "基于第15族元素的化合物，下列陈述正确的是\n\n(A) $\\mathrm{Bi}_{2} \\mathrm{O}_{5}$ 比 $\\mathrm{N}_{2} \\mathrm{O}_{5}$ 更碱性\n\n(B) $\\mathrm{NF}_{3}$ 比 $\\mathrm{BiF}_{3}$ 更共价性\n\n(C) $\\mathrm{PH}_{3}$ 沸点比 $\\mathrm{NH}_{3}$ 低\n\n(D) $\\mathrm{N}-\\mathrm{N}$ 单键比 $\\mathrm{P}-\\mathrm{P}$ 单键强。"
+  },
+  {
+    "132": "在下面给出的物种中，哪些是\\textbf{反磁性}物种的总数？\n\n$\\mathrm{H}$原子，$\\mathrm{NO}_{2}$单体，$\\mathrm{O}_{2}^{-}$(超氧化物)，蒸汽相中的二硫分子，\n\n$\\mathrm{Mn}_{3} \\mathrm{O}_{4},\\left(\\mathrm{NH}_{4}\\right)_{2}\\left[\\mathrm{FeCl}_{4}\\right],\\left(\\mathrm{NH}_{4}\\right)_{2}\\left[\\mathrm{NiCl}_{4}\\right], \\mathrm{K}_{2} \\mathrm{MnO}_{4}, \\mathrm{~K}_{2} \\mathrm{CrO}_{4}$"
+  },
+  {
+    "133": "通过用氢氧化钙处理硫酸铵制备的氨完全被$\\mathrm{NiCl}_{2} \\cdot 6 \\mathrm{H}_{2} \\mathrm{O}$使用，形成一个稳定的配位化合物。假设两个反应均为$100 \\%$完全。如果在制备过程中使用了$1584 \\mathrm{~g}$硫酸铵和$952 \\mathrm{~g}$的$\\mathrm{NiCl}_{2} .6 \\mathrm{H}_{2} \\mathrm{O}$，那么生成的石膏和镍铵配位化合物的总重量（以克为单位）是多少？\n\n（元素的摩尔质量，单位为$\\mathrm{g} \\mathrm{mol}^{-1}$：$\\mathrm{H}=1, \\mathrm{~N}=14, \\mathrm{O}=16, \\mathrm{~S}=32, \\mathrm{Cl}=35.5, \\mathrm{Ca}=40, \\mathrm{Ni}=59$）"
+  },
+  {
+    "134": "考虑一个具有$\\mathrm{NaCl}$ 结构的离子固体 $\\mathbf{M X}$。根据以下顺序指令构建一个新的结构 (Z)，其晶胞是由 $\\mathbf{M X}$ 的晶胞构成的。忽略电荷平衡。\n\n(i) 移除除中心外的所有阴离子（X）\n\n(ii) 将所有面心的阳离子（M）替换为阴离子（X）\n\n(iii) 移除所有角落的阳离子（M）\n\n(iv) 将中心阴离子（X）替换为阳离子（M）\n\n在 $\\mathbf{Z}$ 中，$\\left(\\frac{\\text { number of anions }}{\\text { number of cations }}\\right)$ 的值是多少？"
+  },
+  {
+    "135": "对于电化学电池，\n\n\\[\n\\operatorname{Mg}(\\mathrm{s})\\left|\\mathrm{Mg}^{2+}(\\mathrm{aq}, 1 \\mathrm{M}) \\| \\mathrm{Cu}^{2+}(\\mathrm{aq}, 1 \\mathrm{M})\\right| \\mathrm{Cu}(\\mathrm{s})\n\\]\n\n该电池的标准电动势为 $2.70 \\mathrm{~V}$，温度为 $300 \\mathrm{~K}$。将 $\\mathrm{Mg}^{2+}$ 浓度改变为 $\\boldsymbol{x} \\mathrm{M}$ 后，电池电势在 $300 \\mathrm{~K}$ 下变为 $2.67 \\mathrm{~V}$。求 $\\boldsymbol{x}$ 的值。\n\n（已知，$\\frac{F}{R}=11500 \\mathrm{~K} \\mathrm{~V}^{-1}$，其中 $F$ 为法拉第常数、$R$ 为气体常数，$\\ln (10)=2.30)$"
+  },
+  {
+    "136": "液体 $\\mathbf{A}$ 和 $\\mathbf{B}$ 在整个组成范围内形成理想溶液。在温度 $\\mathrm{T}$ 下，液体 $\\mathbf{A}$ 和 $\\mathbf{B}$ 的等摩尔二元溶液的蒸气压为45 Torr。在相同温度下，具有摩尔分数分别为 $x_{A}$ 和 $x_{B}$ 的新溶液 $\\mathbf{A}$ 和 $\\mathbf{B}$ 的蒸气压为22.5 Torr。在新溶液中 $x_{A} / x_{B}$ 的值是多少？（已知在温度 $\\mathrm{T}$ 下液体 $\\mathbf{A}$ 的纯蒸气压为20 Torr）"
+  },
+  {
+    "137": "弱酸盐（AB）在$\\mathrm{pH} 3$时的溶解度为$\\mathbf{Y} \\times 10^{-3} \\mathrm{~mol} \\mathrm{~L}^{-1}$。求$\\mathbf{Y}$的值（已知$\\mathbf{A B}\\left(K_{s p}\\right)=2 \\times 10^{-10}$，$\\left.\\mathbf{H B}\\left(K_{a}\\right)=1 \\times 10^{-8}\\right)$。"
+  },
+  {
+    "138": "对于非零复数 $z$，记 $\\arg (z)$ 为主幅角，其中 $-\\pi<\\arg (z) \\leq \\pi$。那么，以下哪个陈述是错误的？\n\n\\end{itemize}\n\n(A) $\\arg (-1-i)=\\frac{\\pi}{4}$，其中 $i=\\sqrt{-1}$\n\n(B) 函数 $f: \\mathbb{R} \\rightarrow (-\\pi, \\pi]$，定义为 $f(t)=\\arg (-1+i t)$，对于所有 $t \\in \\mathbb{R}$，在 $\\mathbb{R}$ 的所有点上连续，其中 $i=\\sqrt{-1}$\n\n(C) 对于任意两个非零复数 $z_{1}$ 和 $z_{2}$，\n\n\\[\n\\arg \\left(\\frac{z_{1}}{z_{2}}\\right)-\\arg \\left(z_{1}\\right)+\\arg \\left(z_{2}\\right)\n\\]\n\n是 $2 \\pi$ 的整数倍\n\n(D) 对于给定的三个不同复数 $z_{1}, z_{2}$ 和 $z_{3}$，满足条件的点 $z$ 的轨迹为\n\n\\[\n\\arg \\left(\\frac{\\left(z-z_{1}\\right)\\left(z_{2}-z_{3}\\right)}{\\left(z-z_{3}\\right)\\left(z_{2}-z_{1}\\right)}\\right)=\\pi\n\\]\n\n在一条直线上"
+  },
+  {
+    "139": "在三角形$PQR$中，设$\\angle PQR=30^{\\circ}$，边$PQ$和$QR$的长度分别为$10\\sqrt{3}$和10。那么，以下哪个陈述是正确的？\n\n(A) $\\angle QPR=45^{\\circ}$\n\n(B) 三角形$PQR$的面积为$25\\sqrt{3}$，且$\\angle QRP=120^{\\circ}$\n\n(C) 三角形$PQR$的内切圆的半径为$10\\sqrt{3}-15$\n\n(D) 三角形$PQR$外接圆的面积为$100\\pi$"
+  },
+  {
+    "140": "设$P_{1}: 2x+y-z=3$和$P_{2}: x+2y+z=2$是两个平面。那么下列哪种说法是正确的？\n\n（A）$P_{1}$和$P_{2}$的交线的方向比是$1,2,-1$\n\n（B）直线\n\n\\[\n\\frac{3x-4}{9}=\\frac{1-3y}{9}=\\frac{z}{3}\n\\]\n\n与$P_{1}$和$P_{2}$的交线垂直\n\n（C）$P_{1}$和$P_{2}$之间的锐角是$60^{\\circ}$\n\n（D）如果$P_{3}$是穿过点$(4,2,-2)$且垂直于$P_{1}$和$P_{2}$的交线的平面，则点$(2,1,1)$到平面$P_{3}$的距离为$\\frac{2}{\\sqrt{3}}$"
+  },
+  {
+    "141": "对于每一个两次可微的函数 $f: \\mathbb{R} \\rightarrow[-2,2]$，其中 $(f(0))^{2}+\\left(f^{\\prime}(0)\\right)^{2}=85$，以下哪个陈述是正确的？\n\n(A) 存在 $r, s \\in \\mathbb{R}$，其中 $r<s$，使得 $f$ 在开区间 $(r, s)$ 上是单调的\n\n(B) 存在 $x_{0} \\in(-4,0)$，使得 $\\left|f^{\\prime}\\left(x_{0}\\right)\\right| \\leq 1$\n\n(C) $\\lim _{x \\rightarrow \\infty} f(x)=1$\n\n(D) 存在 $\\alpha \\in(-4,4)$，使得 $f(\\alpha)+f^{\\prime \\prime}(\\alpha)=0$ 且 $f^{\\prime}(\\alpha) \\neq 0$"
+  },
+  {
+    "142": "让$f: \\mathbb{R} \\rightarrow \\mathbb{R}$和$g: \\mathbb{R} \\rightarrow \\mathbb{R}$为两个非常数可微函数。如果\n\n\\[\nf^{\\prime}(x)=\\left(e^{(f(x)-g(x))}\\right) g^{\\prime}(x) \\text { 对所有 } x \\in \\mathbb{R}\n\\]\n\n并且$f(1)=g(2)=1$，那么以下哪个陈述是正确的？\n\n(A) $f(2)<1-\\log _{\\mathrm{e}} 2$\n\n(B) $f(2)>1-\\log _{\\mathrm{e}} 2$\n\n(C) $g(1)>1-\\log _{\\mathrm{e}} 2$\n\n(D) $g(1)<1-\\log _{\\mathrm{e}} 2$"
+  },
+  {
+    "143": "这个表达式的值是多少？\n\n\\[\n\\left(\\left(\\log _{2} 9\\right)^{2}\\right)^{\\frac{1}{\\log _{2}\\left(\\log _{2} 9\\right)}} \\times(\\sqrt{7})^{\\frac{1}{\\log _{4} 7}}\n\\]"
+  },
+  {
+    "144": "5位数中可被4整除且数字来自集合 $\\{1,2,3,4,5\\}$ 且可以重复数字的数的个数是多少？"
+  },
+  {
+    "145": "令$X$为等差数列$1,6,11, \\ldots$的前2018个项组成的集合，$Y$为等差数列$9,16,23, \\ldots$的前2018个项组成的集合。那么，集合$X \\cup Y$中元素的个数是多少？"
+  },
+  {
+    "146": "该等式有多少实数解落在区间$\\left(-\\frac{1}{2}, \\frac{1}{2}\\right)$内为\n\n（这里，反三角函数$\\sin^{-1} x$和$\\cos^{-1} x$的取值范围分别为$\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right]$和$[0, \\pi]$。）"
+  },
+  {
+    "147": "对于每个正整数 $n$，设\n\n\\[\ny_{n}=\\frac{1}{n}((n+1)(n+2) \\cdots(n+n))^{\\frac{1}{n}}\n\\]\n\n对于 $x \\in \\mathbb{R}$，设 $[x]$ 是小于等于 $x$ 的最大整数。如果 $\\lim _{n \\rightarrow \\infty} y_{n}=L$，那么 $[L]$ 的值是多少？"
+  },
+  {
+    "148": "让 $\\vec{a}$ 和 $\\vec{b}$ 为两个单位向量，使得 $\\vec{a} \\cdot \\vec{b}=0$。对于一些 $x, y \\in \\mathbb{R}$，令 $\\vec{c}=x \\vec{a}+y \\vec{b}+(\\vec{a} \\times \\vec{b})$。如果 $|\\vec{c}|=2$，且向量 $\\vec{c}$ 与向量 $\\vec{a}$ 和 $\\vec{b}$ 都倾斜相同的角度 $\\alpha$，那么 $8 \\cos ^{2} \\alpha$ 的值是多少？"
+  },
+  {
+    "149": "设$a, b, c$是三个非零实数，满足方程\n\n\\[\n\\sqrt{3} a \\cos x+2 b \\sin x=c, x \\in\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right]\n\\]\n\n有两个不同的实根$\\alpha$和$\\beta$，且$\\alpha+\\beta=\\frac{\\pi}{3}$。那么，$\\frac{b}{a}$的值是多少？"
+  },
+  {
+    "150": "一个农民 $F_{1}$ 拥有一个三角形形状的土地，顶点在 $P(0,0)$，$Q(1,1)$ 和 $R(2,0)$。从这块土地中，一个邻近的农民 $F_{2}$ 拿走了在边 $P Q$ 和形式为 $y=x^{n}(n>1)$ 的曲线之间的区域。如果被农民 $F_{2}$ 拿走的区域的面积恰好是三角形 $P Q R$ 面积的 $30 \\%$，那么 $n$ 的值是多少？"
+  },
+  {
+    "151": "一个质量为 $m$ 的粒子最初静止在原点。它受到一个力的作用并沿着 $x$ 轴开始运动。它的动能 $K$ 随时间变化为 $dK/dt = \\gamma t$，其中 $\\gamma$ 是一个适当尺度的正常数。以下哪种说法是正确的？\n\n(A) 作用在粒子上的力是恒定的。\n\n(B) 粒子的速度与时间成比例。\n\n(C) 粒子到原点的距离随着时间线性增加。\n\n(D) 力是保守的。"
+  },
+  {
+    "152": "考虑一个浮在大容器中粘性液体上的薄方形板。容器中液体的高度$h$远小于容器的宽度。浮动的板以恒定速度$u_{0}$水平拉动。以下哪个说法是正确的？\n\n(A) 液体对板的阻力与$h$成反比\n\n(B) 液体对板的阻力与板的面积无关\n\n(C) 容器底部的切向（剪切）应力随$u_{0}$增加\n\n(D) 板上的切向（剪切）应力与液体的粘度$\\eta$线性变化"
+  },
+  {
+    "153": "在一个放射性衰变链中，${ }_{90}^{232} \\mathrm{Th}$核衰变成${ }_{82}^{212} \\mathrm{~Pb}$核。设$N_{\\alpha}$和$N_{\\beta}$分别表示在这个衰变过程中发射的$\\alpha$和$\\beta^{-}$粒子的数量。以下哪个陈述是正确的？\n\n(A) $N_{\\alpha}=5$\n\n(B) $N_{\\alpha}=6$\n\n(C) $N_{\\beta}=2$\n\n(D) $N_{\\beta}=4$"
+  },
+  {
+    "154": "在通过共鸣气柱来测量声音速度的实验中，使用了频率为$500\\mathrm{~Hz}$的音叉。通过改变共鸣管中水的水平来改变气柱的长度。在长度分别为$50.7\\mathrm{~cm}$和$83.9\\mathrm{~cm}$时听到了两次连续的共鸣。以下哪种说法是正确的？\n\n(A) 从这个实验中确定的声速为$332\\mathrm{~ms}^{-1}$\n\n(B) 这个实验中的端校正值为$0.9\\mathrm{~cm}$\n\n(C) 声波的波长为$66.4\\mathrm{~cm}$\n\n(D) $50.7\\mathrm{~cm}$处的共鸣对应于基波Harmonic"
+  },
+  {
+    "155": "一个固体水平表面上覆盖着一层薄薄的油。一块质量为$m=0.4\\mathrm{~kg}$的矩形块静止在这个表面上。在时间$t=0$时对这个块施加一个冲量$1.0\\mathrm{~N}$，使其沿着$x$轴以速度$v(t)=v_{0}e^{-t/\\tau}$移动，其中$v_{0}$是一个常数，$\\tau=4\\mathrm{~s}$。在$t=\\tau$时，该块的位移是多少米？取$e^{-1}=0.37$。"
+  },
+  {
+    "156": "一个球以与水平面$45^{\\circ}$的角度从地面发射。它达到$120 \\mathrm{~m}$的最大高度然后返回地面。第一次击中地面时，它失去了一半的动能。弹跳后，球的速度与水平面成$30^{\\circ}$的角度。在弹跳后，它达到的最大高度是多少米？"
+  },
+  {
+    "157": "一粒质量为 $10^{-3} \\mathrm{~kg}$，电荷为 $1.0 \\mathrm{C}$ 的粒子最初静止。在 $t=0$ 时刻，这粒子受到电场 $\\vec{E}(t)=E_{0} \\sin \\omega t \\hat{i}$ 的影响，其中 $E_{0}=1.0 \\mathrm{~N}^{-1}$ 且 $\\omega=10^{3} \\mathrm{rad} \\mathrm{s}^{-1}$。考虑只有电场力对粒子的影响。那么在随后的时刻，这粒子达到的最大速度是多少，单位为 $m s^{-1}$？"
+  },
+  {
+    "158": "一只可动线圈电流计有50个匝数，每个匝数的面积为$2 \\times 10^{-4}\\mathrm{~m}^{2}$。电流计内部的磁铁产生的磁场为$0.02\\mathrm{~T}$。悬挂线的扭转常数为$10^{-4}\\mathrm{~N}\\mathrm{~m}\\mathrm{~rad}^{-1}$。当电流通过电流计时，如果线圈旋转$0.2\\mathrm{~rad}$，则会出现满刻度偏转。电流计线圈的电阻为$50\\Omega$。现在要将这个电流计转换为一个能够测量$0-1.0\\mathrm{~A}$范围内电流的电流表。为此，需要在电流计的并联位置上添加一个分流电阻。这个分流电阻的值是多少欧姆？"
+  },
+  {
+    "159": "一根直径为$0.5 \\mathrm{~mm}$，杨氏模量为$2 \\times 10^{11} \\mathrm{~N} \\mathrm{~m}^{-2}$ 的钢丝承载质量为$M$。带有负载的钢丝的长度为$1.0 \\mathrm{~m}$。一个螺旋尺有$10$个刻度，固定在这根钢丝的末端。钢丝旁边是一个参考线，附有一个主刻度，最小读数为$1.0 \\mathrm{~mm}$。螺旋尺的$10$个刻度对应主刻度的$9$个刻度。最初，螺旋尺的零点与主刻度的零点重合。如果增加$1.2 \\mathrm{~kg}$的负载在钢丝上，则螺旋尺上哪个刻度与主尺刻度重合？取$g=10 \\mathrm{~ms}^{-2}$，$\\pi=3.2$。"
+  },
+  {
+    "160": "一个摩尔的单原子理想气体经历了绝热膨胀，从而使其体积增加为初始值的八倍。如果气体的初始温度为$100 \\mathrm{~K}$，通用气体常数$R=8.0 \\mathrm{~J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$，那么它的内能减少是多少焦耳？"
+  },
+  {
+    "161": "在一个光电实验中，一束功率为$200\\mathrm{~W}$的单色光平行入射到一个工作函数为$6.25\\mathrm{eV}$的完全吸收阴极上。光的频率刚好高于阈频，因此光电子被发射时具有可以忽略不计的动能。假设光电子发射效率为$100\\%$。在阴极和阳极之间施加了$500\\mathrm{~V}$的电位差。所有发射的电子垂直入射到阳极并被吸收。阳极由于电子的撞击而受到一个力$F=n \\times 10^{-4}\\mathrm{N}$。求$n$的值。\n\n电子质量$m_{e}=9 \\times 10^{-31}\\mathrm{~kg}$，$1.0\\mathrm{eV}=1.6 \\times 10^{-19}\\mathrm{~J}$。"
+  },
+  {
+    "162": "考虑一个原子序数为$Z$，只有一个电子的氢原子离子态。在这个原子的发射光谱中，$n=2$到$n=1$跃迁中发射的光子比$n=3$到$n=2$跃迁中发射的光子能量高$74.8 \\mathrm{eV}$。氢原子的电离能为$13.6 \\mathrm{eV}$。求$Z$的值。"
+  },
+  {
+    "163": "关于配合物 $\\left[\\mathrm{Co}(\\mathrm{en})\\left(\\mathrm{NH}_{3}\\right)_{3}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)\\right]^{3+}$（其中 en $=\\mathrm{H}_{2} \\mathrm{NCH}_{2} \\mathrm{CH}_{2} \\mathrm{NH}_{2}$ ），正确的选项是\n\n(A) 它有两个几何异构体\n\n(B) 如果双齿配体'en'被两个氰化物配体取代，将有三个几何异构体\n\n(C) 它是顺磁性的\n\n(D) 与 $\\left[\\mathrm{Co}(\\mathrm{en})\\left(\\mathrm{NH}_{3}\\right)_{4}\\right]^{3+}$ 相比，它在波长较长的光线处吸收光线"
+  },
+  {
+    "164": "正确的区分$\\mathrm{Mn}^{2+}$和$\\mathrm{Cu}^{2+}$硝酸盐的选项是：\n\n(A) $\\mathrm{Mn}^{2+}$在火焰试验中显示特征性的绿色\n\n(B) 只有$\\mathrm{Cu}^{2+}$在酸性介质中通过通入$\\mathrm{H}_{2} \\mathrm{~S}$生成沉淀\n\n(C) 只有$\\mathrm{Mn}^{2+}$在微弱碱性介质中通过通入$\\mathrm{H}_{2} \\mathrm{~S}$生成沉淀\n\n(D) $\\mathrm{Cu}^{2+} / \\mathrm{Cu}$的还原电位高于$\\mathrm{Mn}^{2+} / \\mathrm{Mn}$ （在相似条件下测量）"
+  },
+  {
+    "165": "在下列分子中，至少有一个桥氧基团的化合物总数是多少？\n\n$\\mathrm{N}_{2} \\mathrm{O}_{3}, \\mathrm{~N}_{2} \\mathrm{O}_{5}, \\mathrm{P}_{4} \\mathrm{O}_{6}, \\mathrm{P}_{4} \\mathrm{O}_{7}, \\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{5}, \\mathrm{H}_{5} \\mathrm{P}_{3} \\mathrm{O}_{10}, \\mathrm{H}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{3}, \\mathrm{H}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{5}$"
+  },
+  {
+    "166": "用高温通入空气部分氧化方铅矿（一种矿石）。一段时间后，停止通入空气，但在封闭炉中继续加热，使其中物质发生自还原。每消耗1千克$\\mathrm{O}_{2}$，产生多少千克$\\mathrm{Pb}$？\n\n（原子量以$\\mathrm{g}\\ \\mathrm{mol}^{-1}$计算：$\\mathrm{O}=16$，$\\mathrm{S}=32$，$\\mathrm{Pb}=207$）"
+  },
+  {
+    "167": "测量$\\mathrm{MnCl}_{2}$在水溶液中的数量，它被完全转化成$\\mathrm{KMnO}_{4}$，反应如下：$\\mathrm{MnCl}_{2}+\\mathrm{K}_{2}\\mathrm{~S}_{2}\\mathrm{O}_{8}+\\mathrm{H}_{2}\\mathrm{O}\\rightarrow\\mathrm{KMnO}_{4}+\\mathrm{H}_{2}\\mathrm{SO}_{4}+\\mathrm{HCl}$（方程式未平衡）。\n\n在这个溶液中加入几滴浓盐酸，并轻轻加热。进一步地，逐步加入草酸（225毫克），直到高锰酸根离子的颜色消失。初始溶液中$\\mathrm{MnCl}_{2}$的数量（以$\\mathrm{mg}$计）为\n\n（元素的相对原子质量：$\\mathrm{Mn}=55, \\mathrm{Cl}=35.5$）"
+  },
+  {
+    "168": "铜表面会因为铜氧化物的形成而变得氧化。在$1250\\mathrm{~K}$加热铜时，通过通入$\\mathrm{N}_{2}$气体来防止氧化物的形成。然而，$\\mathrm{N}_{2}$气体中含有$1$摩尔$\\%$的水蒸气作为杂质。水蒸气会按照以下反应氧化铜：\n\n$2 \\mathrm{Cu}(\\mathrm{s})+\\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) \\rightarrow \\mathrm{Cu}_{2} \\mathrm{O}(\\mathrm{s})+\\mathrm{H}_{2}(\\mathrm{~g})$\n\n$p_{\\mathrm{H}_{2}}$是在$1250\\mathrm{~K}$防止氧化所需的最小$\\mathrm{H}_{2}$的分压（单位为巴）。$\\ln \\left(p_{\\mathrm{H}_{2}}\\right)$的值是多少？\n\n（已知：总压力$=1$巴，$R$（普适气体常数）$=8\\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$，$\\ln (10)=2.3$，铜（$\\mathrm{s}$）和氧化铜（$\\mathrm{Cu}_{2} \\mathrm{O}(\\mathrm{s})$）是不可混合的。\n\n在$1250\\mathrm{~K}$：$2 \\mathrm{Cu}(\\mathrm{s})+1/2 \\mathrm{O}_{2}(\\mathrm{~g}) \\rightarrow \\mathrm{Cu}_{2} \\mathrm{O}(\\mathrm{s}) ; \\Delta G^{\\theta}=-78,000 \\mathrm{~J} \\mathrm{~mol}^{-1}$\n\n\\[\n\\mathrm{H}_{2}(\\mathrm{~g})+1/2 \\mathrm{O}_{2}(\\mathrm{~g}) \\rightarrow \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) ; \\quad \\Delta G^{\\theta}=-1,78,000 \\mathrm{~J} \\mathrm{~mol}^{-1} ; G \\text { is the Gibbs energy) }\n\\]"
+  },
+  {
+    "169": "考虑以下可逆反应，\n\n\\[\n\\mathrm{A}(\\mathrm{g})+\\mathrm{B}(\\mathrm{g}) \\rightleftharpoons \\mathrm{AB}(\\mathrm{g})\n\\]\n\n反向反应的活化能比正向反应高$2 R T$（单位为$\\mathrm{J} \\mathrm{mol}^{-1}$）。如果正向反应的预指数因子是反向反应的4倍，那么在$300 \\mathrm{~K}$下，反应的$\\Delta G^{\\theta}$的绝对值是多少（单位为$\\mathrm{J} \\mathrm{mol}^{-1}$）？\n\n（已知；$\\ln(2)=0.7, R T=2500 \\mathrm{~J} \\mathrm{~mol}^{-1}$，在$300 \\mathrm{~K}$下，$G$是吉布斯能量）"
+  },
+  {
+    "170": "考虑一个电化学电池：$\\mathrm{A}(\\mathrm{s})\\left|\\mathrm{A}^{\\mathrm{n}+}(\\mathrm{aq}, 2 \\mathrm{M}) \\| \\mathrm{B}^{2 \\mathrm{n}+}(\\mathrm{aq}, 1 \\mathrm{M})\\right| \\mathrm{B}(\\mathrm{s})$。在 $300 \\mathrm{~K}$ 时，电池反应的 $\\Delta H^{\\theta}$ 值是 $\\Delta G^{\\theta}$ 的两倍。如果电池的电动势为零，那么在 $300 \\mathrm{~K}$ 时，每摩尔 $\\mathrm{B}$ 形成的电池反应的 $\\Delta S^{\\ominus}$（单位为 $\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$）是多少？\n\n（已知：$\\ln (2)=0.7, R$（普适气体常数）$=8.3 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1} . H, S$ 和 $G$ 分别为焓、熵和吉布斯自由能。）"
+  },
+  {
+    "171": "对于任意正整数 $n$，将 $f_{n}:(0, \\infty) \\rightarrow \\mathbb{R}$ 定义为\n\n\\[\nf_{n}(x)=\\sum_{j=1}^{n} \\tan ^{-1}\\left(\\frac{1}{1+(x+j)(x+j-1)}\\right) \\text { 对所有 } x \\in(0, \\infty)\n\\]\n\n（这里，反三角函数 $\\tan ^{-1} x$ 取值在 $\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$ 之间。）那么，以下哪种说法是正确的？\n\n(A) $\\sum_{j=1}^{5} \\tan ^{2}\\left(f_{j}(0)\\right)=55$\n\n(B) $\\sum_{j=1}^{10}\\left(1+f_{j}^{\\prime}(0)\\right) \\sec ^{2}\\left(f_{j}(0)\\right)=10$\n\n(C) 对于任意固定的正整数 $n, \\lim _{x \\rightarrow \\infty} \\tan \\left(f_{n}(x)\\right)=\\frac{1}{n}$\n\n(D) 对于任意固定的正整数 $n$，$\\lim _{x \\rightarrow \\infty} \\sec ^{2}\\left(f_{n}(x)\\right)=1$"
+  },
+  {
+    "172": "假设$s, t, r$是非零复数，$L$是方程$s z+t \\bar{z}+r=0$的解集，其中$z=x+i y$ $(x, y \\in \\mathbb{R}, i=\\sqrt{-1})$。那么以下哪个陈述是正确的？\n\n(A) 如果$L$只有一个元素，则$|s| \\neq |t|$\n\n(B) 如果$|s|=|t|$，则$L$有无限多个元素\n\n(C) $L \\cap\\{z:|z-1+i|=5\\}$中元素的数量最多为2\n\n(D) 如果$L$有多于一个元素，则$L$有无限多个元素"
+  },
+  {
+    "173": "这个积分的值是\n\n\\[\n\\int_{0}^{\\frac{1}{2}} \\frac{1+\\sqrt{3}}{\\left((x+1)^{2}(1-x)^{6}\\right)^{\\frac{1}{4}}} \\, dx\n\\]"
+  },
+  {
+    "174": "设$P$是一个$3 \\times 3$阶的矩阵，其中所有元素取自集合$\\{-1,0,1\\}$。那么，$P$的行列式的最大可能值是多少？"
+  },
+  {
+    "175": "设$X$是一个恰好有5个元素的集合，$Y$是一个恰好有7个元素的集合。如果$\\alpha$是从$X$到$Y$的一一对应函数的数量，$\\beta$是从$Y$到$X$的满射函数的数量，那么$\\frac{1}{5!}(\\beta - \\alpha)$的值是多少？"
+  },
+  {
+    "176": "设 $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ 是一个可微函数，且 $f(0)=0$。如果 $y=f(x)$ 满足微分方程\n\n\\[\n\\frac{d y}{d x} = (2+5y)(5y-2)\n\\]\n\n那么当 $x \\rightarrow -\\infty$ 时，$\\lim_{x \\rightarrow-\\infty} f(x)$ 的值是多少？"
+  },
+  {
+    "177": "设$f:\\mathbb{R} \\rightarrow \\mathbb{R}$是一个可微函数，且$f(0)=1$，满足以下的方程：\n\n\\[\nf(x+y)=f(x) f^{\\prime}(y)+f^{\\prime}(x) f(y) \\text{对所有} x, y \\in \\mathbb{R} .\n\\]\n\n那么，$\\log_{e}(f(4))$的值为多少？"
+  },
+  {
+    "178": "设$P$是第一象限内的一个点，它在平面$x+y=3$上的映射点$Q$（也就是线段$PQ$垂直于平面$x+y=3$，且$PQ$的中点位于平面$x+y=3$上），$Q$位于$z$轴上。设$P$到$x$轴的距离为5。如果$R$是$P$在$x y$平面上的映射点，那么$PR$的长度是多少？"
+  },
+  {
+    "179": "考虑第一卦限内的立方体，具有边长为1的边$OP, OQ$和$OR$，沿$x$轴，$y$轴和$z$轴，其中$O(0,0,0)$是原点。设$S\\left(\\frac{1}{2}, \\frac{1}{2}, \\frac{1}{2}\\right)$是立方体的中心，$T$是立方体顶点，与原点$O$相对，$S$位于对角线$OT$上。如果$\\vec{p}=\\overrightarrow{SP}$，$\\vec{q}=\\overrightarrow{SQ}$，$\\vec{r}=\\overrightarrow{SR}$和$\\vec{t}=\\overrightarrow{ST}$，那么$|(\\vec{p} \\times \\vec{q}) \\times(\\vec{r} \\times \\vec{t})|$的值是多少？"
+  },
+  {
+    "180": "让\n\n\\[\nX=\\left({ }^{10} C_{1}\\right)^{2}+2\\left({ }^{10} C_{2}\\right)^{2}+3\\left({ }^{10} C_{3}\\right)^{2}+\\cdots+10\\left({ }^{10} C_{10}\\right)^{2}\n\\]\n\n其中 ${ }^{10} C_{r}, r \\in\\{1,2, \\cdots, 10\\}$ 代表二项式系数。那么，$\\frac{1}{1430} X$ 的值是多少？"
+  },
+  {
+    "181": "考虑一个质量密度为 $\\rho(r)$ 的球形气体云，在自由空间中，其中 $r$ 是距离其中心的径向距离。气体云由质量相等的粒子组成，这些粒子围绕共同中心以相同的动能 $K$ 进行圆形轨道运动。作用在粒子上的力是它们之间的引力。如果 $\\rho(r)$ 随时间恒定，粒子数密度 $n(r)=\\rho(r) / m$ 为\n\n[$G$ 是普遍引力常数]\n\n(A) $\\frac{K}{2 \\pi r^{2} m^{2} G}$\n\n(B) $\\frac{K}{\\pi r^{2} m^{2} G}$\n\n(C) $\\frac{3 K}{\\pi r^{2} m^{2} G}$\n\n(D) $\\frac{K}{6 \\pi r^{2} m^{2} G}$"
+  },
+  {
+    "182": "半径为$R$的薄球形绝缘壳带有均匀分布的电荷，使其表面的电势为$V_{0}$。在壳体上制造了一个面积很小的孔$\\alpha 4 \\pi R^{2}(\\alpha \\ll 1)$，而不影响壳体的其他部分。以下哪种说法是正确的？\n\n(A) 在壳体中心的电势降低了$2 \\alpha V_{0}$\n\n(B) 在壳体中心的电场强度的大小减小了$\\frac{\\alpha V_{0}}{2 R}$\n\n(C) 在壳体中心的电势与从中心指向孔洞一半半径处点的电势之比将是$\\frac{1-\\alpha}{1-2 \\alpha}$\n\n(D) 在通过孔和壳体中心的直线上距离壳体中心$2 R$处的点处，电场强度的大小减小了$\\frac{\\alpha V_{0}}{2 R}$"
+  },
+  {
+    "183": "一根电流载流的导线加热了一根金属棒。导线向金属棒提供恒定功率$(P)$。金属棒被封装在一个绝缘容器中。观察到金属棒中的温度$(T)$随时间$(t)$变化为\n\n\\[\nT(t)=T_{0}\\left(1+\\beta t^{\\frac{1}{4}}\\right)\n\\]\n\n其中$\\beta$是一个带有适当单位的常数，$T_{0}$是温度单位的常数。金属的比热容为\n\n(A) $\\frac{4 P\\left(T(t)-T_{0}\\right)^{3}}{\\beta^{4} T_{0}^{4}}$\n\n(B) $\\frac{4 P\\left(T(t)-T_{0}\\right)^{4}}{\\beta^{4} T_{0}^{5}}$\n\n(C) $\\frac{4 P\\left(T(t)-T_{0}\\right)^{2}}{\\beta^{4} T_{0}^{3}}$\n\n(D) $\\frac{4 P\\left(T(t)-T_{0}\\right)}{\\beta^{4} T_{0}^{2}}$"
+  },
+  {
+    "184": "在一个放射性样品中，${ }_{19}^{40} \\mathrm{~K}$核子会以每年 $4.5 \\times 10^{-10}$ 的衰变常数衰变为稳定的 ${ }_{20}^{40} \\mathrm{Ca}$ 核子，或者以每年 $0.5 \\times 10^{-10}$ 的衰变常数衰变为稳定的 ${ }_{18}^{40} \\mathrm{Ar}$ 核子。已知在这个样品中，所有稳定的 ${ }_{20}^{40} \\mathrm{Ca}$ 和 ${ }_{18}^{40} \\mathrm{Ar}$ 核子都是由 ${ }_{19}^{40} \\mathrm{~K}$ 核子产生的。在时间 $t \\times 10^{9}$ 年内，如果稳定的 ${ }_{20}^{40} \\mathrm{Ca}$ 和 ${ }_{18}^{40} \\mathrm{Ar}$ 核子总数与放射性 ${ }_{19}^{40} \\mathrm{~K}$ 核子数的比值为 99，则 $t$ 的值为，\n\n[已知：$\\ln 10=2.3]$\n\n(A) 1.15\n\n(B) 9.2\n\n(C) 2.3\n\n(D) 4.6"
+  },
+  {
+    "185": "一个半径为$R$的带电外壳携带总电荷$Q$。假设$\\Phi$是通过高度为$h$、半径为$r$、中心与外壳相同的闭合圆柱面的电场通量。这里，圆柱体的中心是圆柱体轴线上的一个点，该点与其顶部和底部表面等距。以下选项中哪个/哪些是正确的？\n\n$\\left[\\epsilon_{0}\\right.$ 是自由空间的介电常数]\n\n(A) 如果$h>2 R$且$r>R$，那么$\\Phi=\\mathrm{Q} / \\epsilon_{0}$\n\n(B) 如果$h<8 R / 5$且$r=3 R / 5$，那么$\\Phi=0$\n\n(C) 如果$h>2 R$且$r=3 R / 5$，那么$\\Phi=Q / 5 \\epsilon_{0}$\n\n(D) 如果$h>2 R$且$r=4 R / 5$，那么$\\Phi=\\mathrm{Q} / 5 \\epsilon_{0}$"
+  },
+  {
+    "186": "让我们考虑一个以质量和角动量为无量纲的单位制。若长度的量纲为$L$，以下哪个命题是正确的？\n\n(A) 线性动量的量纲为$L^{-1}$。\n\n(B) 能量的量纲为$L^{-2}$。\n\n(C) 力的量纲为$L^{-3}$。\n\n(D) 功率的量纲为$L^{-5}$。"
+  },
+  {
+    "187": "两个相同的移动线圈电流表具有$10 \\Omega$ 电阻，并且在 $2 \\mu \\mathrm{A}$ 电流下有全量程偏转。其中一个被转换为满刻度读数为 $100 \\mathrm{mV}$ 的电压表，另一个被转换为满刻度电流为 $1 \\mathrm{~mA}$ 的电流表，使用适当的电阻。然后使用这两个仪器通过理想电池在 Ohm 定律实验中测量 $R=1000$ $\\Omega$ 电阻中的电压和电流。哪个陈述是正确的？\n\n(A) 电压表的电阻为 $100 \\mathrm{k} \\Omega$\n\n(B) 电流表的电阻为 $0.02 \\Omega$（保留到第二位小数）\n\n(C) 测量得到的 $R$ 的值为 $978 \\Omega<R<982 \\Omega$\n\n(D) 如果理想电池被一个内部电阻为 $5 \\Omega$ 的电池替代，那么测量得到的 $R$ 的值将超过 $1000 \\Omega$。"
+  },
+  {
+    "188": "一具有电容 $C$ 的平行板电容器，在两个面积为 $A$ 的平板之间间距为 $d$。两板之间的区域填充有 $N$ 层介质，每层介质与其平行，厚度为 $\\delta=\\frac{d}{N}$。第 $m$ 层的介电常数为 $K_{m}=K\\left(1+\\frac{m}{N}\\right)$。当 $N\\left(>10^{3}\\right)$ 很大时，电容 $C$ 为 $\\alpha\\left(\\frac{K \\epsilon_{0} A}{d \\ln 2}\\right)$。那么 $\\alpha$ 的值是多少？$\\left[\\epsilon_{0}\\right.$ 是自由空间的电容率]"
+  },
+  {
+    "189": "铬（III）盐在硼砂珠试验中产生的绿色是由于\n\n(A) $\\mathrm{Cr}\\left(\\mathrm{BO}_{2}\\right)_{3}$\n\n(B) $\\mathrm{Cr}_{2}\\left( \\mathrm{B}_{4} \\mathrm{O}_{7} \\right)_{3}$\n\n(C) $\\mathrm{Cr}_{2} \\mathrm{O}_{3}$\n\n(D) $\\mathrm{CrB}$"
+  },
+  {
+    "190": "Calamine, malachite, magnetite and cryolite, respectively, are\n\n(A) $\\mathrm{ZnSO}_{4}, \\mathrm{CuCO}_{3}, \\mathrm{Fe}_{2} \\mathrm{O}_{3}, \\mathrm{AlF}_{3}$\n\n(B) $\\mathrm{ZnSO}_{4}, \\mathrm{Cu}(\\mathrm{OH})_{2}, \\mathrm{Fe}_{3} \\mathrm{O}_{4}, \\mathrm{Na}_{3} \\mathrm{AlF}_{6}$\n\n(C) $\\mathrm{ZnCO}_{3}, \\mathrm{CuCO}_{3} \\cdot \\mathrm{Cu}(\\mathrm{OH})_{2}, \\mathrm{Fe}_{3} \\mathrm{O}_{4}, \\mathrm{Na}_{3} \\mathrm{AlF}_{6}$\n\n(D) $\\mathrm{ZnCO}_{3}, \\mathrm{CuCO}_{3}, \\mathrm{Fe}_{2} \\mathrm{O}_{3}, \\mathrm{Na}_{3} \\mathrm{AlF}_{6}$"
+  },
+  {
+    "191": "一种锡氯化物 $\\mathrm{Q}$ 发生以下反应（未平衡）\n\n$\\mathrm{Q}+\\mathrm{Cl}^{-} \\rightarrow \\mathrm{X}$\n\n$\\mathrm{Q}+\\mathrm{Me}_{3} \\mathrm{~N} \\rightarrow \\mathrm{Y}$\n\n$\\mathbf{Q}+\\mathrm{CuCl}_{2} \\rightarrow \\mathbf{Z}+\\mathrm{CuCl}$\n\n$\\mathrm{X}$ 是一个具有金字塔形几何结构的单负离子。$\\mathrm{Y}$ 和 $\\mathrm{Z}$ 都是中性化合物。\n\n选择正确的选项：\n\n(A) $\\mathrm{X}$ 中的中心原子经历了 $s p^{3}$ 杂化\n\n(B) $\\mathrm{Y}$ 中有一个配位键\n\n(C) $\\mathrm{Z}$ 中心原子的氧化态为 +2\n\n(D) $\\mathrm{Z}$ 中心原子有一个孤对电子。"
+  },
+  {
+    "192": "将$\\mathrm{MnO}_{2}$与$\\mathrm{KOH}$在$\\mathrm{O}_{2}$存在下熔合会产生盐$\\mathrm{W}$。将$\\mathbf{W}$的碱性溶液在电解氧化时会生成另一个盐$\\mathrm{X}$。在$\\mathbf{W}$和$\\mathbf{X}$中分别含有锰离子$\\mathbf{Y}$和$\\mathbf{Z}$。正确的描述是\n\n(A) 在水溶液酸性条件下，$\\mathrm{Y}$会发生自不相容反应，生成$\\mathrm{Z}$和$\\mathrm{MnO}_{2}$\n\n(B) $\\mathrm{Y}$和$\\mathrm{Z}$都带有颜色并且具有四面体形状\n\n(C) $\\mathrm{Y}$是顺磁的，而$\\mathrm{Z}$是铁磁的\n\n(D) 在$\\mathrm{Y}$和$\\mathrm{Z}$中，氧的$p$轨道和锰的$d$轨道之间发生$\\pi$键结合"
+  },
+  {
+    "193": "从以下选项中选择反应，其中反应的标准反应焓等于标准生成焓。\n\n(A) $2 \\mathrm{H}_{2}(\\mathrm{~g})+\\mathrm{O}_{2}(\\mathrm{~g}) \\rightarrow 2 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{l})$\n\n(B) $2 \\mathrm{C}(\\mathrm{g})+3 \\mathrm{H}_{2}(\\mathrm{~g}) \\rightarrow \\mathrm{C}_{2} \\mathrm{H}_{6}(\\mathrm{~g})$\n\n(C) $\\frac{3}{2} \\mathrm{O}_{2}(\\mathrm{~g}) \\rightarrow \\mathrm{O}_{3}(\\mathrm{~g})$\n\n(D) $\\frac{1}{8} \\mathrm{~S}_{8}(\\mathrm{~s})+\\mathrm{O}_{2}(\\mathrm{~g}) \\rightarrow \\mathrm{SO}_{2}(\\mathrm{~g})$"
+  },
+  {
+    "194": "以下关于气体中分子的均方根速度（$\\left.u_{rms}\\right)$和平均平动动能（$\\left.\\varepsilon_{\\text {av }}\\right)$哪种陈述是正确的？\n\n(A) 当气体温度提高四倍时，$u_{rms}$ 增加一倍\n\n(B) 当气体温度提高四倍时，$\\varepsilon_{av}$ 增加一倍\n\n(C) 在给定温度下，$\\varepsilon_{av}$ 与分子质量无关\n\n(D) $u_{rms}$ 与分子质量的平方根成反比"
+  },
+  {
+    "195": "以下每个选项都包含四种分子。识别具有室温下永久偶极矩的四种分子的选项。\n\n(A) $\\mathrm{BeCl}_{2}, \\mathrm{CO}_{2}, \\mathrm{BCl}_{3}, \\mathrm{CHCl}_{3}$\n\n(B) $\\mathrm{NO}_{2}, \\mathrm{NH}_{3}, \\mathrm{POCl}_{3}, \\mathrm{CH}_{3} \\mathrm{Cl}$\n\n(C) $\\mathrm{BF}_{3}, \\mathrm{O}_{3}, \\mathrm{SF}_{6}, \\mathrm{XeF}_{6}$\n\n(D) $\\mathrm{SO}_{2}, \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{Cl}, \\mathrm{H}_{2} \\mathrm{Se}, \\mathrm{BrF}_{5}$"
+  },
+  {
+    "196": "在衰变序列中，\n\n${ }_{92}^{238} \\mathrm{U} \\stackrel{-\\mathrm{x}_{1}}{\\longrightarrow}{ }_{90}^{234} \\mathrm{Th} \\stackrel{-\\mathrm{x}_{2}}{\\longrightarrow}{ }_{91}^{234} \\mathrm{~Pa} \\stackrel{-\\mathrm{x}_{3}}{\\longrightarrow}{ }^{234} \\mathbf{Z} \\stackrel{-\\mathrm{x}_{4}}{\\longrightarrow}{ }_{90}^{230} \\mathrm{Th}$\n\n$\\mathrm{x}_{1}$，$\\mathrm{x}_{2}$，$\\mathrm{x}_{3}$ 和 $\\mathrm{x}_{4}$ 是各个同位素发射的粒子/辐射。 正确的选项是：\n\n(A) $x_{1}$ 会偏向带负电荷的板\n\n(B) $\\mathrm{x}_{2}$ 是 $\\beta^{-}$\n\n(C) $x_{3}$ 是 $\\gamma$ 射线\n\n(D) $\\mathbf{Z}$ 是铀的同位素"
+  },
+  {
+    "197": "以下哪个陈述是真实的？\n\n(A) 单糖不能水解生成多羟基醛和酮\n\n(B) 葡萄糖与溴水氧化生成谷氨酸\n\n(C) 蔗糖水解生成右旋葡萄糖和左旋果糖\n\n(D) $\\mathrm{D}-(+)$-葡萄糖的两种六元环半缩醛异构体被称为异构体"
+  },
+  {
+    "198": "在 $\\mathrm{B_{2}H_{6}}, \\mathrm{B_{3}N_{3}H_{6}}, \\mathrm{N_{2}O}, N_{2}O_{4}, H_{2}S_{2}O_{3}$ 和 $H_{2}S_{2}O_{8}$中，含有两个相同种类原子之间的共价键的分子的总数是多少？"
+  },
+  {
+    "199": "在$143 \\mathrm{~K}$下，$\\mathrm{XeF}_{4}$和$\\mathrm{O}_{2} \\mathrm{~F}_{2}$的反应产生了一个氙化合物$\\mathrm{Y}$。$\\mathrm{Y}$整个分子中孤对电子的总数是多少？"
+  },
+  {
+    "200": "在将$0.5 \\mathrm{~g}$的一种非挥发性非离子溶质溶解到$39 \\mathrm{~g}$的苯中时，其蒸汽压从$650 \\mathrm{~mm} \\mathrm{Hg}$降低到$640 \\mathrm{~mm} \\mathrm{Hg}$。在加入该溶质后，苯的冰点降低是多少（单位为$\\mathrm{K}$）？（给定数据：苯的摩尔质量和摩尔冰点降低常数分别为$78 \\mathrm{~g} \\mathrm{mol}^{-1}$和$5.12 \\mathrm{~K} \\mathrm{~kg} \\mathrm{~mol}^{-1}$。）"
+  },
+  {
+    "201": "考虑以下表中给出的反应$\\mathrm{A}+\\mathrm{B}+\\mathrm{C} \\rightarrow$ 产物的动力学数据。\n\n\\begin{center}\n\n\\begin{tabular}{|c|c|c|c|c|}\n\n\\hline\n\n实验编号 & $\\begin{array}{c}{[\\mathrm{A}]} \\\\ \\left(\\mathrm{mol} \\mathrm{dm}^{-3}\\right)\\end{array}$ & $\\begin{array}{c}{[\\mathrm{B}]} \\\\ \\left(\\mathrm{mol} \\mathrm{dm}^{-3}\\right)\\end{array}$ & $\\begin{array}{c}{[\\mathrm{C}]} \\\\ \\left(\\mathrm{mol} \\mathrm{dm}^{-3}\\right)\\end{array}$ & $\\begin{array}{c}\\text { 反应速率 } \\\\ \\left(\\mathrm{mol} \\mathrm{dm}^{-3} \\mathrm{~s}^{-1}\\right)\\end{array}$ \\\\\n\n\\hline\n\n1 & 0.2 & 0.1 & 0.1 & $6.0 \\times 10^{-5}$ \\\\\n\n\\hline\n\n2 & 0.2 & 0.2 & 0.1 & $6.0 \\times 10^{-5}$ \\\\\n\n\\hline\n\n3 & 0.2 & 0.1 & 0.2 & $1.2 \\times 10^{-4}$ \\\\\n\n\\hline\n\n4 & 0.3 & 0.1 & 0.1 & $9.0 \\times 10^{-5}$ \\\\\n\n\\hline\n\n\\end{tabular}\n\n\\end{center}\n\n当$[\\mathrm{A}]=0.15 \\mathrm{~mol} \\mathrm{dm}^{-3},[\\mathrm{~B}]=0.25 \\mathrm{~mol} \\mathrm{dm}^{-3}$和$[\\mathrm{C}]=0.15 \\mathrm{~mol} \\mathrm{dm}^{-3}$时，反应速率为$\\mathbf{Y} \\times 10^{-5} \\mathrm{~mol} \\mathrm{dm}^{-3} \\mathrm{~s}^{-1}$。求$\\mathbf{Y}$的值。"
+  },
+  {
+    "202": "设$S$是所有复数$Z$的集合，满足$|z-2+i| \\geq \\sqrt{5}$。如果复数$Z_{0}$满足$\\frac{1}{\\left|Z_{0}-1\\right|}$是集合$\\left\\{\\frac{1}{|z-1|}: z \\in S\\right\\}$的最大值，则$\\frac{4-z_{0}-\\overline{z_{0}}}{Z_{0}-\\overline{z_{0}}+2 i}$的主幅角为\n\n(A) $-\\frac{\\pi}{2}$\n\n(B) $\\frac{\\pi}{4}$\n\n(C) $\\frac{\\pi}{2}$\n\n(D) $\\frac{3 \\pi}{4}$"
+  },
+  {
+    "203": "设\n\n\\[\nM=\\left[\\begin{array}{cc}\n\n\\sin ^{4} \\theta & -1-\\sin ^{2} \\theta \\\\\n\n1+\\cos ^{2} \\theta & \\cos ^{4} \\theta\n\n\\end{array}\\right]=\\alpha I+\\beta M^{-1}\n\\]\n\n其中 $\\alpha=\\alpha(\\theta)$ 和 $\\beta=\\beta(\\theta)$ 是实数，$I$ 是$2 \\times 2$单位矩阵。若\n\n$\\alpha^{*}$ 为集合$\\{\\alpha(\\theta): \\theta \\in[0,2 \\pi)\\}$的最小值，\n\n$\\beta^{*}$ 为集合$\\{\\beta(\\theta): \\theta \\in[0,2 \\pi)\\}$的最小值，\n\n则 $\\alpha^{*}+\\beta^{*}$ 的值是\n\n(A) $-\\frac{37}{16}$\n\n(B) $-\\frac{31}{16}$\n\n(C) $-\\frac{29}{16}$\n\n(D) $-\\frac{17}{16}$"
+  },
+  {
+    "204": "一条直线$y=mx+1$与圆$(x-3)^{2}+(y+2)^{2}=25$相交于点$P$和$Q$。若线段$PQ$的中点的$x$坐标为$-\\frac{3}{5}$，则下列哪个选项是正确的？\n\n(A) $-3 \\leq m<-1$\n\n(B) $2 \\leq m<4$\n\n(C) $4 \\leq m<6$\n\n(D) $6 \\leq m<8$"
+  },
+  {
+    "205": "该区域的面积为\n\n(A) $16 \\log _{e} 2-\\frac{14}{3}$\n\n(B) $8 \\log _{e} 2-\\frac{14}{3}$\n\n(C) $16 \\log _{e} 2-6$\n\n(D) $8 \\log _{e} 2-\\frac{7}{3}$"
+  },
+  {
+    "206": "让\n\n\\[\nM=\\left[\\begin{array}{lll}\n\n0 & 1 & a \\\\\n\n1 & 2 & 3 \\\\\n\n3 & b & 1\n\n\\end{array}\\right] \\quad \\text { 和 adj } M=\\left[\\begin{array}{rrr}\n\n-1 & 1 & -1 \\\\\n\n8 & -6 & 2 \\\\\n\n-5 & 3 & -1\n\n\\end{array}\\right]\n\\]\n\n其中$a$和$b$是实数。以下哪个陈述是正确的？\n\n(A) $a+b=3$\n\n(B) $(\\operatorname{adj} M)^{-1}+\\operatorname{adj} M^{-1}=-M$\n\n(C) $\\operatorname{det}\\left(\\operatorname{adj} M^{2}\\right)=81$\n\n(D) 如果 $M\\left[\\begin{array}{l}\\alpha \\\\ \\beta \\\\ \\gamma\\end{array}\\right]=\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 3\\end{array}\\right]$, 那么 $\\alpha-\\beta+\\gamma=3$"
+  },
+  {
+    "207": "有三个袋子 $B_{1}, B_{2}$ 和 $B_{3}$。袋子 $B_{1}$ 中有5个红色和5个绿色球，$B_{2}$ 中有3个红色和5个绿色球，$B_{3}$ 中有5个红色和3个绿色球。袋子 $B_{1}, B_{2}$ 和 $B_{3}$ 被选择的概率分别为 $\\frac{3}{10}, \\frac{3}{10}$ 和 $\\frac{4}{10}$。随机选择一个袋子，然后从袋子中随机选择一个球。以下哪个选项是正确的？\n\n(A) 已选择的球为绿色的概率，假设所选袋子是 $B_{3}$，等于 $\\frac{3}{8}$\n\n(B) 所选的球是绿色的概率等于 $\\frac{39}{80}$\n\n(C) 已选择的球为绿色的情况下，所选的袋子是 $B_{3}$ 的概率等于 $\\frac{5}{13}$\n\n(D) 已选择的袋子是 $B_{3}$ 且所选的球是绿色的概率等于 $\\frac{3}{10}$"
+  },
+  {
+    "208": "在非直角三角形 $\\triangle P Q R$ 中，设 $p, q, r$ 分别表示对应于顶点 $P, Q, R$ 的边长。从 $R$ 到中位线与边 $P Q$ 的交点为 $S$，从 $P$ 到高线与边 $Q R$ 的交点为 $E$，且 $R S$ 和 $P E$ 相交于 $O$。如果 $p=\\sqrt{3}, q=1$，且三角形 $\\triangle P Q R$ 的外接圆半径为 1，则以下选项中哪些是正确的？\n\n(A) 线段 $R S$ 的长度为 $\\frac{\\sqrt{7}}{2}$\n\n(B) 三角形 $\\triangle S O E$ 的面积为 $\\frac{\\sqrt{3}}{12}$\n\n(C) 线段 $O E$ 的长度为 $\\frac{1}{6}$\n\n(D) 三角形 $\\triangle P Q R$ 的内切圆半径为 $\\frac{\\sqrt{3}}{2}(2-\\sqrt{3})$"
+  },
+  {
+    "209": "定义如下椭圆集合$\\left\\{E_{1}, E_{2}, E_{3}, \\ldots\\right\\}$和矩形集合$\\left\\{R_{1}, R_{2}, R_{3}, \\ldots\\right\\}$：\n\n$E_{1}: \\frac{x^{2}}{9}+\\frac{y^{2}}{4}=1$\n\n$R_{1}$：面积最大的矩形，边平行于坐标轴，内接于$E_{1}$；\n\n$E_{n}:$ 长轴相对于$R_{n-1}$面积最大的椭圆 $\\frac{x^{2}}{a_{n}^{2}}+\\frac{y^{2}}{b_{n}^{2}}=1, n>1$；\n\n$R_{n}:$ 面积最大的矩形，边平行于坐标轴，内接于$E_{n}, n>1$。\n\n接下来哪些选项是正确的？\n\n(A) $E_{18}$和$E_{19}$的离心率不相等\n\n(B) $\\quad \\sum_{n=1}^{N}\\left(\\right.$ 矩形$\\left.R_{n}\\right)<24$，对于每个正整数$N$\n\n(C) $E_{9}$的短焦点距离为$\\frac{1}{6}$\n\n(D) $E_{9}$中一个焦点到中心的距离为$\\frac{\\sqrt{5}}{32}$"
+  },
+  {
+    "210": "让$\\Gamma$表示处于第一象限的曲线$y=y(x)$，并且点$(1,0)$位于其上。设$P$点处$\\Gamma$的切线与$y$轴相交于$Y_{P}$。若$P$点在$\\Gamma$上，且对于每个$P$点，$P Y_{P}$的长度为1，则以下哪些选项是正确的？\n\n(A) $ y=\\log _{e}\\left(\\frac{1+\\sqrt{1-x^{2}}}{x}\\right)-\\sqrt{1-x^{2}}$\n\n(B) $x y^{\\prime}+\\sqrt{1-x^{2}}=0$\n\n(C) $ y=-\\log _{e}\\left(\\frac{1+\\sqrt{1-x^{2}}}{x}\\right)+\\sqrt{1-x^{2}}$\n\n(D) $x y^{\\prime}-\\sqrt{1-x^{2}}=0$"
+  },
+  {
+    "211": "让$L_{1}$和$L_{2}$表示线\n\n\\[\n\\vec{r}=\\hat{i}+\\lambda(-\\hat{i}+2 \\hat{j}+2 \\hat{k}), \\lambda \\in \\mathbb{R}\n\\]\n和 \n\\[ \\vec{r}=\\mu(2 \\hat{i}-\\hat{j}+2 \\hat{k}), \\mu \\in \\mathbb{R}\n\\]\n\n分别。如果$L_{3}$是与$L_{1}$和$L_{2}$均垂直并且切割它们的线，则以下哪个选项描述$L_{3}$？\n\n(A) $\\vec{r}=\\frac{2}{9}(4 \\hat{i}+\\hat{j}+\\hat{k})+t(2 \\hat{i}+2 \\hat{j}-\\hat{k}), t \\in \\mathbb{R}$\n\n(B) $\\vec{r}=\\frac{2}{9}(2 \\hat{i}-\\hat{j}+2 \\hat{k})+t(2 \\hat{i}+2 \\hat{j}-\\hat{k}), t \\in \\mathbb{R}$\n\n(C) $\\vec{r}=\\frac{1}{3}(2 \\hat{i}+\\hat{k})+t(2 \\hat{i}+2 \\hat{j}-\\hat{k}), t \\in \\mathbb{R}$\n\n(D) $\\vec{r}=t(2 \\hat{i}+2 \\hat{j}-\\hat{k}), t \\in \\mathbb{R}$"
+  },
+  {
+    "212": "设 $\\omega \\neq 1$ 是一个单位立方根。那么集合\n\n\\[\n\\left\\{\\left|a+b \\omega+c \\omega^{2}\\right|^{2}: a, b, c \\text { 为不同的非零整数 }\\right\\}\n\\]\n\n的最小值是多少？"
+  },
+  {
+    "213": "让$AP(a;d)$表示一个无限等差数列的所有项组成的集合，其中第一项为$a$，公差为$d>0$。如果\n\n\\[\nAP(1;3) \\cap AP(2;5) \\cap AP(3;7) = AP(a;d)\n\\]\n\n那么$a+d$等于多少？"
+  },
+  {
+    "214": "设$S$为所有$3 \\times 3$矩阵的样本空间，其元素取自集合$\\{0,1\\}$。设事件$E_{1}$和$E_{2}$如下定义：\n\n\\[\n\\begin{aligned}\n\n& E_{1}=\\{A \\in S: \\operatorname{det} A=0\\} \\text { and } \\\\\n\n& E_{2}=\\{A \\in S: \\text { sum of entries of } A \\text { is } 7\\} .\n\n\\end{aligned}\n\\]\n\n如果从$S$中随机选择一个矩阵, 则在给定$E_{2}$条件下$E_{1}$发生的条件概率$P\\left(E_{1} \\mid E_{2}\\)$是多少？"
+  },
+  {
+    "215": "令点$B$是点$A(2,3)$关于直线$8x-6y-23=0$的镜像点。设$\\Gamma_{A}$和$\\Gamma_{B}$为半径分别为2和1、以$A$和$B$为圆心的圆。设$T$为圆$\\Gamma_{A}$和$\\Gamma_{B}$的公切线，使得两个圆在$T$的同侧。若$C$是$T$与通过$A$和$B$的直线的交点，则线段$AC$的长度是多少？"
+  },
+  {
+    "216": "如果\n\n\\[\nI=\\frac{2}{\\pi} \\int_{-\\pi / 4}^{\\pi / 4} \\frac{d x}{\\left(1+e^{\\sin x}\\right)(2-\\cos 2 x)}\n\\]\n\n那么$27 I^{2}$等于多少？"
+  },
+  {
+    "217": "给定三条线为\n\n\\[\n\\vec{r} =\\lambda \\hat{i}, \\lambda \\in \\mathbb{R}\n\\]\n\\[\\vec{r} =\\mu(\\hat{i}+\\hat{j}), \\mu \\in \\mathbb{R}\n\\]\n\\[\n\\vec{r} =v(\\hat{i}+\\hat{j}+\\hat{k}), v \\in \\mathbb{R}.\n\\]\n\n设这三条线在平面$x+y+z=1$上分别交于点$A、B$和$C$。如果三角形$ABC$的面积为$\\triangle$，那么$(6 \\Delta)^2$的值是多少？"
+  },
+  {
+    "218": "一根质量为$M$、长度为$L$的细长均匀杆竖直放置在具有很大摩擦力的地面上。杆从静止释放，以便围绕其与地面接触点旋转而不滑动下落。下面哪种陈述是正确的，当杆与竖直方向成$60^{\\circ}$的角度时？\n\n[$g$为重力加速度]\n\n(A) 杆的角速度将为$\\sqrt{\\frac{3g}{2L}}$\n\n(B) 杆的角加速度将为$\\frac{2g}{L}$\n\n(C) 杆质心的径向加速度将为$\\frac{3g}{4}$\n\n(D) 地面对杆的法向反作用力将为$\\frac{Mg}{16}$"
+  },
+  {
+    "219": "混合了理想气体的气体包括5摩尔的单原子气体和1摩尔的刚性双原子气体，最初处于压力$P_{0}$、体积$V_{0}$和温度$T_{0}$。如果气体混合物绝热地被压缩到体积$V_{0} / 4$，那么正确的声明是（给定$2^{1.2}=2.3 ; 2^{3.2}=9.2 ; R$是气体常数）\n\n（A）过程中所做的功$|W|$为$13 R T_{0}$\n\n（B）压缩后气体混合物的平均动能在$18 R T_{0}$和$19 R T_{0}$之间\n\n（C）压缩后气体混合物的最终压力在$9 P_{0}$和$10 P_{0}$之间\n\n（D）气体混合物的绝热常数为1.6"
+  },
+  {
+    "220": "一个自由氢原子吸收了波长为 $\\lambda_{a}$ 的光子后, 从能级 $n=1$ 激发到了 $n=4$ 能级。接着电子通过发射波长为 $\\lambda_{e}$ 的光子跃迁到了 $n=m$ 能级。设由于吸收和发射而引起的原子动量变化分别为 $\\Delta p_{a}$ 和 $\\Delta p_{e}$。若 $\\lambda_{a} / \\lambda_{e}=\\frac{1}{5}$，则哪个选择是正确的？\n\n[使用 $h c=1242 \\mathrm{eV} \\mathrm{nm} ; 1 \\mathrm{~nm}=10^{-9} \\mathrm{~m}$，其中 $h$ 和 $c$ 分别是普朗克常数和光速]\n\n(A) $m=2$\n\n(B) $\\lambda_{e}=418 \\mathrm{~nm}$\n\n(C) $\\Delta p_{a} / \\Delta p_{e}=\\frac{1}{2}$\n\n(D) 在 $n=m$ 和 $n=1$ 能级下，电子的动能比是 $\\frac{1}{4}$"
+  },
+  {
+    "221": "假设处于静止的基态${ }_{88}^{226} R a$核发生$\\alpha$衰变成处于激发态的${ }_{86}^{222} R n$核。发射的$\\alpha$粒子的动能为$4.44 \\mathrm{MeV}$。接着${ }_{86}^{222} R n$核通过$\\gamma$衰变回到基态。发射的$\\gamma$光子的能量是多少$\\mathrm{keV}$?\n\n[已知：${ }_{88}^{226} R a$的原子质量$=226.005 \\mathrm{u}$，${ }_{86}^{222} R n$的原子质量$=222.000 \\mathrm{u}$，$\\alpha$粒子的原子质量$=4.000 \\mathrm{u}$，$1 \\mathrm{u}=931 \\mathrm{MeV} / \\mathrm{c}^{2}$，$\\mathrm{c}$代表光速]"
+  },
+  {
+    "222": "一个光学台上有一个长度为$1.5 \\mathrm{~m}$的刻度尺，每$\\mathrm{cm}$有四个等分。测量凸透镜的焦距时，将透镜放在刻度上的$75 \\mathrm{~cm}$标记处，物体针放在$45 \\mathrm{~cm}$标记处。物体针的影像在透镜的另一侧与放在$135 \\mathrm{~cm}$标记处的像针重合。在这个实验中，测量透镜焦距的百分误差是多少？"
+  },
+  {
+    "223": "金提取的氰化法涉及在水中用$\\mathrm{CN}^{-}$从矿石中浸出金，与$\\mathbf{Q}$一起形成$\\mathrm{R}$。随后，用$\\mathrm{T}$处理$\\mathrm{R}$以获得$\\mathrm{Au}$和$\\mathrm{Z}$。选择正确的选项：\n\n(A) $\\mathrm{Q}$为$\\mathrm{O}_{2}$\n\n(B) $\\mathrm{T}$为$\\mathrm{Zn}$\n\n(C) $\\mathrm{Z}$为$\\left[\\mathrm{Zn}(\\mathrm{CN})_{4}\\right]^{2-}$\n\n(D) $\\mathrm{R}$为$\\left[\\mathrm{Au}(\\mathrm{CN})_{4}\\right]^{-}$"
+  },
+  {
+    "224": "关于王水，选择正确的选项有\n\n(A) 王水是通过将浓缩盐酸和浓硝酸以$3:1(v/v)$的比例混合制备而成\n\n(B) 金和王水的反应产生了+3氧化态的金阴离子\n\n(C) 金和王水的反应在没有空气的情况下产生了$\\mathrm{NO}_{2}$\n\n(D) 王水的黄色是由于存在$\\mathrm{NOCl}$和$\\mathrm{Cl}_{2}$所致"
+  },
+  {
+    "225": "考虑以下反应（未平衡）\n\n$\\mathrm{Zn}+$ 热浓硫酸 $\\mathrm{H}_{2} \\mathrm{SO}_{4} \\rightarrow \\mathrm{G}+\\mathrm{R}+\\mathrm{X}$\n\n$\\mathrm{Zn}+$ 浓缩氢氧化钠 $\\rightarrow \\mathrm{T}+\\mathbf{Q}$\n\n$\\mathbf{G}+\\mathrm{H}_{2} \\mathrm{~S}+\\mathrm{NH}_{4} \\mathrm{OH} \\rightarrow \\mathbf{Z}$（一种沉淀）$+\\mathbf{X}+\\mathrm{Y}$\n\n选择正确的选项\n\n(A) $\\mathrm{Z}$ 是混浊的白色\n\n(B) $\\mathrm{T}$ 中 $\\mathrm{Zn}$ 的氧化态为 +1\n\n(C) $\\mathrm{R}$ 是一个 V 形分子\n\n(D) $\\mathbf{Q}$ 在基态中的键级为 1"
+  },
+  {
+    "226": "氢原子的基态能量是$-13.6 \\mathrm{eV}$。考虑一个$\\mathrm{He}^{+}$的电子态$\\Psi$，其能量，方位量子数和磁量子数分别为$-3.4 \\mathrm{eV}, 2$和$0$。以下哪种说法是正确的？\n\n(A) 它是一个$4d$态\n\n(B) 它有2个角节点\n\n(C) 它有3个径向节点\n\n(D) 在这种状态下，电子所经历的核电荷小于$2e$，其中$e$是电子电荷的大小"
+  },
+  {
+    "227": "从以下选项中选择正确的选项：\n\n(A) 天然橡胶是聚异戊二烯，含有反式烯烃单位\n\n(B) 尼龙-6具有酰胺键\n\n(C) 聚四氟乙烯是通过在高压下在过硫酸盐催化剂存在下加热四氟乙烯制备的\n\n(D) 纤维素只包含由糖苷键连接的$\\alpha$-D-葡萄糖单位"
+  },
+  {
+    "228": "在将1摩尔菱形硫氧化成含有硫的最高氧化态的化合物时，生成的水的量是多少（以克为单位）？\n\n（已知数据：水的摩尔质量 $=18 \\mathrm{~g} \\mathrm{~mol}^{-1}$）"
+  },
+  {
+    "229": "在 cis-[Mn(en $\\left.)_{2} \\mathrm{Cl}_{2}\\right]$ 配合物中， cis $\\mathrm{N}-\\mathrm{Mn}-\\mathrm{Cl}$ 键角的总数是多少（即，处于 cis 位置的 $\\mathrm{Mn}-\\mathrm{N}$ 和 $\\mathrm{Mn}-\\mathrm{Cl}$ 键）？\n\n(en $=\\mathrm{NH}_{2} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{NH}_{2}$ )"
+  },
+  {
+    "230": "分解反应$2 \\mathrm{~N}_{2} \\mathrm{O}_{5}(g) \\stackrel{\\Delta}{\\rightarrow} 2 \\mathrm{~N}_{2} \\mathrm{O}_{4}(g)+\\mathrm{O}_{2}(g)$ 在等温等容条件下开始在一个封闭的气缸中，初始压力为$1 \\mathrm{~atm}$。经过$\\mathrm{Y} \\times 10^{3} \\mathrm{~s}$，气缸内的压力测得为$1.45 \\mathrm{~atm}$。如果反应的速率常数为$5 \\times 10^{-4} \\mathrm{~s}^{-1}$，假设理想气体行为，$\\mathrm{Y}$的值是多少？"
+  },
+  {
+    "231": "在一个含$900\\mathrm{~g}$水的尿素水溶液中，尿素的摩尔分数为0.05。如果溶液的密度为$1.2\\mathrm{~g} \\mathrm{~cm}^{-3}$，那么尿素溶液的摩尔浓度是多少？（已知数据：尿素和水的摩尔质量分别为$60\\mathrm{~g} \\mathrm{~mol}^{-1}$和$18\\mathrm{~g} \\mathrm{~mol}^{-1}$）"
+  },
+  {
+    "232": "对于分子式为 $\\mathrm{C}_{4} \\mathrm{H}_{8} \\mathrm{O}$ 的环氧化合物，考虑结构异构体和立体异构体，总共有多少种同分异构体？"
+  },
+  {
+    "233": "设\n\n\\[\n\\begin{aligned}\n\n& P_{1}=I=\\left[\\begin{array}{lll}\n\n1 & 0 & 0 \\\\\n\n0 & 1 & 0 \\\\\n\n0 & 0 & 1\n\n\\end{array}\\right], \\quad P_{2}=\\left[\\begin{array}{lll}\n\n1 & 0 & 0 \\\\\n\n0 & 0 & 1 \\\\\n\n0 & 1 & 0\n\n\\end{array}\\right], \\quad P_{3}=\\left[\\begin{array}{lll}\n\n0 & 1 & 0 \\\\\n\n1 & 0 & 0 \\\\\n\n0 & 0 & 1\n\n\\end{array}\\right], \\\\\n\n& P_{4}=\\left[\\begin{array}{lll}\n\n0 & 1 & 0 \\\\\n\n0 & 0 & 1 \\\\\n\n1 & 0 & 0\n\n\\end{array}\\right], \\quad P_{5}=\\left[\\begin{array}{lll}\n\n0 & 0 & 1 \\\\\n\n1 & 0 & 0 \\\\\n\n0 & 1 & 0\n\n\\end{array}\\right], \\quad P_{6}=\\left[\\begin{array}{ccc}\n\n0 & 0 & 1 \\\\\n\n0 & 1 & 0 \\\\\n\n1 & 0 & 0\n\n\\end{array}\\right] \\\\\n\n& \\text { and } X=\\sum_{k=1}^{6} P_{k}\\left[\\begin{array}{lll}\n\n2 & 1 & 3 \\\\\n\n1 & 0 & 2 \\\\\n\n3 & 2 & 1\n\n\\end{array}\\right] P_{k}^{T}\n\n\\end{aligned}\n\\]\n\n其中$P_{k}^{T}$表示矩阵$P_{k}$的转置。那么以下哪些选项是正确的？\n\n(A) 如果$X\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 1\\end{array}\\right]=\\alpha\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 1\\end{array}\\right]$, 那么$\\alpha=30$\n\n(B) $X$是一个对称矩阵\n\n(C) $X$的对角线元素之和为18\n\n(D) $X-30 I$是一个可逆矩阵"
+  },
+  {
+    "234": "设$f: \\mathbb{R} \\rightarrow \\mathbb{R}$是一个函数。我们说$f$满足以下性质：\n\n性质1：如果$\\lim _{h \\rightarrow 0} \\frac{f(h)-f(0)}{\\sqrt{|h|}}$存在且有限，\n\n性质2：如果$\\lim _{h \\rightarrow 0} \\frac{f(h)-f(0)}{h^{2}}$存在且有限。\n\n那么以下哪些选项是正确的？\n\n(A) $f(x)=|x|$ 有性质1\n\n(B) $f(x)=x^{2 / 3}$ 有性质1\n\n(C) $f(x)=x|x|$ 有性质2\n\n(D) $f(x)=\\sin x$ 有性质2"
+  },
+  {
+    "235": "令\n\n\\[\nf(x)=\\frac{\\sin \\pi x}{x^{2}}, \\quad x>0\n\\]\n\n令$x_{1}<x_{2}<x_{3}<\\cdots<x_{n}<\\cdots$为$f$的所有局部极大点，$y_{1}<y_{2}<y_{3}<\\cdots<y_{n}<\\cdots$为$f$的所有局部极小点。\n\n那么以下哪些选项是正确的？\n\n(A) $x_{1}<y_{1}$\n\n(B) 对每个$n$，$x_{n+1}-x_{n}>2$\n\n(C) 对每个$n$，$x_{n} \\in\\left(2 n, 2 n+\\frac{1}{2}\\right)$\n\n(D) 对每个$n$，$\\left|x_{n}-y_{n}\\right|>1$"
+  },
+  {
+    "236": "对于$a \\in \\mathbb{R},|a|>1$，令\n\n\\[\n\\lim _{n \\rightarrow \\infty}\\left(\\frac{1+\\sqrt[3]{2}+\\cdots+\\sqrt[3]{n}}{n^{7 / 3}\\left(\\frac{1}{(a n+1)^{2}}+\\frac{1}{(a n+2)^{2}}+\\cdots+\\frac{1}{(a n+n)^{2}}\\right)}\\right)=54\n\\]\n\n那么$a$的可能取值为\n\n(A) -9\n\n(B) -6\n\n(C) 7\n\n(D) 8"
+  },
+  {
+    "237": "设$f: \\mathbb{R} \\rightarrow \\mathbb{R}$由$f(x)=(x-1)(x-2)(x-5)$给出。定义\n\n\\[\nF(x)=\\int_{0}^{x} f(t) dt, \\quad x>0.\n\\]\n\n那么下列哪些选项是正确的？\n\n(A) $F$ 在$x=1$处有一个局部最小值\n\n(B) $F$ 在$x=2$处有一个局部最大值\n\n(C) $F$ 在$(0, \\infty)$内有两个局部最大值和一个局部最小值\n\n(D) 对于所有$x \\in (0,5)$，都有$F(x) \\neq 0$"
+  },
+  {
+    "238": "三條線\n\n\\[\n\\begin{aligned}\n\nL_{1}: & \\vec{r}=\\lambda \\hat{i}, \\lambda \\in \\mathbb{R}, \\\\\n\nL_{2}: & \\vec{r}=\\hat{k}+\\mu \\hat{j}, \\mu \\in \\mathbb{R} \\text { and } \\\\\n\nL_{3}: & \\vec{r}=\\hat{i}+\\hat{j}+v \\hat{k}, \\quad v \\in \\mathbb{R}\n\n\\end{aligned}\n\\]\n\n已知。在哪個點 $Q$ 在 $L_{2}$ 上我們可以找到一個點 $P$ 在 $L_{1}$ 上和一個點 $R$ 在 $L_{3}$ 上使得 $P, Q$ 和 $R$ 共線？\n\n(A) $\\hat{k}-\\frac{1}{2} \\hat{j}$\n\n(B) $\\hat{k}$\n\n(C) $\\hat{k}+\\frac{1}{2} \\hat{j}$\n\n(D) $\\hat{k}+\\hat{j}$"
+  },
+  {
+    "239": "假设\n\n\\[\n\\operatorname{det}\\left[\\begin{array}{cc}\n\n\\sum_{k=0}^{n} k & \\sum_{k=0}^{n}{ }^{n} C_{k} k^{2} \\\\\n\n\\sum_{k=0}^{n}{ }^{n} C_{k} k & \\sum_{k=0}^{n}{ }^{n} C_{k} 3^{k}\n\n\\end{array}\\right]=0\n\\]\n\n对于某个正整数 $n$ 成立。那么 $\\sum_{k=0}^{n} \\frac{{ }^{n} C_{k}}{k+1}$ 是什么？"
+  },
+  {
+    "240": "五人$A, B, C, D$和$E$围坐在一个圆桌上。如果每个人被分发一顶红色、蓝色或绿色帽子，那么有多少种分发帽子的方式使得相邻座位的人戴不同颜色的帽子？"
+  },
+  {
+    "241": "设$|X|$表示集合$X$中元素的数量。设$S=\\{1,2,3,4,5,6\\}$为一个样本空间，其中每个元素等可能发生。如果$A$和$B$是与$S$相关的独立事件，则满足$1 \\leq|B|<|A|$的有序对$(A, B)$的数量是多少？"
+  },
+  {
+    "242": "在区间$\\left[-\\frac{\\pi}{4}, \\frac{3\\pi}{4}\\right]$中，求\n\n\\[\n\\sec^{-1}\\left(\\frac{1}{4} \\sum_{k=0}^{10} \\sec \\left(\\frac{7\\pi}{12}+\\frac{k\\pi}{2}\\right) \\sec \\left(\\frac{7\\pi}{12}+\\frac{(k+1)\\pi}{2}\\right)\\right)\n\\]的值。"
+  },
+  {
+    "243": "这个积分的值是\n\n\\[\n\\int_{0}^{\\pi / 2} \\frac{3 \\sqrt{\\cos \\theta}}{(\\sqrt{\\cos \\theta}+\\sqrt{\\sin \\theta})^{5}} d \\theta\n\\]"
+  },
+  {
+    "244": "一质量为 $m$ 的粒子在势能为 $V(r)=F r$ 的圆形轨道上运动，其中 $F$ 是正常数，$r$ 是其到原点的距离。其能量是使用玻尔模型计算的。如果粒子轨道的半径用 $R$ 表示，速度和能量分别用 $v$ 和 $E$ 表示，则对于第 $n$ 个轨道（这里 $h$ 是普朗克常数）,\n\n(A) $R \\propto n^{1 / 3}$ 且 $v \\propto n^{2 / 3}$，\n\n(B) $R \\propto n^{2 / 3}$ 且 $v \\propto n^{1 / 3}$，\n\n(C) $E=\\frac{3}{2}\\left(\\frac{n^{2} h^{2} F^{2}}{4 \\pi^{2} m}\\right)^{1 / 3}$，\n\n(D) $E=2\\left(\\frac{n^{2} h^{2} F^{2}}{4 \\pi^{2} m}\\right)^{1 / 3}$。"
+  },
+  {
+    "245": "一个灯泡的灯丝表面积为 $64 \\mathrm{~mm}^{2}$。当从远处观察时，可以将灯丝视为温度为 $2500 \\mathrm{~K}$ 的黑体，像点源一样辐射。在夜晚，从 $100 \\mathrm{~m}$ 的距离观察灯泡。假设观察者的眼睛瞳孔是半径为 $3 \\mathrm{~mm}$ 的圆形。那么\n\n(取Stefan-Boltzmann常数 $=5.67 \\times 10^{-8} \\mathrm{Wm}^{-2} \\mathrm{~K}^{-4}$，Wien位移常数 $=2.90 \\times 10^{-3} \\mathrm{~m}-\\mathrm{K}$，普朗克常数 $=6.63 \\times 10^{-34} \\mathrm{Js}$，真空中光速 $=3.00 \\times \\left.10^{8} \\mathrm{~ms}^{-1}\\right)$\n\n(A) 灯丝辐射的功率范围为 $642 \\mathrm{~W}$ 到 $645 \\mathrm{~W}$\n\n(B) 进入观察者一只眼睛的辐射功率范围为 $3.15 \\times 10^{-8} \\mathrm{~W}$ 到 \n\n\\[\n3.25 \\times 10^{-8} \\mathrm{~W}\n\\]\n\n(C) 对应于光最大强度的波长为 $1160 \\mathrm{~nm}$\n\n(D) 假设发射辐射的平均波长为 $1740 \\mathrm{~nm}$，进入观察者一只眼睛的总光子数每秒的范围为 $2.75 \\times 10^{11}$ 到 $2.85 \\times 10^{11}$"
+  },
+  {
+    "246": "有时候构建一个单位制度，可以让所有量都以一个物理量表达会更方便。在这样一个系统中，不同量的维度可以用一个量$X$表示，如下： [位置 $]=\\left[X^{\\alpha}\\right]$；[速度 $]=\\left[X^{\\beta}\\right]$；[加速度 $]=\\left[X^{p}\\right]$；[动量 $]=\\left[X^{q}\\right]$；[力 $]=\\left[X^{r}\\right]$。那么\n\n(A) $\\alpha+p=2 \\beta$\n\n(B) $p+q-r=\\beta$\n\n(C) $p-q+r=\\alpha$\n\n(D) $p+q+r=\\beta$"
+  },
+  {
+    "247": "将均匀米尺水平放在您伸出的食指上，左边的指尖处于$0.00 \\mathrm{~cm}$，右边的指尖处于$90.00 \\mathrm{~cm}$。当您试图慢慢将两根手指向中心移动时，最初只有左手指相对尺度滑动，而右手指则不会。经过一段距离后，左手指停止，右手指开始滑动。然后，右手指在离尺度中心$(50.00 \\mathrm{~cm})$距离为$x_{R}$时停止，左手指再次开始滑动。这是因为两根手指在尺度上的摩擦力不同。如果手指与尺度之间的静摩擦系数和动摩擦系数分别为0.40和0.32，那么$x_{R}$的值是多少（单位：$\\mathrm{cm}$）？"
+  },
+  {
+    "248": "考虑一个摩尔的氦气体封闭在一个初始压力为$P_{1}$和体积为$V_{1}$的容器中。它以等温的方式扩展到体积为$4 V_{1}$。之后，气体绝热地扩展，其体积变为$32 V_{1}$。在等温和绝热膨胀过程中气体进行的功分别为$W_{\\text {iso }}$和$W_{\\text {adia }}$。如果$\\frac{W_{\\text {iso }}}{W_{\\text {adia }}}=f \\ln 2$，那么$f$的值是多少？"
+  },
+  {
+    "249": "一个静止的音叉与管道中的气柱共振。如果音叉以 $2 \\mathrm{~ms}^{-1}$ 的速度沿着管道的开放端且与之平行移动，那么必须改变管道的长度才能使共振发生，以便与移动的音叉共振。如果空气中的声速是 $320 \\mathrm{~ms}^{-1}$，那么管道长度需要的百分比变化的最小值是多少？"
+  },
+  {
+    "250": "一个半径为$R$的圆盘带有面电荷密度$\\sigma(r)=\\sigma_{0}\\left(1-\\frac{r}{R}\\right)$，其中$\\sigma_{0}$是一个常数，$r$是距离圆盘中心的距离。完全包围带电圆盘的一个大球面的电通量是$\\phi_{0}$。通过与圆盘同心且半径为$\\frac{R}{4}$的另一个球面的电通量是$\\phi$。那么$\\frac{\\phi_{0}}{\\phi}$的比值是多少？"
+  },
+  {
+    "251": "以下哪种在水解时会释放$\\mathrm{O}_{2}$？\n\n(A) $\\mathrm{Pb}_{3} \\mathrm{O}_{4}$\n\n(B) $\\mathrm{KO}_{2}$\n\n(C) $\\mathrm{Na}_{2} \\mathrm{O}_{2}$\n\n(D) $\\mathrm{Li}_{2} \\mathrm{O}_{2}$"
+  },
+  {
+    "252": "一个无色水溶液中含有两种金属的硝酸盐，$\\mathbf{X}$ 和 $\\mathbf{Y}$。当它被加入到一种氯化钠的水溶液中时，形成了白色沉淀。发现该沉淀在热水中部分溶解，得到残渣 $\\mathbf{P}$ 和溶液 $\\mathbf{Q}$。残渣 $\\mathbf{P}$ 可溶于氨水和过量的硫代硫酸钠。热溶液 $\\mathbf{Q}$ 与碘化钾生成黄色沉淀。金属 $\\mathbf{X}$ 和 $\\mathbf{Y}$ 分别是\n\n(A) 银和 $\\mathrm{Pb}$\n\n(B) 银和镉\n\n(C) 镉和 $\\mathrm{Pb}$\n\n(D) 镉和锌"
+  },
+  {
+    "253": "在热力学中，$P-V$ 做功由下式给出：\n\n\\[\nw=-\\int d V P_{\\mathrm{ext}}\n\\]\n\n对于正在经历特定过程的系统，做功为，\n\n这个方程适用于\n\n\\[\nw=-\\int d V\\left(\\frac{R T}{V-b}-\\frac{a}{V^{2}}\\right)\n\\]\n\n(A) 满足范德瓦尔斯状态方程的系统。\n\n(B) 可逆和等温的过程。\n\n(C) 可逆和绝热的过程。\n\n(D) 不可逆且保持压力恒定的过程。"
+  },
+  {
+    "254": "在以下陈述中选择正确的说法：\n\n(A) $\\left[\\mathrm{FeCl}_{4}\\right]^{-}$ 具有四面体几何构型。\n\n(B) $\\left[\\mathrm{Co}(\\mathrm{en})\\left(\\mathrm{NH}_{3}\\right)_{2} \\mathrm{Cl}_{2}\\right]^{+}$ 具有 2 种几何异构体。\n\n(C) $\\left[\\mathrm{FeCl}_{4}\\right]^{-}$ 的自旋磁矩比 $\\left[\\mathrm{Co}(\\mathrm{en})\\left(\\mathrm{NH}_{3}\\right)_{2} \\mathrm{Cl}_{2}\\right]^{+}$ 更高。\n\n(D) $\\left[\\mathrm{Co}(\\mathrm{en})\\left(\\mathrm{NH}_{3}\\right)_{2} \\mathrm{Cl}_{2}\\right]^{+}$ 中的钴离子具有 $\\mathrm{sp}^{3} d^{2}$ 杂化。"
+  },
+  {
+    "255": "关于次氯酸盐、氯酸盐和高氯酸盐离子，选择正确的陈述为：\n\n(A) 次氯酸盐离子是最强的共轭碱。\n\n(B) 只有氯酸盐离子的分子形状受$\\mathrm{Cl}$的孤对电子的影响。\n\n(C) 次氯酸盐和氯酸盐离子不成比例地产生相同的离子组。\n\n(D) 次氯酸盐离子氧化亚硫酸盐离子。"
+  },
+  {
+    "256": "取$5.00 \\mathrm{~mL}$的$0.10 \\mathrm{M}$草酸溶液放入圆锥瓶中，用邻酚酞指示剂从滴定管中滴定$\\mathrm{NaOH}$。下面表格列出了五次实验中产生永久性微弱粉红色的$\\mathrm{NaOH}$所需的体积。求$\\mathrm{NaOH}$溶液的浓度，以摩尔浓度表示。\n\n\\begin{center}\n\n\\begin{tabular}{|c|c|}\n\n\\hline\n\n实验编号 & NaOH的体积（mL） \\\\\n\n\\hline\n\n$\\mathbf{1}$ & 12.5 \\\\\n\n\\hline\n\n$\\mathbf{2}$ & 10.5 \\\\\n\n\\hline\n\n$\\mathbf{3}$ & 9.0 \\\\\n\n\\hline\n\n$\\mathbf{4}$ & 9.0 \\\\\n\n\\hline\n\n$\\mathbf{5}$ & 9.0 \\\\\n\n\\hline\n\n\\end{tabular}\n\n\\end{center}"
+  },
+  {
+    "257": "考虑一个在标准条件下以1 bar和$298 \\mathrm{~K}$工作的70\\%效率的氢氧燃料电池。其电池反应为\n\n\\[\n\\mathrm{H}_{2}(g)+\\frac{1}{2} \\mathrm{O}_{2}(g) \\rightarrow \\mathrm{H}_{2} \\mathrm{O}(l)\n\\]\n\n从电池中获得的能量可用于压缩$1.0 \\times 10^{-3} \\mathrm{~mol}$的$O_{2}(g)$，这些能量用于在一个绝热容器中压缩$1.00 \\mathrm{~mol}$的单原子理想气体。理想气体的温度变化是多少（以K为单位）？\n\n两个半电池的标准还原电位如下。\n\n\\[\n\\begin{gathered}\n\n\\mathrm{O}_{2}(g)+4 \\mathrm{H}^{+}(aq)+4 e^{-} \\rightarrow 2 \\mathrm{H}_{2} \\mathrm{O}(l), \\quad E^{0}=1.23 \\mathrm{~V}, \\\\\n\n2 \\mathrm{H}^{+}(aq)+2 e^{-} \\rightarrow \\mathrm{H}_{2}(g), \\quad E^{0}=0.00 \\mathrm{~V}\n\n\\end{gathered}\n\\]\n\n使用 $F=96500 \\mathrm{C} \\mathrm{mol}^{-1}$，$R=8.314 \\mathrm{~J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$。"
+  },
+  {
+    "258": "铝与硫酸反应生成硫酸铝和氢气。当$5.4 \\mathrm{~g}$的铝和$50.0 \\mathrm{~mL}$的$5.0 \\mathrm{M}$硫酸混合反应时，在$300 \\mathrm{~K}$和$1.0 \\mathrm{~atm}$的压力下产生的氢气体积（升）是多少？\n\n（使用铝的摩尔质量为$27.0 \\mathrm{~g} \\mathrm{~mol}^{-1}, R=0.082 \\mathrm{~atm} \\mathrm{~L} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$）"
+  },
+  {
+    "259": "${ }_{92}^{238} \\mathrm{U}$ 被已知会通过发射阿尔法和贝塔粒子发生放射性衰变，生成 ${ }_{82}^{206} \\mathrm{~Pb}$。一块岩石最初含有 $68 \\times 10^{-6} \\mathrm{~g}$ 的 ${ }_{92}^{238} \\mathrm{U}$。如果在 ${ }_{92}^{238} \\mathrm{U}$ 衰变到 ${ }_{82}^{206} \\mathrm{~Pb}$ 的放射性衰变中，它在三个半衰期内将发射的阿尔法粒子数为 $Z \\times 10^{18}$，那么 $Z$ 的值是多少？"
+  },
+  {
+    "260": "假设$a, b$表示二次多项式$x^{2}+20 x-2020$的不同实根，$c, d$表示二次多项式$x^{2}-20 x+2020$的不同复根。那么\n\n\\[\na c(a-c)+a d(a-d)+b c(b-c)+b d(b-d)\n\\]\n\n的值是\n\n(A) 0\n\n(B) 8000\n\n(C) 8080\n\n(D) 16000"
+  },
+  {
+    "261": "如果函数$f: \\mathbb{R} \\rightarrow \\mathbb{R}$由$f(x)=|x|(x-\\sin x)$定义，则以下哪个陈述是正确的？\n\n(A) $f$ 是一一映射，但不是满射。\n\n(B) $f$ 是满射，但不是一一映射。\n\n(C) $f$ 既是一一映射又是满射。\n\n(D) $f$ 既不是一一映射也不是满射。"
+  },
+  {
+    "262": "让函数 $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ 和 $g: \\mathbb{R} \\rightarrow \\mathbb{R}$ 被定义为\n\n\\[\nf(x)=e^{x-1}-e^{-|x-1|} \\quad \\text { and } \\quad g(x)=\\frac{1}{2}\\left(e^{x-1}+e^{1-x}\\right)\n\\]\n\n那么由曲线 $y=f(x)$、$y=g(x)$ 和 $x=0$ 所围成的第一象限区域的面积是\n\n(A) $(2-\\sqrt{3})+\\frac{1}{2}\\left(e-e^{-1}\\right)$\n\n(B) $(2+\\sqrt{3})+\\frac{1}{2}\\left(e-e^{-1}\\right)$\n\n(C) $(2-\\sqrt{3})+\\frac{1}{2}\\left(e+e^{-1}\\right)$\n\n(D) $(2+\\sqrt{3})+\\frac{1}{2}\\left(e+e^{-1}\\right)$"
+  },
+  {
+    "263": "设$a，b和\\lambda$是正实数。假设$P$是抛物线$y^{2}=4 \\lambda x$的焦点之一，并假设椭圆$\\frac{x^{2}}{a^{2}}+\\frac{y^{2}}{b^{2}}=1$通过点$P$。如果抛物线和椭圆在点$P$处的切线互相垂直，则椭圆的离心率为\n\n(A) $\\frac{1}{\\sqrt{2}}$\n\n(B) $\\frac{1}{2}$\n\n(C) $\\frac{1}{3}$\n\n(D) $\\frac{2}{5}$"
+  },
+  {
+    "264": "让 $C_{1}$ 和 $C_{2}$ 分别表示两枚有偏置的硬币，即掷硬币一次得到正面的概率分别为 $\\frac{2}{3}$ 和 $\\frac{1}{3}$。假设当独立掷两次 $C_{1}$ 时出现的正面次数为 $\\alpha$，当独立掷两次 $C_{2}$ 时出现的正面次数为 $\\beta$。则二次多项式 $x^{2}-\\alpha x+\\beta$ 的根为实数且相等的概率是\n\n(A) $\\frac{40}{81}$\n\n(B) $\\frac{20}{81}$\n\n(C) $\\frac{1}{2}$\n\n(D) $\\frac{1}{4}$"
+  },
+  {
+    "265": "考虑所有矩形都位于该区域内\n\n\\[\n\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: 0 \\leq x \\leq \\frac{\\pi}{2} \\text { and } 0 \\leq y \\leq 2 \\sin (2 x)\\right\\}\n\\]\n\n并且有一边在$x$轴上。在所有这样的矩形中具有最大周长的矩形的面积是\n\n(A) $\\frac{3 \\pi}{2}$\n\n(B) $\\pi$\n\n(C) $\\frac{\\pi}{2 \\sqrt{3}}$\n\n(D) $\\frac{\\pi \\sqrt{3}}{2}$"
+  },
+  {
+    "266": "让函数$f: \\mathbb{R} \\rightarrow \\mathbb{R}$的定义为$f(x)=x^{3}-x^{2}+(x-1) \\sin x$，并且让$g: \\mathbb{R} \\rightarrow \\mathbb{R}$是一个任意函数。定义$f g: \\mathbb{R} \\rightarrow \\mathbb{R}$为乘积函数，即$(f g)(x)=f(x) g(x)$。那么下列哪些陈述是正确的？\n\n(A) 如果$g$在$x=1$处连续，则$f g$在$x=1$处可微\n\n(B) 如果$f g$在$x=1$处可微，则$g$在$x=1$处连续\n\n(C) 如果$g$在$x=1$处可微，则$f g$在$x=1$处可微\n\n(D) 如果$f g$在$x=1$处可微，则$g$在$x=1$处可微"
+  },
+  {
+    "267": "设$M$是一个具有实数元素的$3 \\times 3$可逆矩阵，$I$表示$3 \\times 3$单位矩阵。如果$M^{-1}=\\operatorname{adj}(\\operatorname{adj} M)$，那么以下哪些说法始终为真？\n\n(A) $M=I$\n\n(B) $\\operatorname{det} M=1$\n\n(C) $M^{2}=I$\n\n(D) $(\\operatorname{adj} M)^{2}=I$"
+  },
+  {
+    "268": "设$S$为所有满足$\\left|z^{2}+z+1\\right|=1$的复数$z$的集合。那么以下哪些陈述是正确的？\n\n(A) 对于所有$z \\in S$，都有$\\left|z+\\frac{1}{2}\\right| \\leq \\frac{1}{2}$。\n\n(B) 对于所有$z \\in S$，都有$|z| \\leq 2$。\n\n(C) 对于所有$z \\in S$，都有$\\left|z+\\frac{1}{2}\\right| \\geq \\frac{1}{2}$。\n\n(D) 集合$S$恰好有四个元素。"
+  },
+  {
+    "269": "设$x, y$和$z$是正实数。假设$x, y$和$z$是三角形边长，分别对应于其角$X, Y$和$Z$。如果\n\n\\[\n\\tan \\frac{X}{2}+\\tan \\frac{Z}{2}=\\frac{2 y}{x+y+z}\n\\]\n\n那么以下哪些说法是对的？\n\n(A) $2 Y=X+Z$\n\n(B) $Y=X+Z$\n\n(C) $\\tan \\frac{x}{2}=\\frac{x}{y+z}$\n\n(D) $x^{2}+z^{2}-y^{2}=x z$"
+  },
+  {
+    "270": "设$L_1$和$L_2$是以下两条直线：\n\n\\[\nL_{1}: \\frac{x-1}{1}=\\frac{y}{-1}=\\frac{z-1}{3} \\text{ 和 } L_{2}: \\frac{x-1}{-3}=\\frac{y}{-1}=\\frac{z-1}{1}\n\\]\n\n假设直线\n\n\\[\nL: \\frac{x-\\alpha}{l}=\\frac{y-1}{m}=\\frac{z-\\gamma}{-2}\n\\]\n\n在包含$L_{1}$和$L_{2}$的平面内，并且通过$L_{1}$和$L_{2}$的交点。如果直线$L$平分$L_{1}$和$L_{2}$之间的锐角，则以下哪些陈述是正确的？\n\n(A) $\\alpha-\\gamma=3$\n\n(B) $l+m=2$\n\n(C) $\\alpha-\\gamma=1$\n\n(D) $l+m=0$"
+  },
+  {
+    "271": "以下哪些不等式是正确的？\n\n(A) $\\int_{0}^{1} x \\cos x d x \\geq \\frac{3}{8}$\n\n(B) $\\int_{0}^{1} x \\sin x d x \\geq \\frac{3}{10}$\n\n(C) $\\int_{0}^{1} x^{2} \\cos x d x \\geq \\frac{1}{2}$\n\n(D) $\\int_{0}^{1} x^{2} \\sin x d x \\geq \\frac{2}{9}$"
+  },
+  {
+    "272": "令 $m$ 是表达式 $\\log _{3}\\left(3^{y_{1}}+3^{y_{2}}+3^{y_{3}}\\right)$ 的最小可能值，其中 $y_{1}, y_{2}, y_{3}$ 是实数，且 $y_{1}+y_{2}+y_{3}=9$。令 $M$ 是表达式 $\\left(\\log _{3} x_{1}+\\log _{3} x_{2}+\\log _{3} x_{3}\\right)$ 的最大可能值，其中 $x_{1}, x_{2}, x_{3}$ 是正实数，且 $x_{1}+x_{2}+x_{3}=9$。那么求 $\\log _{2}\\left(m^{3}\\right)+\\log _{3}\\left(M^{2}\\right)$ 的值。"
+  },
+  {
+    "273": "设$a_{1}, a_{2}, a_{3}, \\ldots$为公差为2的等差数列，$b_{1}, b_{2}, b_{3}, \\ldots$为公比为2的等比数列。如果$a_{1}=b_{1}=c$，那么对于某个正整数$n$，等式\n\n\\[\n2\\left(a_{1}+a_{2}+\\cdots+a_{n}\\right)=b_{1}+b_{2}+\\cdots+b_{n}\n\\]\n\n成立。求所有满足条件的$c$值的个数。"
+  },
+  {
+    "274": "设$f:[0,2] \\rightarrow \\mathbb{R}$是由以下函数定义的：\n\n\\[\nf(x)=(3-\\sin (2 \\pi x)) \\sin \\left(\\pi x-\\frac{\\pi}{4}\\right)-\\sin \\left(3 \\pi x+\\frac{\\pi}{4}\\right)\n\\]\n\n如果$\\alpha, \\beta \\in[0,2]$满足$\\{x \\in[0,2]: f(x) \\geq 0\\}=[\\alpha, \\beta]$，那么$\\beta-\\alpha$的值是多少？"
+  },
+  {
+    "275": "在三角形$PQR$中，设$\\vec{a}=\\overrightarrow{QR}, \\vec{b}=\\overrightarrow{RP}$和$\\vec{c}=\\overrightarrow{PQ}$。如果\n\n\\[\n|\\vec{a}|=3, \\quad|\\vec{b}|=4 \\quad \\text{ and } \\quad \\frac{\\vec{a} \\cdot(\\vec{c}-\\vec{b})}{\\vec{c} \\cdot(\\vec{a}-\\vec{b})}=\\frac{|\\vec{a}|}{|\\vec{a}|+|\\vec{b}|},\n\\]\n\n那么$|\\vec{a} \\times \\vec{b}|^{2}$的值是多少？"
+  },
+  {
+    "276": "对于具有实系数的多项式$g(x)$，设$m_{g}$表示$g(x)$的不同实根的数量。假设$S$是由具有实系数的多项式定义的集合，\n\n\\[\nS=\\left\\{\\left(x^{2}-1\\right)^{2}\\left(a_{0}+a_{1} x+a_{2} x^{2}+a_{3} x^{3}\\right): a_{0}, a_{1}, a_{2}, a_{3} \\in \\mathbb{R}\\right\\}\n\\]\n\n对于一个多项式$f$，令$f^{\\prime}$和$f^{\\prime \\prime}$分别表示它的一阶和二阶导数。那么 $\\left(m_{f^{\\prime}}+m_{f^{\\prime \\prime}}\\right)$ 的最小可能值是多少，其中$f \\in S$？"
+  },
+  {
+    "277": "让$e$表示自然对数的底。求实数$a$的值，使得右侧极限\n\n\\[\n\\lim _{x \\rightarrow 0^{+}} \\frac{(1-x)^{\\frac{1}{x}}-e^{-1}}{x^{a}}\n\\]\n\n等于一个非零实数。"
+  },
+  {
+    "278": "一列横截面积为 $S_{t}$ 的火车以速度 $v_{t}$ 运行在横截面积为 $S_{0}\\left(S_{0}=4 S_{t}\\right)$ 的长隧道内。假设火车前方几乎所有空气（密度为 $\\rho$）在火车两侧与隧道壁之间流回。此外，相对于火车来说，空气流动是稳定且层流的。将环境压力和火车内部压力设为 $p_{0}$。如果火车两侧与隧道壁之间区域的压力为 $p$，那么 $p_{0}-p=\\frac{7}{2 N} \\rho v_{t}^{2}$。求 $N$ 的值是多少？"
+  },
+  {
+    "279": "一只热气球载有一些乘客，以及一些质量为$1\\mathrm{~kg}$的沙袋，使得其总质量为$480\\mathrm{~kg}$。给予气球浮力的有效体积为$V$。气球漂浮在一个高度为$100\\mathrm{~m}$的平衡位置。当扔掉$N$个沙袋后，气球上升到一个新的接近$150\\mathrm{~m}$的平衡高度，其中气球的体积$V$保持不变。如果空气密度随着高度$h$从地面的变化为$\\rho(h)=\\rho_{0} e^{-\\frac{h}{h_{0}}}$，其中$\\rho_{0}=1.25\\mathrm{~kg}\\mathrm{~m}^{-3}$，$h_{0}=6000\\mathrm{~m}$，那么$N$的值是多少？"
+  },
+  {
+    "280": "在X射线管中，从带有电流$I$的丝（阴极）发射出的电子击中距离为$d$的靶（阳极）。靶保持在比阴极更高的电位$V$，导致连续和特征X射线的发射。如果将丝的电流$I$减少到$\\frac{I}{2}$，电势差$V$增加到$2V$，分离距离$d$减少到$\\frac{d}{2}$，那么\n\n(A) 截止波长将减半，而特征X射线的波长将保持不变\n\n(B) 截止波长以及特征X射线的波长将保持不变\n\n(C) 截止波长将减半，所有X射线的强度将减小\n\n(D) 截止波长将变为两倍，所有X射线的强度将减小"
+  },
+  {
+    "281": "两个质量和电荷相同的不导电实心球通过两根相同长度的不导电、无质量细线同时悬挂在空气中的共同点上。在平衡时，绳之间的夹角是 $\\alpha$。现在将这些球浸入密度为 $800 \\mathrm{~kg} \\mathrm{~m}^{-3}$、介电常数为21的介质液体中。如果浸泡后绳之间的夹角保持不变，则\n\n(A) 球之间的电力保持不变\n\n(B) 球之间的电力减小\n\n(C) 球的质量密度为 $840 \\mathrm{~kg} \\mathrm{~m}^{-3}$\n\n(D) 维持球的绳子的张力保持不变"
+  },
+  {
+    "282": "从$t=0$时刻起，粒子从原点以速度$1 \\mathrm{~ms}^{-1}$开始，沿着$x-y$平面内的二维轨迹运动，使得它的坐标由方程$y=\\frac{x^{2}}{2}$联系。它的加速度的$x$和$y$分量分别用$a_{x}$和$a_{y}$表示。于是\n\n(A) $a_{x}=1 \\mathrm{~ms}^{-2}$ 意味着当粒子位于原点时，$a_{y}=1 \\mathrm{~ms}^{-2}$\n\n(B) $a_{x}=0$ 意味着在所有时刻$a_{y}=1 \\mathrm{~ms}^{-2}$\n\n(C) 在$t=0$时，粒子的速度指向$x$方向\n\n(D) $a_{x}=0$ 意味着在$t=1 \\mathrm{~s}$时，粒子的速度与$x$轴的夹角为$45^{\\circ}$"
+  },
+  {
+    "283": "两个电容器的电容值为$C_{1}=2000 \\pm 10 \\mathrm{pF}$和$C_{2}=3000 \\pm 15 \\mathrm{pF}$，它们被串联起来。这个组合上施加的电压为$V=5.00 \\pm 0.02 \\mathrm{~V}$。计算这个电容器组合中储存的能量的百分误差是多少？"
+  },
+  {
+    "284": "一个铝立方体坚固块（体积模量 $=-V \\frac{d P}{d V}=70 \\mathrm{GPa}$）在地球表面的一边长为1米。它放在一个深度为$5 \\mathrm{~km}$的海洋底部。假设水的平均密度和重力加速度分别为$10^{3} \\mathrm{~kg} \\mathrm{~m}^{-3}$和$10 \\mathrm{~ms}^{-2}$，则块的边长变化为多少$\\mathrm{mm}$？"
+  },
+  {
+    "285": "一个装有$1 \\mathrm{~kg}$水的容器放在阳光下，导致水温比周围环境更高。由于阳光造成的单位时间单位面积平均能量是$700 \\mathrm{Wm}^{-2}$，被水吸收的有效面积是$0.05 \\mathrm{~m}^{2}$。假设水向周围环境散失的热量遵循牛顿冷却定律，长时间后水温和环境温度的差值是多少（不考虑容器的影响，牛顿冷却定律的常数为$0.001 \\mathrm{~s}^{-1}$，水的比热容为$4200 \\mathrm{~J}\\mathrm{~kg}^{-1}\\mathrm{~K}^{-1}$）？"
+  },
+  {
+    "286": "第1、第2和第3电离焓$I_{1}, I_{2}$和$I_{3}$，对于原子序数分别为$n, n+$ 1, $n+2$和$n+3$的四种原子，其中$n<10$，如下表所示。求$n$的数值？\n\n\\begin{center}\n\n\\begin{tabular}{|c|c|c|c|}\n\n\\hline\n\n{$\\begin{array}{c}\\text { 原子序数 } \\\\\n\n\\text { number }\\end{array}$} & \\multicolumn{3}{|c|}{电离焓 $(\\mathrm{kJ} / \\mathrm{mol})$} \\\\\n\n\\cline { 2 - 4 }\n\n & $I_{1}$ & $I_{2}$ & $I_{3}$ \\\\\n\n\\hline\n\n$n$ & 1681 & 3374 & 6050 \\\\\n\n\\hline\n\n$n+1$ & 2081 & 3952 & 6122 \\\\\n\n\\hline\n\n$n+2$ & 496 & 4562 & 6910 \\\\\n\n\\hline\n\n$n+3$ & 738 & 1451 & 7733 \\\\\n\n\\hline\n\n\\end{tabular}\n\n\\end{center}"
+  },
+  {
+    "287": "在弱碱溶液中，当化学计量的$\\mathrm{KMnO}_{4}$和$\\mathrm{KI}$发生化学反应时，对于消耗的4摩尔$\\mathrm{KMnO}_{4}$，释放的$\\mathrm{I}_{2}$的摩尔数是多少？"
+  },
+  {
+    "288": "将酸化的铬酸钾溶液与等体积的戊醇分层。在加入$1 \\mathrm{~mL}$的$3 \\% \\mathrm{H}_{2} \\mathrm{O}_{2}$后摇匀，得到一个蓝色的醇层。这种蓝色是由于生成了一种六价铬化合物'$\\mathbf{X}$'。在$\\mathbf{X}$分子中，铬通过单键与氧原子结合的数量是多少？"
+  },
+  {
+    "289": "一种有机化合物$\\left(\\mathrm{C}_{8} \\mathrm{H}_{10} \\mathrm{O}_{2}\\right)$使平面偏振光旋转。它在中性$\\mathrm{FeCl}_{3}$溶液中产生粉红色。这种化合物的所有可能异构体的总数是多少？"
+  },
+  {
+    "290": "以下哪些关于从铝土矿中提取铝的说法是正确的？\n\n(A) 当二氧化碳通过苏打铝溶液时，水合氧化铝 $\\mathrm{Al}_{2} \\mathrm{O}_{3}$ 沉淀出来。\n\n(B) 添加 $\\mathrm{Na}_{3} \\mathrm{AlF}_{6}$ 降低氧化铝的熔点。\n\n(C) 在电解过程中，阳极会释放二氧化碳。\n\n(D) 阴极是一种内衬碳的钢质容器。"
+  },
+  {
+    "291": "选择以下正确的陈述。\n\n(A) $\\mathrm{SnCl}_{2} \\cdot 2 \\mathrm{H}_{2} \\mathrm{O}$ 是一种还原剂。\n\n(B) $\\mathrm{SnO}_{2}$ 与 $\\mathrm{KOH}$ 反应形成 $\\mathrm{K}_{2}\\left[\\mathrm{Sn}(\\mathrm{OH})_{6}\\right]$。\n\n(C) 在 $\\mathrm{HCl}$ 中的 $\\mathrm{PbCl}_{2}$ 溶液中包含 $\\mathrm{Pb}^{2+}$ 和 $\\mathrm{Cl}^{-}$ 离子。\n\n(D) $\\mathrm{Pb}_{3} \\mathrm{O}_{4}$ 与稀硝酸反应生成 $\\mathrm{PbO}_{2}$ 是一个氧化还原反应。"
+  },
+  {
+    "292": "液体 $\\mathbf{A}$ 和 $\\mathbf{B}$ 在 $25^{\\circ} \\mathrm{C}$ 下以所有 $\\mathbf{A}$ 和 $\\mathbf{B}$ 的组成形成理想溶液。具有 $\\mathbf{A}$ 为 0.25 和 0.50 摩尔分数的两种这样的溶液的总蒸汽压分别为 0.3 和 0.4 大气压。求液体 $\\mathbf{B}$ 的纯蒸汽压（以大气压为单位）。"
+  },
+  {
+    "293": "用下面给定的数据确定还原锡石为焦炭所需的最低温度（以K为单位）。\n\n在$298 \\mathrm{~K}$： $\\Delta_{f} H^{0}\\left(\\mathrm{SnO}_{2}(s)\\right)=-581.0 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$, $\\Delta_{f} H^{0}\\left(\\mathrm{CO}_{2}(g)\\right)=-394.0 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$,\n\n$S^{0}\\left(\\mathrm{SnO}_{2}(\\mathrm{~s})\\right)=56.0 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$, $S^{0}(\\mathrm{Sn}(\\mathrm{s}))=52.0 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$,\n\n$S^{0}(\\mathrm{C}(s))=6.0 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$, $S^{0}\\left(\\mathrm{CO}_{2}(g)\\right)=210.0 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$.\n\n假设焓和熵是与温度无关的。"
+  },
+  {
+    "294": "一个酸化溶液中含有$0.05 \\mathrm{M} \\mathrm{Zn}^{2+}$，并且饱和了$0.1 \\mathrm{M} \\mathrm{H}_{2} \\mathrm{~S}$。为了防止$\\mathrm{ZnS}$的沉淀，所需的最小摩尔浓度(M)的$\\mathrm{H}^{+}$是多少？\n\n使用$K_{\\mathrm{sp}}(\\mathrm{ZnS})=1.25 \\times 10^{-22}$以及\n$\\mathrm{H}_{2} \\mathrm{~S}$的整体解离常数，$K_{\\mathrm{NET}}=K_{1} K_{2}=1 \\times 10^{-21}$。"
+  },
+  {
+    "295": "对于复数$z$，记$\\operatorname{Re}(z)$为$z$的实部。设$S$是满足$z^{4}-|z|^{4}=4 i z^{2}$的所有复数$z$的集合，其中$i=\\sqrt{-1}$。那么在$\\operatorname{Re}\\left(z_{1}\\right)>0$且$\\operatorname{Re}\\left(z_{2}\\right)<0$的条件下，求$\\left|z_{1}-z_{2}\\right|^{2}$的最小可能值。"
+  },
+  {
+    "296": "The probability that at least 3 successful hits occur when firing $n$ missiles is given by the cumulative distribution function of a binomial distribution:\n\n\\[\nP(X \\geq 3) = 1 - P(X < 3)\n\\]\n\nSubstitute the probability of a successful hit, $p = 0.75$, into the formula, then find the minimal $n$ that satisfies:\n\n\\[\n1 - \\left( P(X=0) + P(X=1) + P(X=2) \\right) \\geq 0.95\n\\]\n\nCalculate the values of $P(X=0)$, $P(X=1)$, and $P(X=2)$ using the binomial distribution formula, and then solve the inequality for the minimum value of $n$."
+  },
+  {
+    "297": "设$O$是圆$x^{2}+y^{2}=r^{2}$的圆心，其中$r>\\frac{\\sqrt{5}}{2}$。假设$P Q$是这个圆的一个弦，通过$P$和$Q$的直线方程为$2 x+4 y=5$。如果三角形$O P Q$的外接圆的圆心位于直线$x+2 y=4$上，那么$r$的值是多少？"
+  },
+  {
+    "298": "一个方阵的迹被定义为其对角线条目之和。如果$A$是一个$2 \\times 2$矩阵，使得$A$的迹为3且$A^{3}$的迹为-18，则$A$的行列式值是多少？"
+  },
+  {
+    "299": "让函数 $f:(-1,1) \\rightarrow \\mathbb{R}$ 和 $g:(-1,1) \\rightarrow (-1,1)$ 分别由以下方式定义\n\n\\[\nf(x)=|2x-1|+|2x+1| \\text { 且 } g(x)=x-[x] .\n\\]\n\n这里 $[x]$ 表示不超过 $x$ 的最大整数。 让 $f \\circ g:(-1,1) \\rightarrow \\mathbb{R}$ 为由 $(f \\circ g)(x)=f(g(x))$ 定义的复合函数。 假设 $c$ 是在区间 $(-1,1)$ 中 $f \\circ g$ 不连续的点数，且 $d$ 是在该区间内 $f \\circ g$ 不可微的点数。 那么 $c+d$ 的值是多少？"
+  },
+  {
+    "300": "这个极限的值是多少？\n\n\\[\n\\lim _{x \\rightarrow \\frac{\\pi}{2}} \\frac{4 \\sqrt{2}(\\sin 3 x+\\sin x)}{\\left(2 \\sin 2 x \\sin \\frac{3 x}{2}+\\cos \\frac{5 x}{2}\\right)-\\left(\\sqrt{2}+\\sqrt{2} \\cos 2 x+\\cos \\frac{3 x}{2}\\right)}\n\\]"
+  },
+  {
+    "301": "设$b$是一个非零实数。假设$f: \\mathbb{R} \\rightarrow \\mathbb{R}$是一个可导函数，且$f(0)=1$。如果函数$f$的导数$f^{\\prime}$满足方程\n\n\\[\nf^{\\prime}(x)=\\frac{f(x)}{b^{2}+x^{2}}\n\\]\n\n对于所有$x \\in \\mathbb{R}$成立，那么以下哪些陈述是正确的？\n\n(A) 如果$b>0$，则$f$是一个增函数。\n\n(B) 如果$b<0$，则$f$是一个减函数。\n\n(C) 对于所有$x \\in \\mathbb{R}$，$f(x) f(-x)=1$。\n\n(D) 对于所有$x \\in \\mathbb{R}$，$f(x)-f(-x)=0$。"
+  },
+  {
+    "302": "设$a$和$b$是正实数，且$a>1$且$b<a$。设$P$是第一象限内的一个点，位于双曲线$\\frac{x^{2}}{a^{2}}-\\frac{y^{2}}{b^{2}}=1$上。假设双曲线在$P$点处的切线经过点$(1,0)$，并且假设在$P$处的法线在坐标轴上切割出相等的截距。设$\\Delta$表示由$P$处的切线、法线和$x$轴组成的三角形的面积。如果$e$表示双曲线的离心率，则以下哪些陈述是正确的？\n\n(A) $1<e<\\sqrt{2}$\n\n(B) $\\sqrt{2}<e<2$\n\n(C) $\\Delta=a^{4}$\n\n(D) $\\Delta=b^{4}$"
+  },
+  {
+    "303": "设 $\\boldsymbol{f}: \\mathbb{R} \\rightarrow \\mathbb{R}$ 和 $\\boldsymbol{g}: \\mathbb{R} \\rightarrow \\mathbb{R}$ 是满足\n\n\\[\nf(x+y)=f(x)+f(y)+f(x) f(y) \\text { and } f(x)=x g(x)\n\\]\n\n对于所有的 $x, y \\in \\mathbb{R}$ 成立。如果 $\\lim _{x \\rightarrow 0} g(x)=1$，那么以下哪些陈述是真的？\n\n(A) 在每个 $x \\in \\mathbb{R}$ 处，$f$ 是可微的\n\n(B) 如果 $g(0)=1$，那么 $g$ 在每个 $x \\in \\mathbb{R}$ 处是可微的\n\n(C) 导数 $f^{\\prime}(1)$ 等于 1\n\n(D) 导数 $f^{\\prime}(0)$ 等于 1"
+  },
+  {
+    "304": "让 $\\alpha, \\beta, \\gamma, \\delta$ 为实数，满足 $\\alpha^{2}+\\beta^{2}+\\gamma^{2} \\neq 0$ 且 $\\alpha+\\gamma=1$。假设点 $(3,2,-1)$ 是点 $(1,0,-1)$ 相对于平面 $\\alpha x+\\beta y+\\gamma z=\\delta$ 的镜像。那么以下哪些说法是正确的？\n\n(A) $\\alpha+\\beta=2$\n\n(B) $\\delta-\\gamma=3$\n\n(C) $\\delta+\\beta=4$\n\n(D) $\\alpha+\\beta+\\gamma=\\delta$"
+  },
+  {
+    "305": "设$a$和$b$是正实数。假设$\\overrightarrow{P Q}=a \\hat{i}+b \\hat{j}$和$\\overrightarrow{P S}=a \\hat{i}-b \\hat{j}$是平行四边形$P Q R S$的相邻边。设$\\vec{u}$和$\\vec{v}$分别是$\\vec{w}=\\hat{i}+\\hat{j}$在$\\overrightarrow{P Q}$和$\\overrightarrow{P S}$方向上的投影向量。如果$|\\vec{u}|+|\\vec{v}|=|\\vec{w}|$，且如果平行四边形$P Q R S$的面积为8，则以下哪些陈述是正确的？\n\n(A) $a+b=4$\n\n(B) $a-b=2$\n\n(C) 平行四边形$P Q R S$的对角线$P R$的长度为4\n\n(D) $\\vec{w}$是向量$\\overrightarrow{P Q}$和$\\overrightarrow{P S}$的角平分线。"
+  },
+  {
+    "306": "对于非负整数$s$和$r$，定义\n\n\\[\n\\left(\\begin{array}{ll}\n\ns \\\\\n\nr\n\n\\end{array}\\right)= \\begin{cases}\\frac{s !}{r !(s-r) !} & \\text { if } r \\leq s \\\\\n\n0 & \\text { if } r>s .\\end{cases}\n\\]\n\n对于正整数$m$和$n$，定义\n\n\\[\ng(m, n)=\\sum_{p=0}^{m+n} \\frac{f(m, n, p)}{\\left(\\begin{array}{c}\n\nn+p \\\\\n\np\n\n\\end{array}\\right)}\n\\]\n\n其中对于任意非负整数$p$，\n\n\\[\nf(m, n, p)=\\sum_{i=0}^{p}\\left(\\begin{array}{c}\n\nm \\\\\n\ni\n\n\\end{array}\\right)\\left(\\begin{array}{c}\n\nn+i \\\\\n\np\n\n\\end{array}\\right)\\left(\\begin{array}{c}\n\np+n \\\\\n\np-i\n\n\\end{array}\\right) .\n\\]\n\n那么以下哪些陈述是正确的？\n\n(A) 对于所有正整数$m, n$，$g(m, n)=g(n, m)$\n\n(B) 对于所有正整数$m, n$，$g(m, n+1)=g(m+1, n)$\n\n(C) 对于所有正整数$m, n$，$g(2m, 2n)=2g(m, n)$\n\n(D) 对于所有正整数$m, n$，$g(2m, 2n)=(g(m, n))^2$"
+  },
+  {
+    "307": "一名工程师在每个月的头15天内需要参观一家工厂，每次参观需持续四天，并且要求任何两次参观之间不能连续发生。那么在2021年6月1日至15日期间，工程师可以进行这样的工厂参观的所有可能方式的数量是多少？"
+  },
+  {
+    "308": "在一家旅馆里，有四间客房可供选择。要安排六个人入住这四间客房，使得每间客房至少有一人，最多有两人。那么这种安排的可能方式总数是多少？"
+  },
+  {
+    "309": "两个公平的骰子，每个骰子的面上分别标有1、2、3、4、5和6，一起投掷，观察两个骰子面上数字之和。这个过程重复进行，直到和是质数或完全平方数为止。假设和在成为质数之前首先成为了完全平方数。如果$p$是这个完全平方数为奇数的概率，那么$14p$的值是多少？"
+  },
+  {
+    "310": "设函数 $f:[0,1] \\rightarrow \\mathbb{R}$ 定义为\n\n\\[\nf(x)=\\frac{4^{x}}{4^{x}+2}\n\\]\n\n那么要求的值为\n\n\\[\nf\\left(\\frac{1}{40}\\right)+f\\left(\\frac{2}{40}\\right)+f\\left(\\frac{3}{40}\\right)+\\cdots+f\\left(\\frac{39}{40}\\right)-f\\left(\\frac{1}{2}\\right)\n\\]"
+  },
+  {
+    "311": "设 $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ 是一个可导函数，其导数 $f^{\\prime}$ 连续且 $f(\\pi)=-6$。若 $F:[0, \\pi] \\rightarrow \\mathbb{R}$ 定义为 $F(x)=\\int_{0}^{x} f(t) d t$，并且如果\n\n\\[\n\\int_{0}^{\\pi}\\left(f^{\\prime}(x)+F(x)\\right) \\cos x d x=2,\n\\]\n\n那么 $f(0)$ 的值是多少？"
+  },
+  {
+    "312": "设函数$f:(0, \\pi) \\rightarrow \\mathbb{R}$由以下形式定义：\n\n\\[\nf(\\theta)=(\\sin \\theta+\\cos \\theta)^{2}+(\\sin \\theta-\\cos \\theta)^{4} .\n\\]\n\n假设函数$f$在$\\theta$处取得局部最小值，当且仅当$\\theta \\in\\left\\{\\lambda_{1} \\pi, \\ldots, \\lambda_{r} \\pi\\right\\}$，其中$0< \\lambda_{1} < \\cdots < \\lambda_{r} < 1$。那么$\\lambda_{1}+\\cdots+\\lambda_{r}$的值是多少？"
+  },
+  {
+    "313": "一个半衰期为20分钟的重核$Q$，以$60\\%$的概率发生$\\alpha$衰变，以$40\\%$的概率发生$\\beta$衰变。最初，$Q$核的数量为1000。在第一个小时内，$Q$发生的$\\alpha$衰变次数为\n\n(A) 50\n\n(B) 75\n\n(C) 350\n\n(D) 525"
+  },
+  {
+    "314": "一个抛体从地面上的点 $\\mathrm{O}$ 以 $45^{\\circ}$ 角向垂直方向抛出，速度为 $5 \\sqrt{2} \\mathrm{~m} / \\mathrm{s}$。抛体在轨迹的最高点分裂为两部分。一部分在分裂后 $0.5 \\mathrm{~s}$ 垂直落至地面。另一部分在分裂后 $t$ 秒后以距离 $\\mathrm{O}$ 点 $x$ 米的地方落地。重力加速度 $g=10 \\mathrm{~m} / \\mathrm{s}^2$。求 $t$ 的值。"
+  },
+  {
+    "315": "一颗抛体从地面上的点 $\\mathrm{O}$ 以 $45^{\\circ}$ 角度从垂直方向抛出，速度为 $5 \\sqrt{2} \\mathrm{~m} / \\mathrm{s}$。抛体在轨迹最高点分裂为两部分。一部分垂直落到地面，在分裂后 $0.5 \\mathrm{~s}$ 落地。另一部分，在分裂后 $t$ 秒后以距离 $\\mathrm{O}$ 点 $x$ 米落地。重力加速度 $g=10 \\mathrm{~m} / \\mathrm{s}^2$。求 $x$ 的值。"
+  },
+  {
+    "316": "一质量为 $M=0.2 \\mathrm{~kg}$ 的粒子最初静止在$x y$平面上的一个点$(x=-l$, $y=-h)$，其中$l=10 \\mathrm{~m}$ 且$h=1 \\mathrm{~m}$。粒子在时刻$t=0$以恒定加速度$a=10 \\mathrm{~m} / \\mathrm{s}^2$沿着正$x$方向加速。它的角动量和关于原点的力矩，单位是国际单位制（SI单位制），分别用$\\vec{L}$和$\\vec{\\tau}$表示。$\\hat{i}, \\hat{j}$ 和 $\\hat{k}$ 是正$x, y$ 和$z$方向的单位矢量。如果$\\hat{k}=\\hat{i} \\times \\hat{j}$，那么以下哪个结论是正确的？\n\n(A) 粒子在时刻$t=2 \\mathrm{~s}$到达点$(x=l, y=-h)$。\n\n(B) 粒子经过点$(x=l, y=-h)$时，$\\vec{\\tau}=2 \\hat{k}$。\n\n(C) 粒子经过点$(x=l, y=-h)$时，$\\vec{L}=4 \\hat{k}$。\n\n(D) 粒子经过点$(x=0, y=-h)$时，$\\vec{\\tau}=\\hat{k}$。"
+  },
+  {
+    "317": "关于氢原子的光谱，以下哪种陈述是正确的？\n\n(A) 巴尔末系列中最长波长与最短波长的比值是$9 / 5$\n\n(B) 巴尔末系列和帕森系列的波长范围有重叠\n\n(C) 莱曼系列的波长由$\\left(1+\\frac{1}{m^{2}}\\right) \\lambda_{0}$给出，其中$\\lambda_{0}$是莱曼系列的最短波长，$m$是整数\n\n(D) 莱曼系列和巴尔末系列的波长范围不重叠"
+  },
+  {
+    "318": "一个$\\alpha$-粒子（质量为4 amu）和一个带单电荷的硫离子（质量为32 amu）最初静止。它们通过电势$V$加速，然后被允许进入一个磁场均匀的区域，该磁场与粒子的速度垂直。在这个区域内，$\\alpha$-粒子和硫离子分别沿半径$r_{\\alpha}$和$r_{S}$做圆周运动。$\\left(r_{S} / r_{\\alpha}\\right)$的比值是多少？"
+  },
+  {
+    "319": "已计算得出$\\left[\\mathrm{Cr}\\left(\\mathrm{NH}_{3}\\right)_{6}\\right]^{3+}$和$\\left[\\mathrm{CuF}_{6}\\right]^{3-}$的自旋磁矩分别为$\\mathrm{BM}$，这里$\\mathrm{Cr}$和$\\mathrm{Cu}$的原子序数分别为24和29。\n\n(A) 3.87和2.84\n\n(B) 4.90和1.73\n\n(C) 3.87和1.73\n\n(D) 4.90和2.84"
+  },
+  {
+    "320": "在0.1摩尔硝酸银溶液（溶液 $\\mathbf{A}$）中，水的沸点为 $\\mathbf{x}^{\\circ} \\mathrm{C}$。向这个溶液 $\\mathbf{A}$ 中加入相同体积的0.1摩尔氯化钡溶液，得到一个新溶液 $\\mathbf{B}$。两种溶液中水的沸点差为 $\\mathbf{y} \\times 10^{-2}{ }^{\\circ} \\mathrm{C}$。\n（假设：溶液 $\\mathbf{A}$ 和 $\\mathbf{B}$ 的密度与水相同，可溶性盐完全离解。\n使用：升高常数（沸点升高常数）$K_b=0.5 \\mathrm{~K} \\mathrm{~kg} \\mathrm{~mol}^{-1}$；纯水的沸点为 $100^{\\circ} \\mathrm{C}$。）\n求 $\\mathbf{x}$ 的值。"
+  },
+  {
+    "321": "水在 0.1 摩尔硝酸银溶液（溶液 $\\mathbf{A}$ ）中的沸点是 $\\mathbf{x}^{\\circ} \\mathrm{C}$。向这个溶液 $\\mathbf{A}$ 中加入相同体积的 0.1 摩尔氯化钡溶液，得到一个新溶液 $\\mathbf{B}$。两个溶液 $\\mathbf{A}$ 和 $\\mathbf{B}$ 中水的沸点差为 $\\mathbf{y} \\times 10^{-2}{ }^{\\circ} \\mathrm{C}$。\n（假设：溶液 $\\mathbf{A}$ 和 $\\mathbf{B}$ 的密度与水相同，可溶盐完全离解。\n使用：摩尔升高常数（沸点升高常数），$K_b=0.5 \\mathrm{~K} \\mathrm{~kg} \\mathrm{~mol}^{-1}$；纯水的沸点为 $100^{\\circ} \\mathrm{C}$。）\n求 $|\\mathbf{y}|$ 的值。"
+  },
+  {
+    "322": "与胶体相关的正确说法是\n\n(A) 通过电解质沉淀胶体溶胶的过程称为胶解。\n\n(B) 与相同浓度的真溶液相比，胶体溶液的冰点更高。\n\n(C) 表面活性剂在临界胶束浓度（CMC）以上形成胶束。CMC 取决于温度。\n\n(D) 胶束是巨分子胶体。"
+  },
+  {
+    "323": "与金属提取过程相关的正确陈述是\n\n(A) 混合物 $\\mathrm{PbS}$ 和 $\\mathrm{PbO}$ 自我还原产生 $\\mathrm{Pb}$ 和 $\\mathrm{SO}_{2}$。\n\n(B) 在从黄铜矿中提取铜的过程中，加入硅产生铜硅酸盐。\n\n(C) 通过焙烧部分氧化铜的硫化矿，然后自我还原产生气泡铜。\n\n(D) 在氰化过程中，利用锌粉沉淀从 $\\mathrm{Na}\\left[\\mathrm{Au}(\\mathrm{CN})_{2}\\right]$ 中提取金。"
+  },
+  {
+    "324": "在使用$\\mathrm{Br}_{2}$和紫外光对1-甲基环己-1-烯进行单溴化反应时，可能形成的异构体的最大数量是多少？"
+  },
+  {
+    "325": "考虑一个三角形 $\\Delta$，其两边位于 $x$ 轴上，另一边位于直线 $x+y+1=0$ 上。如果 $\\Delta$ 的正交中心是 $(1,1)$，那么过三角形 $\\Delta$ 顶点的圆的方程是\n\n(A) $x^{2}+y^{2}-3 x+y=0$\n\n(B) $x^{2}+y^{2}+x+3 y=0$\n\n(C) $x^{2}+y^{2}+2 y-1=0$\n\n(D) $x^{2}+y^{2}+x+y=0$"
+  },
+  {
+    "326": "该区域的面积为\n\n\\[\n\\left\\{(x, y): 0 \\leq x \\leq \\frac{9}{4}, \\quad 0 \\leq y \\leq 1, \\quad x \\geq 3 y, \\quad x+y \\geq 2\\right\\}\n\\]\n\n是\n\n(A) $\\frac{11}{32}$\n\n(B) $\\frac{35}{96}$\n\n(C) $\\frac{37}{96}$\n\n(D) $\\frac{13}{32}$"
+  },
+  {
+    "327": "考虑三个集合 $E_{1}=\\{1,2,3\\}, F_{1}=\\{1,3,4\\}$ 和 $G_{1}=\\{2,3,4,5\\}$。从集合 $E_{1}$ 中随机选择两个元素，不放回，令 $S_{1}$ 表示这些被选择的元素构成的集合。令 $E_{2}=E_{1}-S_{1}$ 和 $F_{2}=F_{1} \\cup S_{1}$。现在从集合 $F_{2}$ 中随机选择两个元素，不放回，令 $S_{2}$ 表示这些被选择的元素构成的集合。\n\n令 $G_{2}=G_{1} \\cup S_{2}$。最后，从集合 $G_{2}$ 中随机选择两个元素，不放回，令 $S_{3}$ 表示这些被选择的元素构成的集合。\n\n令 $E_{3}=E_{2} \\cup S_{3}$。已知 $E_{1}=E_{3}$ 的条件下，令 $p$ 表示事件 $S_{1}=\\{1,2\\}$ 的条件概率。那么 $p$ 的值是\n\n(A) $\\frac{1}{5}$\n\n(B) $\\frac{3}{5}$\n\n(C) $\\frac{1}{2}$\n\n(D) $\\frac{2}{5}$"
+  },
+  {
+    "328": "让 $\\theta_{1}, \\theta_{2}, \\ldots, \\theta_{10}$ 是取正值的角度（单位为弧度），满足 $\\theta_{1}+\\theta_{2}+\\cdots+\\theta_{10}=2 \\pi$。定义复数 $z_{1}=e^{i \\theta_{1}}, z_{k}=z_{k-1} e^{i \\theta_{k}}$，其中$k=2,3, \\ldots, 10$，这里 $i=\\sqrt{-1}$。考虑以下给出的命题 $P$ 和 $Q$:\n\n\\[\n\\begin{aligned}\n& P:\\left|z_{2}-z_{1}\\right|+\\left|z_{3}-z_{2}\\right|+\\cdots+\\left|z_{10}-z_{9}\\right|+\\left|z_{1}-z_{10}\\right| \\leq 2 \\pi \\\\\n& Q:\\left|z_{2}^{2}-z_{1}^{2}\\right|+\\left|z_{3}^{2}-z_{2}^{2}\\right|+\\cdots+\\left|z_{10}^{2}-z_{9}^{2}\\right|+\\left|z_{1}^{2}-z_{10}^{2}\\right| \\leq 4 \\pi\n\\end{aligned}\n\\]\n\n那么，\n\n(A) $P$ 成立，$Q$ 不成立\n\n(B) $Q$ 成立，$P$ 不成立\n\n(C) $P$ 和 $Q$ 都成立\n\n(D) $P$ 和 $Q$ 都不成立"
+  },
+  {
+    "329": "三个数字被随机选择，用替换的方式一个接一个地从集合$S=\\{1,2,3, \\ldots, 100\\}$中选取。设$p_1$是所选数字的最大值至少为81的概率，$p_2$是所选数字的最小值最多为40的概率。求$\\frac{625}{4} p_{1}$的值。"
+  },
+  {
+    "330": "从集合$S=\\{1,2,3, \\ldots, 100\\}$中按顺序取出三个数字，允许重复选择。设$p_1$是选中的数字的最大值至少为81的概率，$p_2$是选中的数字的最小值至多为40的概率。求$\\frac{125}{4} p_{2}$的值。"
+  },
+  {
+    "331": "设$\\alpha, \\beta$和$\\gamma$是实数，使得线性方程组\n\\[\\begin{gathered}\nx+2 y+3 z=\\alpha \\\\\n4 x+5 y+6 z=\\beta \\\\\n7 x+8 y+9 z=\\gamma-1\n\\end{gathered}\\]\n是相容的。设$|M|$表示矩阵的行列式\n\\[M=\\left[\\begin{array}{ccc}\n\\alpha & 2 & \\gamma \\\\\n\\beta & 1 & 0 \\\\\n-1 & 0 & 1\n\\end{array}\\right]\\]\n设$P$为包含所有$(\\alpha, \\beta, \\gamma)$，使得上述线性方程组相容的平面，$D$为点$(0,1,0)$到平面$P$的距离的平方。求$|\\mathrm{M}|$的值。"
+  },
+  {
+    "332": "设$\\alpha, \\beta$和$\\gamma$是实数，使得线性方程组\n\\[\\begin{gathered}\nx+2 y+3 z=\\alpha \\\\\n4 x+5 y+6 z=\\beta \\\\\n7 x+8 y+9 z=\\gamma-1\n\\end{gathered}\\]\n是相容的。设$|M|$表示矩阵的行列式\n\\[M=\\left[\\begin{array}{ccc}\n\\alpha & 2 & \\gamma \\\\\n\\beta & 1 & 0 \\\\\n-1 & 0 & 1\n\\end{array}\\right]\\]\n设$P$是包含使上述线性方程组相容的所有$(\\alpha, \\beta, \\gamma)$的平面，$D$是点$(0,1,0)$到平面$P$的距离的平方。求$D$的值。"
+  },
+  {
+    "333": "考虑由$\\mathrm{L}_1$和$\\mathrm{L}_2$定义的线段$\\mathrm{L}_1: \\mathrm{x}\\sqrt{2}+\\mathrm{y}-1=0$ 和 $\\mathrm{L}_2: \\mathrm{x}\\sqrt{2}-\\mathrm{y}+1=0$。对于一个固定常数$\\lambda$，设$\\mathrm{C}$是点$\\mathrm{P}$的轨迹，使得$\\mathrm{P}$到$\\mathrm{L}_1$的距离和$\\mathrm{P}$到$\\mathrm{L}_2$的距离的乘积为$\\lambda^2$。直线$\\mathrm{y}=2\\mathrm{x}+1$与$\\mathrm{C}$在两点$\\mathrm{R}$和$\\mathrm{S}$相交，其中$\\mathrm{R}$和$\\mathrm{S}$之间的距离为$\\sqrt{270}$。\n\n定义$\\mathrm{RS}$的垂直平分线与$\\mathrm{C}$相交于两个不同的点$\\mathrm{R}^{\\prime}$和$\\mathrm{S}^{\\prime}$。设$\\mathrm{D}$是点$\\mathrm{R}^{\\prime}$和$\\mathrm{S}^{\\prime}$之间距离的平方。求$\\lambda^{2}$的值。"
+  },
+  {
+    "334": "考虑由线$L_1$和$L_2$定义的直线：\n$L_1: x\\sqrt{2}+y-1=0$ 和 $L_2: x\\sqrt{2}-y+1=0$。\n对于一个固定的常数$\\lambda$，令$C$为点$P$的轨迹，使得$P$到$L_1$和$L_2$的距离乘积为$\\lambda^2$。直线$y=2x+1$与$C$相交于两点$R$和$S$，其中$R$和$S$之间的距离是$\\sqrt{270}$。\n\n设$RS$的垂直平分线在$C$上相交于两个不同的点$R'$和$S'$。设$D$为$R'$和$S'$之间距离的平方。求$D$的值。"
+  },
+  {
+    "335": "对于任意$3 \\times 3$矩阵$M$，设$|M|$表示$M$的行列式。令\n\n\\[\nE=\\left[\\begin{array}{ccc}\n1 & 2 & 3 \\\\\n2 & 3 & 4 \\\\\n8 & 13 & 18\n\\end{array}\\right], P=\\left[\\begin{array}{ccc}\n1 & 0 & 0 \\\\\n0 & 0 & 1 \\\\\n0 & 1 & 0\n\\end{array}\\right] \\text{ 且 } F=\\left[\\begin{array}{ccc}\n1 & 3 & 2 \\\\\n8 & 18 & 13 \\\\\n2 & 4 & 3\n\\end{array}\\right]\n\\]\n\n如果$Q$是一个$3 \\times 3$阶非奇异矩阵，则下列哪些陈述是正确的？\n\n(A) $F=P E P$ 且 $P^{2}=\\left[\\begin{array}{ccc} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{array}\\right]$\n\n(B) $\\left|E Q+P F Q^{-1}\\right|=|E Q|+\\left|P F Q^{-1}\\right|$\n\n(C) $\\left|(E F)^{3}\\right|>|E F|^{2}$\n\n(D) $P^{-1} E P+F$ 对角线元素之和等于 $E+P^{-1} F P$ 对角线元素之和"
+  },
+  {
+    "336": "假设 $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ 是由以下公式定义的：\n\n\\[\nf(x)=\\frac{x^{2}-3 x-6}{x^{2}+2 x+4}\n\\]\n\n然后下列哪一些说法是正确的？\n\n(A) $f$ 在区间 $(-2,-1)$ 上是递减的。\n\n(B) $f$ 在区间 $(1,2)$ 上是递增的。\n\n(C) $f$ 是满射的。\n\n(D) $f$ 的值域是 $\\left[-\\frac{3}{2}, 2\\right]$。"
+  },
+  {
+    "337": "让$E, F$和$G$为三个事件，其概率分别为\n\n\\[\nP(E)=\\frac{1}{8}, P(F)=\\frac{1}{6} \\text { ，且 } P(G)=\\frac{1}{4} \\text {，并且 } P(E \\cap F \\cap G)=\\frac{1}{10} \\text {.}\n\\]\n\n对于任意事件$H$，如果$H^{c}$表示其补集，则以下哪些陈述是正确的？\n\n(A) $P\\left(E \\cap F \\cap G^{c}\\right) \\leq \\frac{1}{40}$\n\n(B) $P\\left(E^{c} \\cap F \\cap G\\right) \\leq \\frac{1}{15}$\n\n(C) $P(E \\cup F \\cup G) \\leq \\frac{13}{24}$\n\n(D) $P\\left(E^{c} \\cap F^{c} \\cap G^{c}\\right) \\leq \\frac{5}{12}$"
+  },
+  {
+    "338": "对于任意$3 \\times 3$矩阵$M$，记$|M|$为$M$的行列式。令$I$为$3 \\times 3$单位矩阵。令$E$和$F$是两个$3 \\times 3$矩阵，使得$(I-E F)$是可逆的。如果$G=(I-E F)^{-1}$，那么以下哪个陈述是正确的？\n\n(A) $|F E|=|I-F E||F G E|$\n\n(B) $(I-F E)(I+F G E)=I$\n\n(C) $E F G=G E F$\n\n(D) $(I-F E)(I-F G E)=I$"
+  },
+  {
+    "339": "对于任意正整数 $n$，定义 $S_{n}:(0, \\infty) \\rightarrow \\mathbb{R}$ 为\n\n\\[\nS_{n}(x)=\\sum_{k=1}^{n} \\cot ^{-1}\\left(\\frac{1+k(k+1) x^{2}}{x}\\right)\n\\]\n\n其中对于任意 $x \\in \\mathbb{R}$，$\\cot ^{-1}(x) \\in(0, \\pi)$ 且 $\\tan ^{-1}(x) \\in\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$。那么以下哪个陈述是正确的？\n\n(A) $S_{10}(x)=\\frac{\\pi}{2}-\\tan ^{-1}\\left(\\frac{1+11 x^{2}}{10 x}\\right)$，对所有 $x>0$\n\n(B) $\\lim _{n \\rightarrow \\infty} \\cot \\left(S_{n}(x)\\right)=x$，对所有 $x>0$\n\n(C) 方程 $S_{3}(x)=\\frac{\\pi}{4}$ 在$(0, \\infty)$中有一个根\n\n(D) $\\tan \\left(S_{n}(x)\\right) \\leq \\frac{1}{2}$，对所有 $n \\geq 1$ 和 $x>0$"
+  },
+  {
+    "340": "对于任意复数 $w=c+i d$，令 $\\arg (\\mathrm{w}) \\in(-\\pi, \\pi]$，其中 $i=\\sqrt{-1}$。设 $\\alpha$ 和 $\\beta$ 是实数，使得对于所有满足 $\\arg \\left(\\frac{z+\\alpha}{z+\\beta}\\right)=\\frac{\\pi}{4}$ 的复数 $z=x+i y$，有序对 $(x, y)$ 落在圆上\n\n\\[\nx^{2}+y^{2}+5 x-3 y+4=0\n\\]\n\n那么以下哪些说法是正确的？\n\n(A) $\\alpha=-1$\n\n(B) $\\alpha \\beta=4$\n\n(C) $\\alpha \\beta=-4$\n\n(D) $\\beta=4$"
+  },
+  {
+    "341": "对于$x \\in \\mathbb{R}$，方程\n\n\\[\n3 x^{2}-4\\left|x^{2}-1\\right|+x-1=0\n\\]\n\n有几个实根？"
+  },
+  {
+    "342": "在三角形 $ABC$ 中，设 $AB=\\sqrt{23}$，$BC=3$，$CA=4$。那么\n\n\\[\n\\frac{\\cot A+\\cot C}{\\cot B}\n\\] 的值是多少？"
+  },
+  {
+    "343": "一个速度为$u$向着静止管长为$L$的管的开口靠近的源正在发出频率为$f_{s}$的声音。管的远端是封闭的。空气中声速为$v$，$f_{0}$是管的基频。在以下哪种$u$和$f_{s}$的组合中，到达管的声音将导致共振？\n\n(A) $u=0.8 v$和$f_{s}=f_{0}$\n\n(B) $u=0.8 v$和$f_{s}=2 f_{0}$\n\n(C) $u=0.8 v$和$f_{s}=0.5 f_{0}$\n\n(D) $u=0.5 v$和$f_{s}=1.5 f_{0}$"
+  },
+  {
+    "344": "一个物理量$\\vec{S}$被定义为$\\vec{S}=(\\vec{E} \\times \\vec{B}) / \\mu_{0}$，其中$\\vec{E}$是电场，$\\vec{B}$是磁场，$\\mu_{0}$是自由空间的磁导率。$\\vec{S}$的维度与以下哪个物理量的维度相同？\n\n(A) $\\frac{\\text { Energy }}{\\text { Charge } \\times \\text { Current }}$\n\n(B) $\\frac{\\text { Force }}{\\text { Length } \\times \\text { Time }}$\n\n(C) $\\frac{\\text { Energy }}{\\text { Volume }}$\n\n(D) $\\frac{\\text { Power }}{\\text { Area }}$"
+  },
+  {
+    "345": "一个静止的重核$N$发生裂变$N \\rightarrow P+Q$，其中$P$和$Q$是两个较轻的核。设$\\delta=M_{N}-M_{P}-M_{Q}$，其中$M_{P}, M_{Q}$和$M_{N}$分别为$P$，$Q$和$N$的质量。$E_{P}$和$E_{Q}$分别是$P$和$Q$的动能。$P$和$Q$的速度分别为$v_{P}$和$v_{Q}$。如果$c$为光速，则以下哪种说法是正确的？\n\n(A) $E_{P}+E_{Q}=c^{2} \\delta$\n\n(B) $E_{P}=\\left(\\frac{M_{P}}{M_{P}+M_{Q}}\\right) c^{2} \\delta$\n\n(C) $\\frac{v_{P}}{v_{Q}}=\\frac{M_{Q}}{M_{P}}$\n\n(D) $P$和$Q$的动量大小均为$c \\sqrt{2 \\mu \\delta}$，其中$\\mu=\\frac{M_{P} M_{Q}}{\\left(M_{P}+M_{Q}\\right)}$"
+  },
+  {
+    "346": "一个摆由质量为$m=0.1 \\mathrm{~kg}$的小球和长度为$L=1.0 \\mathrm{~m}$的质量忽略不计、不可伸长的绳子组成。它悬挂在高度$H=0.9 \\mathrm{~m}$的固定点上，该点高于一个无摩擦水平地板。最初，摆的小球静止地位于地板上，在悬挂点下方垂直。有时刻，向小球施加水平冲量$P=0.2 \\mathrm{~kg}-\\mathrm{m}/\\mathrm{s}$。在小球滑动一段距离后，绳子绷紧，小球离开地板。在小球离开前，摆的角动量关于悬挂点的大小为$J \\mathrm{~kg}-\\mathrm{m}^2/\\mathrm{s}$。小球离开后，摆的动能为$K$焦耳。求$J$的值。"
+  },
+  {
+    "347": "一个钟摆由质量为 $m=0.1 \\mathrm{~kg}$ 的挂坠和长度为 $L=1.0 \\mathrm{~m}$ 的无质量不可伸长绳组成。它悬挂在距离地面高度为 $H=0.9 \\mathrm{~m}$ 的固定点上方，固定点上方为无摩擦的水平地面。最初，钟摆的挂坠静止地位于悬挂点正下方的地面上。在某一时刻，挂坠受到水平冲量 $P=0.2 \\mathrm{~kg}-\\mathrm{m} / \\mathrm{s}$。挂坠滑动一段距离后，绳变得拉紧并且挂坠离开地面。挂坠在离开地面之前围绕悬挂点的角动量的大小是 $J \\mathrm{~kg}-\\mathrm{m}^2 / \\mathrm{s}$。挂坠在离开地面后的动能是 $K$ 焦耳。求 $K$ 的值。"
+  },
+  {
+    "348": "在电路中，一个金属丝灯泡与一个电容器（容量为$\\mathrm{C} \\mu F$）串联连接到一个$200 \\mathrm{~V}$、$50 \\mathrm{~Hz}$的电源上。灯泡消耗的功率为$500 \\mathrm{~W}$，而其电压降为$100 \\mathrm{~V}$。假设电路中没有感性负载。取电压的有效值。电流与电源电压之间的相位角（单位：度）的大小为$\\varphi$。假设，$\\pi \\sqrt{3} \\approx 5$。求容量$C$的值。"
+  },
+  {
+    "349": "在一个电路中，一个金属丝灯泡与一个电容器串联连接，电容为 $\\mathrm{C} \\mu F$，接在一个 $200 \\mathrm{~V}, 50 \\mathrm{~Hz}$ 的电源上。灯泡消耗的功率为 $500 \\mathrm{~W}$，而其两端的电压降为 $100 \\mathrm{~V}$。假设电路中没有感性负载。取电压的有效值。电流与电源电压之间的相位角（以度为单位）的大小为 $\\varphi$。 假设，$\\pi \\sqrt{3} \\approx 5$。$\\varphi$的值是多少？"
+  },
+  {
+    "350": "对于以下反应\n\n$2 \\mathbf{X}+\\mathbf{Y} \\stackrel{k}{\\rightarrow} \\mathbf{P}$\n\n反应速率为 $\\frac{d[\\mathbf{P}]}{d t}=k[\\mathbf{X}]$。将两摩尔的 $\\mathbf{X}$ 和一摩尔的 $\\mathbf{Y}$ 混合制成 1.0 升溶液。在 $50 \\mathrm{~s}$ 时，反应混合物中剩余 $0.5$ 摩尔的 $\\mathbf{Y}$。关于该反应的正确陈述是\n\n$($ 使用 $: \\ln 2=0.693)$\n\n(A) 反应的速率常数 $k$ 为 $13.86 \\times 10^{-4} \\mathrm{~s}^{-1}$。\n\n(B) $\\mathbf{X}$ 的半衰期为 $50 \\mathrm{~s}$。\n\n(C) 在 $50 \\mathrm{~s}$ 时，$-\\frac{d[\\mathbf{X}]}{d t}=13.86 \\times 10^{-3} \\mathrm{~mol} \\mathrm{~L}^{-1} \\mathrm{~s}^{-1}$。\n\n(D) 在 $100 \\mathrm{~s}$ 时，$-\\frac{d[\\mathrm{Y}]}{d t}=3.46 \\times 10^{-3} \\mathrm{~mol} \\mathrm{~L}^{-1} \\mathrm{~s}^{-1}$。"
+  },
+  {
+    "351": "在$298\\mathrm{~K}$下，一些标准电极电势如下所示：\n\n\\[\n\\begin{array}{ll}\n\\mathrm{Pb}^{2+} / \\mathrm{Pb} & -0.13\\mathrm{~V} \\\\\n\\mathrm{Ni}^{2+} / \\mathrm{Ni} & -0.24\\mathrm{~V} \\\\\n\\mathrm{Cd}^{2+} / \\mathrm{Cd} & -0.40\\mathrm{~V} \\\\\n\\mathrm{Fe}^{2+} / \\mathrm{Fe} & -0.44\\mathrm{~V}\n\\end{array}\n\\]\n\n向一个含有$0.001\\mathrm{M}$的$\\mathbf{X}^{2+}$和$0.1\\mathrm{M}$的$\\mathbf{Y}^{2+}$的溶液中，插入了$\\mathbf{X}$和$\\mathbf{Y}$的金属棒（在$298\\mathrm{~K}$下），并通过一个导线连接起来。这导致了$\\mathbf{X}$的溶解。正确的$\\mathbf{X}$和$\\mathbf{Y}$的组合是：\n\n（已知：气体常数$\\mathrm{R}=8.314\\mathrm{~J}\\mathrm{~K}^{-1}\\mathrm{~mol}^{-1}$，法拉第常数$\\mathrm{F}=96500\\mathrm{C}\\mathrm{mol}^{-1}$）\n\n（A）$\\mathrm{Cd}$和$\\mathrm{Ni}$\n\n（B）$\\mathrm{Cd}$和$\\mathrm{Fe}$\n\n（C）$\\mathrm{Ni}$和$\\mathrm{Pb}$\n\n（D）$\\mathrm{Ni}$和$\\mathrm{Fe}$"
+  },
+  {
+    "352": "具有四面体几何构型的配合物对是\n\n（注意：\\(\\text{py} = \\)吡啶\n\n给定：Fe，Co，Ni和Cu的原子序数分别为26，27，28和29）\n\n（A）\\([\\text{FeCl}_{4}]^{-}\\)和\\([\\text{Fe}(\\text{CO})_{4}]^{2-}\\)\n\n（B）\\([\\text{Co}(\\text{CO})_{4}]^{-}\\)和\\([\\text{CoCl}_{4}]^{2-}\\)\n\n（C）\\([\\text{Ni}(\\text{CO})_{4}]\\)和\\([\\text{Ni}(\\text{CN})_{4}]^{2-}\\)\n\n（D）\\([\\text{Cu}(\\text{py})_{4}]^{+}\\)和\\([\\text{Cu}(\\text{CN})_{4}]^{3-}\\)"
+  },
+  {
+    "353": "与磷的氧酸相关的正确说法是(A) 加热时，$\\mathrm{H}_3\\mathrm{PO}_3$ 发生不均化反应产生 $\\mathrm{H}_3\\mathrm{PO}_4$ 和 $\\mathrm{PH}_3$。\n\n(B) 虽然 $\\mathrm{H}_3\\mathrm{PO}_3$ 可以作为还原剂，但 $\\mathrm{H}_3\\mathrm{PO}_4$ 不能。\n\n(C) $\\mathrm{H}_3\\mathrm{PO}_3$ 是一元酸。\n\n(D) $\\mathrm{H}_3\\mathrm{PO}_3$ 中 $\\mathrm{P}-\\mathrm{H}$ 键中的 $\\mathrm{H}$ 原子在水中不可离解。"
+  },
+  {
+    "354": "在$298\\mathrm{~K}$，一种弱一元酸的极限摩尔电导率为$4 \\times 10^2 \\mathrm{~S} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}$。在$298\\mathrm{~K}$，对于该酸的水溶液，解离度为$\\alpha$，摩尔电导率为$\\mathbf{y} \\times 10^2 \\mathrm{~S} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}$。在$298\\mathrm{~K}$，将其与水稀释20倍后，溶液的摩尔电导率变为$3\\mathbf{y} \\times 10^2 \\mathrm{~S} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}$。求$\\alpha$的值。"
+  },
+  {
+    "355": "在$298 \\mathrm{~K}$，一种弱一元酸的极限摩尔电导率为$4 \\times 10^2 \\mathrm{~S} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}$。在$298 \\mathrm{~K}$，该酸的水溶液的解离度为$\\alpha$，摩尔电导率为$\\mathbf{y} \\times 10^2 \\mathrm{~S} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}$。在$298 \\mathrm{~K}$，将其与水稀释20倍后，溶液的摩尔电导率变为$3 \\mathbf{y} \\times 10^2 \\mathrm{~S} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}$。求$\\mathbf{y}$的值。"
+  },
+  {
+    "356": "$\\mathbf{x}$ can be calculated using stoichiometry of the reactions involved. \n\n1. The reaction of $\\mathrm{Sn}$ with $\\mathrm{HCl}$ produces a salt quantitatively. Let's assume this reaction is as follows:\n\\[ \\mathrm{Sn} + \\mathbf{x} \\mathrm{HCl} \\longrightarrow \\text{Salt} \\]\n\n2. The salt produced in the first reaction reacts with $\\mathbf{y}$ g of nitrobenzene to yield $1.29~\\mathrm{g}$ of an organic salt. We can assume the reaction below:\n\\[ \\text{Salt} + \\mathbf{y\\, g \\, C}_6\\mathrm{H}_5\\mathrm{NO}_2 + \\text{HCl} \\longrightarrow \\text{Organic Salt} \\]\n\nFrom the second reaction, we can set up an equation:\n\\[ \\frac{\\text{Molar mass of Salt}}{\\mathbf{x}} + \\frac{\\text{Molar mass of C}_6\\mathrm{H}_5\\mathrm{NO}_2}{\\mathbf{y}} = \\frac{1.29}{1.29} \\]\n\nUsing the molar masses given:\n\\[ \\frac{119}{\\mathbf{x}} + \\frac{123}{\\mathbf{y}} = 1 \\]\n\nTo find the value of $\\mathbf{x}$, solve the above equation."
+  },
+  {
+    "357": "$\\mathbf{x}$克锡与盐酸定量反应产生了一种盐。在所需盐酸的存在下，整个盐的量与$\\mathbf{y}$克硝基苯反应，生成了$1.29 \\mathrm{~g}$有机盐（定量产物）。\n\n（使用$\\mathrm{H}, \\mathrm{C}, \\mathrm{N}, \\mathrm{O}, \\mathrm{Cl}$和Sn的摩尔质量（单位为$\\mathrm{g} \\mathrm{mol}^{-1}$）分别为1, 12, 14, 16, 35和119。）求$\\mathbf{y}$的值是多少？"
+  },
+  {
+    "358": "一个含有铁的样品 $(5.6 \\mathrm{~g})$ 被完全溶解在冷稀 $\\mathrm{HCl}$ 中，制备成 $250 \\mathrm{~mL}$ 的溶液。对这种溶液中的 $25.0 \\mathrm{~mL}$ 进行滴定需要 $12.5 \\mathrm{~mL}$ 的 $0.03 \\mathrm{M} \\mathrm{KMnO}_4$ 溶液达到终点。在 $250 \\mathrm{~mL}$ 溶液中存在的 $\\mathrm{Fe}^{2+}$ 的摩尔数是 $\\mathbf{x} \\times 10^{-2}$（考虑$\\mathrm{FeCl}_2$ 完全溶解）。样品中存在的铁的量为重量的 $\\mathbf{y} \\%$。\n（假设：$\\mathrm{KMnO}_4$ 只与溶液中的 $\\mathrm{Fe}^{2+}$ 发生反应\n使用：铁的摩尔质量为 $56 \\mathrm{~g} \\mathrm{~mol}^{-1}$）。求 $\\mathbf{x}$ 的值是多少？"
+  },
+  {
+    "359": "一份含铁的样品$(5.6 \\mathrm{~g})$已完全溶解在冷稀$\\mathrm{HCl}$中以配制$250 \\mathrm{~mL}$的溶液。对$25.0 \\mathrm{~mL}$的此溶液进行滴定需要$12.5 \\mathrm{~mL}$的$0.03 \\mathrm{M} \\mathrm{KMnO}_4$ 溶液达到终点。$250 \\mathrm{~mL}$溶液中$\\mathrm{Fe}^{2+}$的摩尔数为$\\mathbf{x} \\times 10^{-2}$（考虑$\\mathrm{FeCl}_2$的完全溶解）。样品中铁的含量为其重量的$\\mathbf{y} \\%$。\n（假设：$\\mathrm{KMnO}_4$只与溶液中的$\\mathrm{Fe}^{2+}$反应\n使用：铁的摩尔质量为$56 \\mathrm{~g} \\mathrm{~mol}^{-1}$）。$\\mathbf{y}$的值是多少？"
+  },
+  {
+    "360": "正确匹配列$\\mathbf{J}$中的$\\mathbf{C}-\\mathbf{H}$键（在加粗中显示）与它们在列$\\mathbf{K}$中的BDE为\n\n\\begin{center}\n\n\\begin{tabular}{|c|c|}\n\n\\hline\n\n$\\begin{array}{l}\\text { Column J } \\\\ \\text { Molecule }\\end{array}$ & $\\begin{array}{c}\\text { Column K } \\\\ \\text { BDE }\\left(\\text { kcal mol }^{-1}\\right)\\end{array}$ \\\\\n\n\\hline\n\n(P) $\\mathbf{H}-\\mathrm{CH}\\left(\\mathrm{CH}_{3}\\right)_{2}$ & (i) 132 \\\\\n\n\\hline\n\n(Q) $\\mathbf{H}-\\mathrm{CH}_{2} \\mathrm{Ph}$ & (ii) 110 \\\\\n\n\\hline\n\n(R) $\\mathbf{H}-\\mathrm{CH}=\\mathrm{CH}_{2}$ & (iii) 95 \\\\\n\n\\hline\n\n(S) $\\mathrm{H}-\\mathrm{C} \\equiv \\mathrm{CH}$ & (iv) 88 \\\\\n\n\\hline\n\n\\end{tabular}\n\n\\end{center}\n\n（A）$P$ - iii, $Q$ - iv, R - ii, S - i\n\n（B）$P-i, Q-ii, R-$ iii, S - iv\n\n（C）P - iii, Q - ii, R - i, S - iv\n\n（D）$P-ii, Q-i, R-iv, S-iii$"
+  },
+  {
+    "361": "$\\mathrm{K}_3\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]$与新鲜制备的$\\mathrm{FeSO}_4$溶液的反应产生了一种被称为特恩布尔蓝的深蓝色沉淀。完全在没有空气的情况下，$\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]$与$\\mathrm{FeSO}_4$溶液反应产生了一种白色沉淀$\\mathbf{X}$，在空气中变成蓝色。将$\\mathrm{FeSO}_4$溶液与$\\mathrm{NaNO}_3$混合，然后通过试管侧面缓慢加入浓硫酸产生了一个棕色环。沉淀$\\mathbf{X}$是\n\n(A) $\\mathrm{Fe}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]_{3}$\n\n(B) $\\mathrm{Fe}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$\n\n(C) $\\mathrm{K}_{2} \\mathrm{Fe}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$\n\n(D) $\\mathrm{KFe}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$"
+  },
+  {
+    "362": "将$\\mathrm{K}_3\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]$与新鲜制备的$\\mathrm{FeSO}_4$溶液反应会产生一种被称为特恩布尔蓝的深蓝色沉淀。将$\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]$与$\\mathrm{FeSO}_4$溶液在完全没有空气的情况下反应会产生一种白色沉淀$\\mathbf{X}$，在空气中会变成蓝色。将$\\mathrm{FeSO}_4$溶液与$\\mathrm{NaNO}_3$混合，然后缓慢滴加浓硫酸通过试管的侧面会产生一个棕色环。在以下选项中，这个棕色环是由于形成了\n\n(A) $\\left[\\mathrm{Fe}(\\mathrm{NO})_{2}\\left(\\mathrm{SO}_{4}\\right)_{2}\\right]^{2-}$\n\n(B) $\\left[\\mathrm{Fe}(\\mathrm{NO})_{2}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{4}\\right]^{3+}$\n\n(C) $\\left[\\mathrm{Fe}(\\mathrm{NO})_{4}\\left(\\mathrm{SO}_{4}\\right)_{2}\\right]$\n\n(D) $\\left[\\mathrm{Fe}(\\mathrm{NO})\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{5}\\right]^{2+}$"
+  },
+  {
+    "363": "考虑一个吸收波长为 $330 \\mathrm{~nm}$ 的光子的氦（He）原子。光子吸收后，氦原子速度的变化是多少（单位为 $\\mathrm{cm} \\mathrm{s}^{-1}$）？\n\n（假设：当光子被吸收时动量守恒。\n\n使用：普朗克常数 $=6.6 \\times 10^{-34} \\mathrm{~J} \\mathrm{~s}$，阿伏伽德罗常数 $=6 \\times 10^{23} \\mathrm{~mol}^{-1}$，氦的摩尔质量为 $4 \\mathrm{~g} \\mathrm{~mol}^{-1}$）"
+  },
+  {
+    "364": "定义：\n\n\\[\n\\begin{gathered}\n\nS_{1}=\\{(i, j, k): i, j, k \\in\\{1,2, \\ldots, 10\\}\\}, \\\\\n\nS_{2}=\\{(i, j): 1 \\leq i<j+2 \\leq 10, i, j \\in\\{1,2, \\ldots, 10\\}\\} \\\\\n\nS_{3}=\\{(i, j, k, l): 1 \\leq i<j<k<l, i, j, k, l \\in\\{1,2, \\ldots, 10\\}\\}\n\n\\end{gathered}\n\\]\n\n和\n\n\\[\nS_{4}=\\{(i, j, k, l): i, j, k \\text { and } l \\text { are distinct elements in }\\{1,2, \\ldots, 10\\}\\}\n\\]\n\n如果集合 $S_{r}$ 中的元素总数为 $n_{r}$，$r=1,2,3,4$，那么以下哪个陈述是正确的？\n\n(A) $n_{1}=1000$\n\n(B) $n_{2}=44$\n\n(C) $n_{3}=220$\n\n(D) $\\frac{n_{4}}{12}=420$"
+  },
+  {
+    "365": "考虑一个三角形 $P Q R$，其边长分别为$p, q$和$r$，对应的角为$P, Q$和$R$。那么以下哪些陈述是正确的？\n\n(A) $\\cos P \\geq 1-\\frac{p^{2}}{2 q r}$\n\n(B) $\\cos R \\geq\\left(\\frac{q-r}{p+q}\\right) \\cos P+\\left(\\frac{p-r}{p+q}\\right) \\cos Q$\n\n(C) $\\frac{q+r}{p}<2 \\frac{\\sqrt{\\sin Q \\sin R}}{\\sin P}$\n\n(D) 如果$p<q$且$p<r$，那么$\\cos Q>\\frac{p}{r}$且$\\cos R>\\frac{p}{q}$"
+  },
+  {
+    "366": "设 $f:\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right] \\rightarrow \\mathbb{R}$ 是一个连续函数，满足以下条件：\n\n\\[\nf(0)=1 \\text{ 且 } \\int_{0}^{\\frac{\\pi}{3}} f(t) d t=0\n\\]\n\n那么以下哪些说法是正确的？\n\n(A) 方程 $f(x)-3 \\cos 3 x=0$ 在区间 $\\left(0, \\frac{\\pi}{3}\\right)$ 内至少有一个解。\n\n(B) 方程 $f(x)-3 \\sin 3 x=-\\frac{6}{\\pi}$ 在区间 $\\left(0, \\frac{\\pi}{3}\\right)$ 内至少有一个解。\n\n(C) $\\lim _{x \\rightarrow 0} \\frac{x \\int_{0}^{x} f(t) d t}{1-e^{x^{2}}}=-1$\n\n(D) $\\lim _{x \\rightarrow 0} \\frac{\\sin x \\int_{0}^{x} f(t) d t}{x^{2}}=-1$"
+  },
+  {
+    "367": "对于任意实数 $\\alpha$ 和 $\\beta$，设 $y_{\\alpha, \\beta}(x), x \\in \\mathbb{R}$ 满足微分方程\n\n\\[\n\\frac{d y}{d x}+\\alpha y=x e^{\\beta x}, \\quad y(1)=1\n\\]\n\n令 $S=\\left\\{y_{\\alpha, \\beta}(x): \\alpha, \\beta \\in \\mathbb{R}\\right\\}$。那么以下哪个函数属于集合 $S$?\n\n(A) $f(x)=\\frac{x^{2}}{2} e^{-x}+\\left(e-\\frac{1}{2}\\right) e^{-x}$\n\n(B) $f(x)=-\\frac{x^{2}}{2} e^{-x}+\\left(e+\\frac{1}{2}\\right) e^{-x}$\n\n(C) $f(x)=\\frac{e^{x}}{2}\\left(x-\\frac{1}{2}\\right)+\\left(e-\\frac{e^{2}}{4}\\right) e^{-x}$\n\n(D) $f(x)=\\frac{e^{x}}{2}\\left(\\frac{1}{2}-x\\right)+\\left(e+\\frac{e^{2}}{4}\\right) e^{-x}$"
+  },
+  {
+    "368": "设$E$表示抛物线$y^{2}=8x$。设$P=(-2,4)$，$Q$和$Q'$是$E$上的两个不同点，使得线段$PQ$和$PQ'$是$E$的切线。设$F$为$E$的焦点。那么以下哪些说法是正确的？\n\n(A) 三角形$PFQ$是直角三角形\n\n(B) 三角形$QPQ'$是直角三角形\n\n(C) 点$P$和$F$之间的距离是$5\\sqrt{2}$\n\n(D) 点$F$在连接$Q$和$Q'$的直线上。"
+  },
+  {
+    "369": "考虑区域 $R=\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: x \\geq 0\\right.$ 且 $\\left.y^2 \\leq 4-x\\right\\}$。令 $\\mathcal{F}$ 为所有包含在 $R$ 中且圆心在 $x$-轴上的圆组成的集合。设 $C$ 是 $\\mathcal{F}$ 中半径最大的圆。设 $(\\alpha, \\beta)$ 是圆 $C$ 与曲线 $y^2=4-x$ 相交的点。求圆 $C$ 的半径。"
+  },
+  {
+    "370": "考虑区域 $R=\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: x \\geq 0\\right.$ and $\\left.y^2 \\leq 4-x\\right\\}$。令 $\\mathcal{F}$ 为所有包含在 $R$ 中且圆心在 $x$ 轴上的圆的集合。令 $C$ 为 $\\mathcal{F}$ 中半径最大的圆。设 $(\\alpha, \\beta)$ 是圆 $C$ 和曲线 $y^2=4-x$ 相交的点。求 $\\alpha$ 的值。"
+  },
+  {
+    "371": "设$f_1:(0, \\infty) \\rightarrow \\mathbb{R}$和$f_2:(0, \\infty) \\rightarrow \\mathbb{R}$如下定义：\n\\[f_1(x)=\\int_0^x \\prod_{j=1}^{21}(t-j)^j dt, x>0\\]\n和\n\\[f_2(x)=98(x-1)^{50}-600(x-1)^{49}+2450, x>0\\]\n其中，对于任意正整数$n$和实数$a_1, a_2, \\ldots, a_n$，$\\prod_{i=1}^{n} a_i$表示$a_1, a_2, \\ldots, a_n$的乘积。记$m_i$和$n_i$分别为函数$f_i, i=1,2$在区间$(0, \\infty)$内局部最小值点的个数和局部最大值点的个数。求$2m_{1}+3n_{1}+m_{1}n_{1}$的值。"
+  },
+  {
+    "372": "令$f_1:(0, \\infty) \\rightarrow \\mathbb{R}$和$f_2:(0, \\infty) \\rightarrow \\mathbb{R}$定义为\n\\[f_1(x)=\\int_0^x \\prod_{j=1}^{21}(t-j)^j dt, x>0\\]\n和\n\\[f_2(x)=98(x-1)^{50}-600(x-1)^{49}+2450, x>0\\]\n这里，对于任何正整数$n$和实数$a_1, a_2, \\ldots, a_n$，$\\prod_{i=1}^{n} a_i$表示$a_1, a_2, \\ldots, a_n$的乘积。分别用$m_i$和$n_i$表示函数$f_i, i=1,2$在区间$(0, \\infty)$内的局部极小点数和局部极大点数。求$6m_{2}+4n_{2}+8m_{2}n_{2}$的值。"
+  },
+  {
+    "373": "设 $\\mathrm{g}_i:\\left[\\frac{\\pi}{8}, \\frac{3 \\pi}{8}\\right] \\rightarrow \\mathbb{R}, \\mathrm{i}=1,2$，以及 $f:\\left[\\frac{\\pi}{8}, \\frac{3 \\pi}{8}\\right] \\rightarrow \\mathbb{R}$ 是这样的函数：$\\mathrm{g}_1(\\mathrm{x})=1, \\mathrm{~g}_2(\\mathrm{x})=|4 \\mathrm{x}-\\pi|$，$f(\\mathrm{x})=\\sin ^2 \\mathrm{x}$，对于所有的 $\\mathrm{x} \\in\\left[\\frac{\\pi}{8}, \\frac{3 \\pi}{8}\\right]$。\n\n定义 $\\mathrm{S}_i=\\int_{\\frac{\\pi}{8}}^{\\frac{3 \\pi}{8}} f(\\mathrm{x}) \\cdot \\mathrm{g}_i(\\mathrm{x}) \\mathrm{dx}, i=1,2$。求 $\\frac{16 S_{1}}{\\pi}$ 的值。"
+  },
+  {
+    "374": "考虑集合\n\\[\\mathrm{M}=\\left\\{(\\mathrm{x}, \\mathrm{y}) \\in \\mathbb{R} \\times \\mathbb{R}: \\mathrm{x}^2+\\mathrm{y}^2 \\leq \\mathrm{r}^2\\right\\}\\]\n其中$\\mathrm{r}>0$。考虑几何级数$a_n=\\frac{1}{2^{n-1}}, n=1,2,3, \\ldots$。令$S_0=0$，对于$n \\geq 1$，$S_n$表示这个级数前$n$项的和。对于$n \\geq 1$，$C_n$表示以$\\left(S_{n-1}, 0\\right)$为圆心，半径为$a_n$的圆，$D_n$表示以$\\left(S_{n-1}, S_{n-1}\\right)$为圆心，半径为$a_n$的圆。考虑$r=\\frac{1025}{513}$的情况下的集合$M$。令$k$为所有在$M$内部的圆$C_{n}$的数量。令$l$为这$k$个圆中不相交的圆的最大可能数量。那么\n\n(A) $k+2 l=22$\n\n(B) $2 k+l=26$\n\n(C) $2 k+3 l=34$\n\n(D) $3 k+2 l=40$"
+  },
+  {
+    "375": "让\n\\[\\mathrm{M}=\\left\\{(\\mathrm{x}, \\mathrm{y}) \\in \\mathbb{R} \\times \\mathbb{R}: \\mathrm{x}^2+\\mathrm{y}^2 \\leq \\mathrm{r}^2\\right\\}\\]\n其中$\\mathrm{r}>0$。考虑等比数列 $a_n=\\frac{1}{2^{n-1}}, n=1,2,3, \\ldots$。设$S_0=0$，对于$n \\geq 1$，$S_n$表示该数列的前$n$项和。对于$n \\geq 1$，$C_n$表示以$\\left(S_{n-1}, 0\\right)$为圆心、$a_n$为半径的圆，$D_n$表示以$\\left(S_{n-1}, S_{n-1}\\right)$为圆心、$a_n$为半径的圆。考虑$r=\\frac{\\left(2^{199}-1\\right) \\sqrt{2}}{2^{198}}$的情况下的$M$。所有在$M$内部的圆$D_{n}$的数量是\n\n(A) 198\n\n(B) 199\n\n(C) 200\n\n(D) 201"
+  },
+  {
+    "376": "令$\\psi_1:[0, \\infty) \\rightarrow \\mathbb{R}$，$\\psi_2:[0, \\infty) \\rightarrow \\mathbb{R}$，$f:[0, \\infty) \\rightarrow \\mathbb{R}$以及$g:[0, \\infty) \\rightarrow \\mathbb{R}$为函数，满足以下条件：\n\\[\\begin{aligned}\n& f(0)=g(0)=0, \\\\\n& \\psi_1(x)=e^{-x}+x, \\quad x \\geq 0, \\\\\n& \\psi_2(x)=x^2-2x-2e^{-x}+2, \\quad x \\geq 0, \\\\\n& f(x)=\\int_{-x}^{x}(|t|-t^2) e^{-t^2} dt, \\quad x>0\n\\end{aligned}\\]\n和\n\\[g(x)=\\int_0^{x^2} \\sqrt{t} e^{-t} dt, \\quad x>0\\]. 以下哪个说法是正确的？\n\n(A) $f(\\sqrt{\\ln 3})+g(\\sqrt{\\ln 3})=\\frac{1}{3}$\n\n(B) 对于每个$x>1$，存在$\\alpha \\in(1, x)$，使得$\\psi_{1}(x)=1+\\alpha x$\n\n(C) 对于每个$x>0$，存在$\\beta \\in(0, x)$，使得$\\psi_{2}(x)=2 x(\\psi_{1}(\\beta)-1)$\n\n(D) $f$在区间$\\left[0, \\frac{3}{2}\\right]$上是增函数"
+  },
+  {
+    "377": "只考虑反三角函数的主值，求\n\n\\[\n\\frac{3}{2} \\cos ^{-1} \\sqrt{\\frac{2}{2+\\pi^{2}}}+\\frac{1}{4} \\sin ^{-1} \\frac{2 \\sqrt{2} \\pi}{2+\\pi^{2}}+\\tan ^{-1} \\frac{\\sqrt{2}}{\\pi}\n\\]的值。"
+  },
+  {
+    "378": "让 $\\alpha$ 是一个正实数。让 $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ 和 $g:(\\alpha, \\infty) \\rightarrow \\mathbb{R}$ 为以下函数：\n\n\\[\nf(x)=\\sin \\left(\\frac{\\pi x}{12}\\right) \\quad \\text { 和 } \\quad g(x)=\\frac{2 \\log _{\\mathrm{e}}(\\sqrt{x}-\\sqrt{\\alpha})}{\\log _{\\mathrm{e}}\\left(e^{\\sqrt{x}}-e^{\\sqrt{\\alpha}}\\right)}\n\\]\n\n那么 $\\lim _{x \\rightarrow \\alpha^{+}} f(g(x))$ 的值是多少？"
+  },
+  {
+    "379": "在一项关于流行病的研究中，收集了900人的数据。发现：\n\n190人有发烧症状，\n\n220人有咳嗽症状，\n\n220人有呼吸问题症状，\n\n330人有发烧或咳嗽或两者都有的症状，\n\n350人有咳嗽或呼吸问题或两者都有的症状，\n\n340人有发烧或呼吸问题或两者都有的症状，\n\n30人同时具有这三种症状（发烧、咳嗽和呼吸问题）。\n\n如果从这900人中随机选择一个人，那么这个人具有至多一种症状的概率是多少？"
+  },
+  {
+    "380": "设$z$是一个具有非零虚部的复数。如果\n\n\\[\n\\frac{2+3 z+4 z^{2}}{2-3 z+4 z^{2}}\n\\]\n\n是一个实数，那么$|z|^{2}$的值是多少？"
+  },
+  {
+    "381": "让$\\bar{z}$表示复数$z$的复共轭，令$i=\\sqrt{-1}$。在复数集中，方程\n\n\\[\n\\bar{z}-z^{2}=i\\left(\\bar{z}+z^{2}\\right)\n\\]\n\n的不同根的数量是多少？"
+  },
+  {
+    "382": "设$l_{1}, l_{2}, \\ldots, l_{100}$为首项为$d_{1}$的等差数列，$w_{1}, w_{2}, \\ldots, w_{100}$为首项为$d_{2}$的等差数列，其中$d_{1} d_{2}=10$。对于每个$i=1,2, \\ldots, 100$，$R_{i}$表示长为$l_{i}$，宽为$w_{i}$，面积为$A_{i}$的矩形。如果$A_{51}-A_{50}=1000$，求$A_{100}-A_{90}$的值。"
+  },
+  {
+    "383": "闭区间$[2022, 4482]$中由数字$0,2,3,4,6,7$组成的4位整数的数量是多少？"
+  },
+  {
+    "384": "设$ABC$为三角形，其中$AB=1,AC=3$且$\\angle BAC=\\frac{\\pi}{2}$。如果半径为$r>0$的圆与边$AB,AC$相切，并且在内部与三角形$ABC$的外接圆相切，则$r$的值是多少？"
+  },
+  {
+    "385": "考虑方程\n\n\\[\n\\int_{1}^{e} \\frac{\\left(\\log _{\\mathrm{e}} x\\right)^{1 / 2}}{x\\left(a-\\left(\\log _{\\mathrm{e}} x\\right)^{3 / 2}\\right)^{2}} d x=1, \\quad a \\in(-\\infty, 0) \\cup(1, \\infty) .\n\\]\n\n以下哪个说法是正确的?\n\n(A) 没有任何 $a$ 满足上述方程\n\n(B) 整数 $a$ 满足上述方程\n\n(C) 无理数 $a$ 满足上述方程\n\n(D) 多于一个 $a$ 满足上述方程"
+  },
+  {
+    "386": "设$a_{1}, a_{2}, a_{3}, \\ldots$为公差为8的等差数列，且$a_{1}=7$。设$T_{1}, T_{2}, T_{3}, \\ldots$满足$T_{1}=3$，且对于$n \\geq 1$，有$T_{n+1}-T_{n}=a_{n}$。那么，以下哪个判断是正确的？\n\n(A) $T_{20}=1604$\n\n(B) $\\sum_{k=1}^{20} T_{k}=10510$\n\n(C) $T_{30}=3454$\n\n(D) $\\sum_{k=1}^{30} T_{k}=35610$"
+  },
+  {
+    "387": "设$P_{1}$和$P_{2}$是由以下方程定义的两个平面：\n\n\\[\n\\begin{aligned}\n\n& P_{1}: 10 x+15 y+12 z-60=0, \\\\\n\n& P_{2}: -2 x+5 y+4 z-20=0 .\n\n\\end{aligned}\n\\]\n\n以下哪条直线可以作为一个四面体的边，其中两个面分别位于$P_{1}$和$P_{2}$上？\n\n(A) $\\frac{x-1}{0}=\\frac{y-1}{0}=\\frac{z-1}{5}$\n\n(B) $\\frac{x-6}{-5}=\\frac{y}{2}=\\frac{z}{3}$\n\n(C) $\\frac{x}{-2}=\\frac{y-4}{5}=\\frac{z}{4}$\n\n(D) $\\frac{x}{1}=\\frac{y-4}{-2}=\\frac{z}{3}$"
+  },
+  {
+    "388": "设$S$是点$Q$关于以下平面的镜像：\n\n\\[\n\\vec{r}=-(t+p) \\hat{i}+t \\hat{j}+(1+p) \\hat{k}\n\\]\n\n其中$t, p$是实参数，$\\hat{i}, \\hat{j}, \\hat{k}$是三个正坐标轴的单位向量。如果$Q$和$S$的位置矢量分别为$10 \\hat{i}+15 \\hat{j}+20 \\hat{k}$和$\\alpha \\hat{i}+\\beta \\hat{j}+\\gamma \\hat{k}$，那么以下哪个/哪些是正确的？\n\n(A) $3(\\alpha+\\beta)=-101$\n\n(B) $3(\\beta+\\gamma)=-71$\n\n(C) $3(\\gamma+\\alpha)=-86$\n\n(D) $3(\\alpha+\\beta+\\gamma)=-121$"
+  },
+  {
+    "389": "设$|M|$表示一个方阵$M$的行列式。设$g:\\left[0, \\frac{\\pi}{2}\\right] \\rightarrow \\mathbb{R}$是下面这个函数：\n\n其中\n\n\\[\ng(\\theta)=\\sqrt{f(\\theta)-1}+\\sqrt{f\\left(\\frac{\\pi}{2}-\\theta\\right)-1}\n\\]\n\n$f(\\theta)=\\frac{1}{2}\\left|\\begin{array}{ccc}1 & \\sin \\theta & 1 \\\\ -\\sin \\theta & 1 & \\sin \\theta \\\\ -1 & -\\sin \\theta & 1\\end{array}\\right|+\\left|\\begin{array}{ccc}\\sin \\pi & \\cos \\left(\\theta+\\frac{\\pi}{4}\\right) & \\tan \\left(\\theta-\\frac{\\pi}{4}\\right) \\\\ \\sin \\left(\\theta-\\frac{\\pi}{4}\\right) & -\\cos \\frac{\\pi}{2} & \\log _{e}\\left(\\frac{4}{\\pi}\\right) \\\\ \\cot \\left(\\theta+\\frac{\\pi}{4}\\right) & \\log _{e}\\left(\\frac{\\pi}{4}\\right) & \\tan \\pi\\end{array}\\right|$\n  \n设$p(x)$是一个二次多项式，其根是函数$g(\\theta)$的最大值和最小值，且$p(2)=2-\\sqrt{2}$。那么，以下哪个命题是正确的？\n\n(A) $p\\left(\\frac{3+\\sqrt{2}}{4}\\right)<0$\n\n(B) $p\\left(\\frac{1+3 \\sqrt{2}}{4}\\right)>0$\n\n(C) $p\\left(\\frac{5 \\sqrt{2}-1}{4}\\right)>0$\n\n(D) $p\\left(\\frac{5-\\sqrt{2}}{4}\\right)<0$"
+  },
+  {
+    "390": "考虑以下列表：\n列表-I\n(I) $\\left\\{x \\in\\left[-\\frac{2 \\pi}{3}, \\frac{2 \\pi}{3}\\right]: \\cos x+\\sin x=1\\right\\}$\n(II) $\\left\\{x \\in\\left[-\\frac{5 \\pi}{18}, \\frac{5 \\pi}{18}\\right]: \\sqrt{3} \\tan 3 x=1\\right\\}$\n(III) $\\left\\{x \\in\\left[-\\frac{6 \\pi}{5}, \\frac{6 \\pi}{5}\\right]: 2 \\cos (2 x)=\\sqrt{3}\\right\\}$\n(IV) $\\left\\{x \\in\\left[-\\frac{7 \\pi}{4}, \\frac{7 \\pi}{4}\\right]: \\sin x-\\cos x=1\\right\\}$\n\n列表-II\n(P) 有两个元素\n(Q) 有三个元素\n(R) 有四个元素\n(S) 有五个元素\n(T) 有六个元素\n\n正确选项是：\n\n(A) (I) $\\rightarrow$ (P); (II) $\\rightarrow$ (S); (III) $\\rightarrow$ (P); (IV) $\\rightarrow$ (S)\n\n(B) (I) $\\rightarrow$ (P); (II) $\\rightarrow$ (P); (III) $\\rightarrow$ (T); (IV) $\\rightarrow$ (R)\n\n(C) (I) $\\rightarrow$ (Q); (II) $\\rightarrow$ (P); (III) $\\rightarrow$ (T); (IV) $\\rightarrow$ (S)\n\n(D) (I) $\\rightarrow$ (Q); (II) $\\rightarrow$ (S); (III) $\\rightarrow$ (P); (IV) $\\rightarrow$ (R)"
+  },
+  {
+    "391": "有两名玩家$P_{1}$和$P_{2}$彼此对战。在游戏的每一轮中，每位玩家都会掷一次公平骰子，其中骰子的六个面有六个不同的数字。设$x$和$y$分别表示$P_{1}$和$P_{2}$掷出的骰子上的数字。如果$x>y$，则$P_{1}$得5分，$P_{2}$得0分。如果$x=y$，则每位玩家得2分。如果$x<y$，则$P_{1}$得0分，$P_{2}$得5分。设$X_{i}$和$Y_{i}$分别表示玩完第$i^{\\text {th }}$轮后$P_{1}$和$P_{2}$的总分。\n\nList-I\n(I) $\\left(X_2 \\geq Y_2\\right)$的概率为\n(II) $\\left(X_2>Y_2\\right)$的概率为\n(III) $\\left(X_3=Y_3\\right)$的概率为\n(IV) $\\left(X_3>Y_3\\right)$的概率为\n\nList-II\n(P) $\\frac{3}{8}$\n(Q) $\\frac{11}{16}$\n(R) $\\frac{5}{16}$\n(S) $\\frac{355}{864}$\n(T) $\\frac{77}{432}$\n\n正确选项是：\n\n(A) (I) $\\rightarrow$ (Q); (II) $\\rightarrow$ (R); (III) $\\rightarrow$ (T); (IV) $\\rightarrow$ (S)\n\n(B) (I) $\\rightarrow$ (Q); (II) $\\rightarrow$ (R); (III) $\\rightarrow$ (T); (IV) $\\rightarrow$ (T)\n\n(C) (I) $\\rightarrow$ (P); (II) $\\rightarrow$ (R); (III) $\\rightarrow$ (Q); (IV) $\\rightarrow$ (S)\n\n(D) (I) $\\rightarrow$ (P); (II) $\\rightarrow$ (R); (III) $\\rightarrow$ (Q); (IV) $\\rightarrow$ (T)"
+  },
+  {
+    "392": "令$p, q, r$分别为一个调和级数的第$10^{\\text {th }}$，$100^{\\text {th }}$和$1000^{\\text {th }}$项的非零实数。考虑线性方程组\n\n\\[\n\\begin{gathered}\nx+y+z=1 \\\\\n10 x+100 y+1000 z=0 \\\\\nq r x+p r y+p q z=0\n\\end{gathered}\n\\]\n\n列表-I\n(I) 如果$\\frac{q}{r}=10$，则线性方程组有\n(II) 如果$\\frac{p}{r} \\neq 100$，则线性方程组有\n(III) 如果$\\frac{p}{q} \\neq 10$，则线性方程组有\n(IV) 如果$\\frac{p}{q}=10$，则线性方程组有\n\n列表-II\n(P) $x=0, \\quad y=\\frac{10}{9}, z=-\\frac{1}{9}$为一个解\n(Q) $x=\\frac{10}{9}, y=-\\frac{1}{9}, z=0$为一个解\n(III) 如果$\\frac{p}{q} \\neq 10$，则线性方程组\n(R) 有无穷多解\n(IV) 如果$\\frac{p}{q}=10$，则线性方程组\n(S) 无解\n(T) 至少有一个解\n\n正确选项是:\n\n(A) (I) $\\rightarrow$ (T); (II) $\\rightarrow$ (R); (III) $\\rightarrow$ (S); (IV) $\\rightarrow$ (T)\n\n(B) (I) $\\rightarrow$ (Q); (II) $\\rightarrow$ (S); (III) $\\rightarrow$ (S); (IV) $\\rightarrow$ (R)\n\n(C) (I) $\\rightarrow$ (Q); (II) $\\rightarrow$ (R); (III) $\\rightarrow$ (P); (IV) $\\rightarrow$ (R)\n\n(D) (I) $\\rightarrow$ (T); (II) $\\rightarrow$ (S); (III) $\\rightarrow$ (P); (IV) $\\rightarrow$ (T)"
+  },
+  {
+    "393": "考虑椭圆\n\n\\[\n\\frac{x^{2}}{4}+\\frac{y^{2}}{3}=1\n\\]\n\n设$H(\\alpha, 0), 0<\\alpha<2$为一点。通过$H$且与$y$轴平行的直线在第一象限穿过椭圆和其辅助圆分别在点$E$和$F$处。过点$E$的椭圆切线与正$x$轴相交于点$G$。假设连接$F$和原点的直线与正$x$轴成角$\\phi$。\n\n列表I\n(I) 若$\\phi=\\frac{\\pi}{4}$，则三角形$FGH$的面积为\n(II) 若$\\phi=\\frac{\\pi}{3}$，则三角形$FGH$的面积为\n(III) 若$\\phi=\\frac{\\pi}{6}$，则三角形$FGH$的面积为\n(IV) 若$\\phi=\\frac{\\pi}{12}$，则三角形$FGH$的面积为\n\n列表II\n(P) $\\frac{(\\sqrt{3}-1)^4}{8}$\n(Q) 1\n(R) $\\frac{3}{4}$\n(S) $\\frac{1}{2 \\sqrt{3}}$\n(T) $\\frac{3 \\sqrt{3}}{2}$\n\n正确选项为：\n\n(A) (I) $\\rightarrow$ (R); (II) $\\rightarrow$ (S); (III) $\\rightarrow$ (Q); (IV) $\\rightarrow$ (P)\n\n(B) $\\quad$ (I) $\\rightarrow$ (R); (II) $\\rightarrow$ (T); (III) $\\rightarrow$ (S); (IV) $\\rightarrow$ (P)\n\n(C) $\\quad$ (I) $\\rightarrow$ (Q); (II) $\\rightarrow$ (T); (III) $\\rightarrow$ (S); (IV) $\\rightarrow$ (P)\n\n(D) $\\quad$ (I) $\\rightarrow$ (Q); (II) $\\rightarrow$ (S); (III) $\\rightarrow$ (Q); (IV) $\\rightarrow$ (P)"
+  },
+  {
+    "394": "两个球形恒星 $A$ 和 $B$ 分别具有密度 $\\rho_{A}$ 和 $\\rho_{B}$。 $A$ 和 $B$ 具有相同的半径，它们的质量 $M_{A}$ 和 $M_{B}$ 满足 $M_{B}=2 M_{A}$。由于一种相互作用过程，恒星 $A$ 失去了一些质量，导致其半径减半，但保持了球形，其密度保持为 $\\rho_{A}$。 $A$ 失去的整个质量都以密度为 $\\rho_{A}$ 的厚球壳的形式沉积在 $B$ 上。如果 $v_{A}$ 和 $v_{B}$ 是相互作用过程后从 $A$ 和 $B$ 逃逸的速度，则比值 $\\frac{v_{B}}{v_{A}}=\\sqrt{\\frac{10 n}{15^{1 / 3}}} $。求 $n$ 的值。"
+  },
+  {
+    "395": "在实验室参考系中，α粒子引发核反应${ }_{7}^{16}\\mathrm{N}+{ }_{2}^{4}\\mathrm{He}\\rightarrow{ }_{1}^{1}\\mathrm{H}+{ }_{8}^{19}\\mathrm{O}$所需的最小动能为$n$（单位为$MeV$）。假设${ }_{7}^{16}\\mathrm{N}$在实验室参考系中静止。${ }_{7}^{16}\\mathrm{N}$，${ }_{2}^{4}\\mathrm{He}$，${ }_{1}^{1}\\mathrm{H}$和${ }_{8}^{19}\\mathrm{O}$的质量可取为$16.006u$，$4.003u$，$1.008u$和$19.003u$，其中$1u=930MeV^{-2}$。求$n$的数值是多少？"
+  },
+  {
+    "396": "在$t=0$时刻，半径为$1 \\mathrm{~m}$的圆盘开始在一个水平面上滚动，有角加速度$\\alpha=\\frac{2}{3} \\mathrm{rads}^{-2}$。一个小石块粘在圆盘上。在$t=0$时，它位于圆盘和平面的接触点。稍后，在$t=\\sqrt{\\pi} s$时，石块脱离并与圆盘呈切线飞出。石块从平面测得的最大高度（以$m$为单位）为$\\frac{1}{2}+\\frac{x}{10}$。求$x$的值？$\\left[\\right.$ 取$\\left.g=10 m s^{-2}.\\right]$"
+  },
+  {
+    "397": "考虑一个LC电路，其中电感为$L=0.1 \\mathrm{H}$，电容为$C=10^{-3} \\mathrm{~F}$，放置在一个平面上。电路的面积为$1 \\mathrm{~m}^{2}$。电路置于一个垂直于电路平面的恒定磁场$B_0$中。在时间$t=0$时，磁场强度开始线性增加，表示为$B=B_{0}+\\beta t$，其中$\\beta=0.04 \\mathrm{Ts}^{-1}$。在电路中，电流的最大幅值是多少（以$mA$为单位）？"
+  },
+  {
+    "398": "一个抛射体以速度 $v$ 和发射角 $\\theta$ 从水平地面射出。当重力加速度为 $g$ 时，抛射体的射程为 $d$。若在其轨迹的最高点，抛射体进入一个重力加速度为 $g^{\\prime}=\\frac{g}{0.81}$ 的不同区域，则新的射程为$d^{\\prime}=n d$。求 $n$ 的值。"
+  },
+  {
+    "399": "核子在原子核中的结合能会受到成对的库仑排斥力的影响。假设所有核子均匀分布在原子核内。设质子的结合能为 $E_{b}^{p}$，中子的结合能为 $E_{b}^{n}$。\n\n以下哪种说法是正确的？\n\n(A) $E_{b}^{p}-E_{b}^{n}$ 与原子核的原子序数 $Z$ 成正比，其中 $Z$ 是原子核的原子序数。\n\n(B) $E_{b}^{p}-E_{b}^{n}$ 与原子核的质量数 $A$ 的三分之一次幂成反比，其中 $A$ 是原子核的质量数。\n\n(C) $E_{b}^{p}-E_{b}^{n}$ 是正的。\n\n(D) 如果原子核发生贝塔衰变并释放正电子，则 $E_{b}^{p}$ 会增加。"
+  },
+  {
+    "455": "让 $Q$ 是立方体，其顶点集为 $\\left\\{\\left(x_{1}, x_{2}, x_{3}\\right) \\in \\mathbb{R}^{3}: x_{1}, x_{2}, x_{3} \\in\\{0, 1\\}\\right\\}$。设 $F$ 是立方体 $Q$ 六个面的对角线包含的所有十二条直线的集合。设 $S$ 是立方体 $Q$ 主对角线包含的所有四条直线的集合；例如，连结顶点 $(0, 0, 0)$ 和 $(1, 1, 1)$ 的直线在 $S$ 中。对于直线 $\\ell_{1}$ 和 $\\ell_{2}$，设 $d\\left(\\ell_{1}, \\ell_{2}\\right)$ 为它们之间的最短距离。那么 $d\\left(\\ell_{1}, \\ell_{2}\\right)$ 的最大值，当 $\\ell_{1}$ 变化在 $F$ 上，$\\ell_{2}$ 变化在 $S$ 上时，是\n\n\n\n(A) $\\frac{1}{\\sqrt{6}}$\n\n\n\n(B) $\\frac{1}{\\sqrt{8}}$\n\n\n\n(C) $\\frac{1}{\\sqrt{3}}$\n\n\n\n(D) $\\frac{1}{\\sqrt{12}}$"
+  },
+  {
+    "456": "设$X=\\left\\{(x, y) \\in \\mathbb{Z} \\times \\mathbb{Z}: \\frac{x^{2}}{8}+\\frac{y^{2}}{20}<1\\right.$ 且 $\\left.y^{2}<5 x\\right\\}$。从$X$中随机选择三个不同的点$P, Q$和$R$。那么$P, Q$和$R$形成面积为正整数的三角形的概率是\n\n(A) $\\frac{71}{220}$\n\n(B) $\\frac{73}{220}$\n\n(C) $\\frac{79}{220}$\n\n(D) $\\frac{83}{220}$"
+  },
+  {
+    "457": "设 $P$ 是抛物线 $y^2=4ax$ 上的一点，其中 $a>0$。通过 $P$ 点的法线与抛物线相交于 $x$-轴上的一点 $Q$。三角形 $PFQ$ 的面积为 120，其中 $F$ 是抛物线的焦点。如果法线的斜率 $m$ 和 $a$ 都是正整数，则对应的 $(a, m)$ 是\n\n(A) $(2, 3)$\n\n\n\n(B) $(1, 3)$\n\n\n\n(C) $(2, 4)$\n\n\n\n(D) $(3, 4)$"
+  },
+  {
+    "458": "当$x \\in \\mathbb{R}$时，$\\tan^{-1}(x) \\in\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$。那么在集合$\\left(-\\frac{3 \\pi}{2},-\\frac{\\pi}{2}\\right) \\cup\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right) \\cup\\left(\\frac{\\pi}{2}, \\frac{3 \\pi}{2}\\right)$中，方程的实数解的个数是多少，其中方程为\n\n\n\n$$\\sqrt{1+\\cos (2 x)}=\\sqrt{2} \\tan ^{-1}(\\tan x)$$"
+  },
+  {
+    "459": "设$n \\geq 2$为自然数，$f:[0, 1] \\rightarrow \\mathbb{R}$是以下函数定义：\n\n\n\n$$\n\nf(x)= \\begin{cases}n(1-2 n x) & \\text {若} 0 \\leq x \\leq \\frac{1}{2 n} \\\\ 2 n(2 n x-1) & \\text { 若} \\frac{1}{2 n} \\leq x \\leq \\frac{3}{4 n} \\\\ 4 n(1-n x) & \\text {若} \\frac{3}{4 n} \\leq x \\leq \\frac{1}{n} \\\\ \\frac{n}{n-1}(n x-1) & \\text {若 } \\frac{1}{n} \\leq x \\leq 1\\end{cases}\n\n$$\n\n\n\n如果存在这样的$n$使得由曲线$x=0, x=1, y=0$和$y=f(x)$围成的区域面积为4，那么函数$f$的最大值是多少？"
+  },
+  {
+    "460": "让 $7 \\overbrace{5 \\cdots 5}^{r} 7$ 表示一个 $(r+2)$ 位数，其中第一位和最后一位为 7，剩下的 $r$ 位都是 5。考虑和 $S=77+757+7557+\\cdots+7 \\overbrace{5 \\cdots 5}^{98}7$。如果 $S=\\frac{7 \\overbrace{5 \\cdots 5}^{99}7+m}{n}$，其中 $m$ 和 $n$ 是小于 3000 的自然数，那么 $m+n$ 的值是多少？"
+  },
+  {
+    "461": "当$A$中包含仅一个正整数$n$时，求$n$的值。\n\n\\[A=\\left\\{\\frac{1967+1686 i \\sin \\theta}{7-3 i \\cos \\theta}: \\theta \\in \\mathbb{R}\\right\\} \\]"
+  },
+  {
+    "462": "设$P$为平面$\\sqrt{3}x + 2y + 3z = 16$，$S=\\left\\{\\alpha \\hat{i} + \\beta \\hat{j} + \\gamma \\hat{k}: \\alpha^{2} + \\beta^{2} + \\gamma^{2} = 1\\right.$且$(\\alpha, \\beta, \\gamma)$到平面$P$的距离为$\\left.\\frac{7}{2}\\right\\}$。设$\\vec{u}, \\vec{v}$和$\\vec{w}$是$S$中的三个不同向量，满足$|\\vec{u}-\\vec{v}|=|\\vec{v}-\\vec{w}|=|\\vec{w}-\\vec{u}|$。设$V$为由向量$\\vec{u}, \\vec{v}$和$\\vec{w}$确定的平行六面体的体积。那么$\\frac{80}{\\sqrt{3}} V$的值是多少？"
+  },
+  {
+    "463": "设$a$和$b$是两个非零实数。如果在展开式$\\left(a x^{2}+\\frac{70}{27 b x}\\right)^{4}$中$x^{5}$的系数等于在展开式$\\left(a x-\\frac{1}{b x^{2}}\\right)^{7}$中$x^{-5}$的系数，那么$2b$的值是多少？"
+  },
+  {
+    "464": "让 $\\alpha, \\beta$ 和 $\\gamma$ 是实数。考虑以下线性方程组：\n\n\\[x+2y+z=7\\]\n\n\\[x+\\alpha z=11\\]\n\n\\[2x-3y+\\beta z=\\gamma\\]\n\n将 List-I 中的每个条目与 List-II 中正确的条目匹配。\n\n\\textbf{List-I}\n\n(P) 如果 $\\beta=\\frac{1}{2}(7\\alpha-3)$ 且 $\\gamma=28$，则系统有\n\n(Q) 如果 $\\beta=\\frac{1}{2}(7\\alpha-3)$ 且 $\\gamma\\neq28$，则系统有\n\n(R) 如果 $\\beta\\neq\\frac{1}{2}(7\\alpha-3)$，其中 $\\alpha=1$ 且 $\\gamma\\neq28$，则系统有\n\n(S) 如果 $\\beta\\neq\\frac{1}{2}(7\\alpha-3)$，其中 $\\alpha=1$ 且 $\\gamma=28$，则系统有\n\n\\textbf{List-II}\n\n(1) 唯一解\n\n(2) 无解\n\n(3) 无穷多解\n\n(4) $x=11, y=-2, z=0$ 是一个解\n\n(5) $x=-15, y=4, z=0$ 是一个解\n\n正确选项是：\n\n(A) $(P) \\rightarrow(3) \\quad(Q) \\rightarrow(2) \\quad(R) \\rightarrow(1) \\quad(S) \\rightarrow(4)$\n\n(B) $(P) \\rightarrow(3) \\quad(Q) \\rightarrow(2) \\quad(R) \\rightarrow(5) \\quad(S) \\rightarrow(4)$\n\n(C) $(P) \\rightarrow(2) \\quad(Q) \\rightarrow(1) \\quad(R) \\rightarrow(4) \\quad(S) \\rightarrow(5)$\n\n(D) $(P) \\rightarrow(2) \\quad(Q) \\rightarrow(1) \\quad(R) \\rightarrow(1) \\quad$ (S) $\\rightarrow$ (3)"
+  },
+  {
+    "465": "考虑给定的频数分布数据\n\n\n\n$$\n\n\\begin{array}{ccccccc}\n\nx_{i} & 3 & 8 & 11 & 10 & 5 & 4 \\\\\n\nf_{i} & 5 & 2 & 3 & 2 & 4 & 4\n\n\\end{array}\n\n$$\n\n\n\n将List-I中的每个条目与List-II中的正确条目进行匹配。\n\n\n\\textbf{List-I}\n\n（P）上述数据的均值为\n\n（Q）上述数据的中位数为\n\n（R）上述数据关于均值的平均偏差为\n\n（S）上述数据关于中位数的平均偏差为\n\n\n\\textbf{List-II}\n\n1）2.5\n\n2）5\n\n3）6\n\n4）2.7\n\n5）2.4\n\n正确选项是：\n\n（A）$（P）\\rightarrow(3) \\quad$ （Q）$ \\rightarrow$（2）$ \\quad$（R）$ \\rightarrow$（4）$ \\quad$（S）$ \\rightarrow$（5）\n\n\n（B）$（P）\\rightarrow(3) \\quad(Q）\\rightarrow(2）\\quad（R）\\rightarrow(1）\\quad（S）\\rightarrow(5）$\n\n\n（C）$（P）\\rightarrow(2）\\quad（Q）\\rightarrow(3）\\quad（R）\\rightarrow(4）\\quad（S）\\rightarrow(1）$\n\n\n（D）$（P）\\rightarrow$（3）$ \\quad$（Q）$ \\rightarrow$ （3）$ \\quad$（R）$ \\rightarrow$（5）$ \\quad$（S）$ \\rightarrow$（5）"
+  },
+  {
+    "466": "让 $\\ell_{1}$ 和 $\\ell_{2}$ 分别为直线 $\\vec{r}_{1}=\\lambda(\\hat{i}+\\hat{j}+\\hat{k})$ 和 $\\vec{r}_{2}=(\\hat{j}-\\hat{k})+\\mu(\\hat{i}+\\hat{k})$。让 $X$ 为所有包含直线 $\\ell_{1}$ 的平面 $H$ 的集合。对于一个平面 $H$，设 $d(H)$ 表示直线 $\\ell_{2}$ 上的点与 $H$ 的点之间的最小可能距离。让 $H_{0}$ 是 $X$ 中的一个平面，使得 $d\\left(H_{0}\\right)$ 是 $d(H)$ 在所有 $X$ 中的平面上变化时的最大值。\n\n\n将 List-I 中的每个条目与 List-II 中的正确选项配对。\n\n\n\\textbf{List-I}\n\n\n\n(P) $d\\left(H_{0}\\right)$ 的值为\n\n\n\n(Q) 点 $(0, 1, 2)$ 到 $H_{0}$ 的距离是\n\n\n\n(R) 原点到 $H_{0}$ 的距离是\n\n\n\n(S) 原点到平面 $y=z, x=1$ 和 $H_{0}$ 的交点的距离是\n\n\n\n\\textbf{List-II}\n\n\n\n(1) $\\sqrt{3}$\n\n\n\n(2) $\\frac{1}{\\sqrt{3}}$\n\n\n\n(3) 0\n\n\n\n(4) $\\sqrt{2}$\n\n\n\n(5) $\\frac{1}{\\sqrt{2}}$\n\n\n\n正确的选项是：\n\n\n\n(A) $(P) \\rightarrow(2) \\quad(Q) \\rightarrow(4) \\quad(R) \\rightarrow(5) \\quad(S) \\rightarrow(1)$\n\n\n\n(B) $(P) \\rightarrow(5) \\quad(Q) \\rightarrow(4) \\quad(R) \\rightarrow(3) \\quad(S) \\rightarrow$ (1)\n\n\n\n(C) $(P) \\rightarrow(2) \\quad(Q) \\rightarrow(1) \\quad(R) \\rightarrow(3) \\quad(S) \\rightarrow$ (2)\n\n\n\n(D) $(P) \\rightarrow(5) \\quad(Q) \\rightarrow(1) \\quad(R) \\rightarrow(4) \\quad(S) \\rightarrow(2)$"
+  },
+  {
+    "467": "让$z$是一个复数，满足$|z|^{3}+2 z^{2}+4 \\bar{z}-8=0$，其中$\\bar{z}$表示$z$的复共轭。假设$z$的虚部不为零。\n\n将List-I中的每个条目与List-II中的正确条目进行匹配。\n\n\\textbf{List-I}\n\n(P) $|z|^{2}$等于\n\n(Q) $|Z-\\bar{Z}|^{2}$等于\n\n(R) $|Z|^{2}+|Z+\\bar{Z}|^{2}$等于\n\n(S) $|z+1|^{2}$等于\n\n\\textbf{List-II}\n\n(1) 12\n\n(2) 4\n\n(3) 8\n\n(4) 10\n\n(5) 7\n\n正确选项是：\n\n(A) $(P) \\rightarrow(1) \\quad(Q) \\rightarrow(3) \\quad(R) \\rightarrow(5) \\quad(S) \\rightarrow$ (4)\n\n(B) $(P) \\rightarrow(2) \\quad(Q) \\rightarrow(1) \\quad(R) \\rightarrow(3) \\quad(S) \\rightarrow(5)$\n\n(C) $(P) \\rightarrow(2) \\quad(Q) \\rightarrow(4) \\quad(R) \\rightarrow(5) \\quad(S) \\rightarrow(1)$\n\n(D) $(P) \\rightarrow(2) \\quad(Q) \\rightarrow(3) \\quad(R) \\rightarrow(5) \\quad(S) \\rightarrow(4)$"
+  },
+  {
+    "468": "一根质量为 $M=1.00 \\mathrm{~kg}$，长为 $L=0.20 \\mathrm{~m}$ 的杆放置在一个水平无摩擦力的表面上。杆的一端在一个支点处可以自由旋转。一小质量为 $m=0.10 \\mathrm{~kg}$ 的物体在同一水平面上沿与杆垂直的路径以速度 $5.00 \\mathrm{~m} \\mathrm{~s}^{-1}$ 移动。它在距离支点末端 $L / 2$ 处撞击杆，以速度 $\\mathrm{v}$ 返回相同路径。在这个弹性碰撞之后，杆以角速度 $\\omega$ 旋转。以下哪个陈述是正确的？\n\n(A) $\\omega=6.98 \\mathrm{rad} \\mathrm{s}^{-1}$，$\\mathrm{v}=4.30 \\mathrm{~m} \\mathrm{~s}^{-1}$\n\n(B) $\\omega=3.75 \\mathrm{rad} \\mathrm{s}^{-1}$，$\\mathrm{v}=4.30 \\mathrm{~m} \\mathrm{~s}^{-1}$\n\n(C) $\\omega=3.75 \\mathrm{rad} \\mathrm{s}^{-1}$，$\\mathrm{v}=10.0 \\mathrm{~m} \\mathrm{~s}^{-1}$\n\n(D) $\\omega=6.80 \\mathrm{rad} \\mathrm{s}^{-1}$，$\\mathrm{v}=4.10 \\mathrm{~m} \\mathrm{~s}^{-1}$"
+  },
+  {
+    "469": "一个摩尔的理想气体绝热地从初始状态 $\\left(T_{\\mathrm{A}}, V_{0}\\right)$ 膨胀到最终状态 $\\left(T_{\\mathrm{f}}, 5 V_{0}\\right)$。另一个摩尔相同气体等温地从另一个初始状态 $\\left(T_{\\mathrm{B}}, V_{0}\\right)$ 膨胀到相同的最终状态 $\\left(T_{\\mathrm{f}}, 5 V_{0}\\right)$。该理想气体在定压和定容条件下的比热的比值为 $\\gamma$。求 $T_{\\mathrm{A}} / T_{\\mathrm{B}}$ 的比值是多少？\n\n\n\n(A) $5^{\\gamma-1}$\n\n\n\n(B) $5^{1-\\gamma}$\n\n\n\n(C) $5^{\\gamma}$\n\n\n\n(D) $5^{1+\\gamma}$"
+  },
+  {
+    "470": "两颗卫星$P$和$Q$分别沿着地球的不同圆形轨道运动（半径$R$）。$P$和$Q$距离地球表面的高度分别为$h_{P}$和$h_{Q}$，其中$h_{P}=R/3$。由于地球引力作用，$P$和$Q$的加速度分别为$g_{P}$和$g_{Q}$。如果$g_{P}/g_{Q}=36/25$，那么$h_{Q}$的值是多少？\n\n(A) $3R/5$\n\n(B) $R/6$\n\n(C) $6R/5$\n\n(D) $5R/6$"
+  },
+  {
+    "471": "一个类氢原子的原子序数为 $Z$。在这些原子中，电子从能级 $n=4$ 迁移到能级 $n=3$ 时发射的光子被用来对目标金属进行光电效应实验。产生的光电子的最大动能为 $1.95 \\mathrm{eV}$。如果目标金属的光电阈值波长为 $310 \\mathrm{~nm}$，那么 $Z$ 的值是多少？\n\n\n\n[已知：$h c=1240 \\mathrm{eV}-\\mathrm{nm}$ 和 $R h c=13.6 \\mathrm{eV}$，其中 $R$ 是Rydberg常数，$h$ 是普朗克常数，$c$ 是真空中的光速]"
+  },
+  {
+    "472": "在一个实验中，用来确定薄凸透镜焦距的物体距离透镜的距离为$10 \\pm 0.1 \\mathrm{~cm}$，其实际像距离透镜的距离为$20 \\pm 0.2 \\mathrm{~cm}$。透镜焦距测量的误差为$n \\%$。求$n$的值。"
+  },
+  {
+    "473": "一个封闭容器中包含两摩尔理想单原子气体（$\\gamma=5/3$）和一摩尔理想双原子气体（$\\gamma=7/5$）的均匀混合物。这里，$\\gamma$是理想气体在恒压和恒容条件下比热的比值。当在恒压下加热时，气体混合物做了66焦耳的功。内能的变化量是多少焦耳。"
+  },
+  {
+    "474": "一个身高为 $1.6 \\mathrm{~m}$ 的人正在沿着平地上的一条笔直路径远离一根高为 $4 \\mathrm{~m}$ 的灯柱。灯柱和人始终垂直于地面。如果人的速度为 $60 \\mathrm{~cm} \\mathrm{~s}^{-1}$，那么人影在地面上的顶端相对于人本身的速度是多少 $\\mathrm{cm} \\mathrm{s}^{-1}$？"
+  },
+  {
+    "475": "\\textbf{List-I}\n\n\n\n\\(P) ${}_{92}^{238} U \\rightarrow{}_{91}^{234} \\mathrm{~Pa}$\n\n\n\n\\(Q) ${}_{82}^{214} \\mathrm{~Pb} \\rightarrow{ }_{82}^{210} \\mathrm{~Pb}$\n\n\n\n\\(R) ${}_{81}^{210} \\mathrm{Tl} \\rightarrow{}_{82}^{206} \\mathrm{~Pb}$\n\n\n\n\\(S) ${}_{91}^{228} \\mathrm{~Pa} \\rightarrow{}_{88}^{224} \\mathrm{Ra}$\n\n\n\n\\textbf{List-II}\n\n\n\n(1) one $\\alpha$ particle and one $\\beta^{+}$particle\n\n\n\n(2) three $\\beta^{-}$particles and one $\\alpha$ particle\n\n\n\n(3) two $\\beta^{-}$particles and one $\\alpha$ particle\n\n\n\n(4) one $\\alpha$ particle and one $\\beta^{-}$particle\n\n\n\n(5) one $\\alpha$ particle and two $\\beta^{+}$particles\n\n\n\n(A) $P \\rightarrow 4, Q \\rightarrow 3, R \\rightarrow 2, S \\rightarrow 1$\n\n\n\n(B) $P \\rightarrow 4, Q \\rightarrow 1, R \\rightarrow 2, S \\rightarrow 5$\n\n\n\n(C) $P \\rightarrow 5, Q \\rightarrow 3, R \\rightarrow 1, S \\rightarrow 4$\n\n\n\n(D) $P \\rightarrow 5, Q \\rightarrow 1, R \\rightarrow 3, S \\rightarrow 2$"
+  },
+  {
+    "476": "将List-I中给出的黑体温度与List-II中的相应描述进行匹配，并选择正确选项。\n\n[给定：Wien常数为$2.9 \\times 10^{-3} \\mathrm{~m}-\\mathrm{K}$和$\\frac{h c}{e}=1.24 \\times 10^{-6} \\mathrm{~V}-\\mathrm{m}$]\n\n\\textbf{List-I}\n\n(P) $2000 \\mathrm{~K}$\n\n(Q) $3000 \\mathrm{~K}$\n\n(R) $5000 \\mathrm{~K}$\n\n(S) $10000 \\mathrm{~K}$\n\n\\textbf{List-II}\n\n(1) 辐射在峰值波长处可导致从功函数为$4 \\mathrm{eV}$的金属中发射光电子。\n\n(2) 辐射在峰值波长处可见于人眼。\n\n(3) 辐射在峰值发射波长处将导致单缝衍射的最宽中心最大值。\n\n(4) 每单位面积发射的功率为温度为$6000 \\mathrm{~K}$的黑体发射功率的$1/16$。\n\n(5) 辐射在峰值发射波长处可用于成像人骨。\n\n(A) $P \\rightarrow 3, Q \\rightarrow 5, R \\rightarrow 2, S \\rightarrow 3$\n\n(B) $P \\rightarrow 3, Q \\rightarrow 2, R \\rightarrow 4, S \\rightarrow 1$\n\n(C) $P \\rightarrow 3, Q \\rightarrow 4, R \\rightarrow 2, S \\rightarrow 1$\n\n(D) $P \\rightarrow 1, Q \\rightarrow 2, R \\rightarrow 5, S \\rightarrow 3$"
+  },
+  {
+    "477": "一个LCR电路连接到一个$45\\sin(\\omega t)$伏特的电压源。电路的共振角频率是$10^5 \\mathrm{rad} \\mathrm{s}^{-1}$，共振时的电流幅值为$I_{0}$。当电压源的角频率为$\\omega=8 \\times 10^4 \\mathrm{rad} \\mathrm{s}^{-1}$时，电路中的电流幅度为$0.05 I_{0}$。如果$L=50 \\mathrm{mH}$，请将List-I中的每个条目与List-II中的适当值匹配，并选择正确选项。\n\n\\textbf{List-I}\n\n(P) $\\mathrm{mA}$中的$I_{0}$\n\n(Q) 电路的品质因数\n\n(R) 电路的带宽，单位为$\\mathrm{rad} \\mathrm{s}^{-1}$\n\n(S) 共振时的峰值功率，单位为瓦特\n\n\\textbf{List-II}\n\n(1) 44.4\n\n(2) 18\n\n(3) 400\n\n(4) 2250\n\n(5) 500\n\n(A) $P \\rightarrow 2, Q \\rightarrow 3, R \\rightarrow 5, S \\rightarrow 1$\n\n(B) $P \\rightarrow 3, Q \\rightarrow 1, R \\rightarrow 4, S \\rightarrow 2$\n\n(C) $P \\rightarrow 4, Q \\rightarrow 5, R \\rightarrow 3, S \\rightarrow 1$\n\n(D) $P \\rightarrow 4, Q \\rightarrow 2, R \\rightarrow 1, S \\rightarrow 5$"
+  },
+  {
+    "478": "与金属提取过程有关的正确陈述是\n\n\\begin{itemize}\n    \\item[(A)] Malachite的烧制会产生赤铜(Cuprite)。\n    \\item[(B)] Calamine的焙烧会产生氧化锌(Zincite)。\n    \\item[(C)] 黄铜矿(Copper pyrites)与二氧化硅在反射炉中加热以去除铁。\n    \\item[(D)] 未纯净的银经过在存在氧气下与氰化钾处理，然后用锌金属还原。\n\\end{itemize}"
+  },
+  {
+    "479": "将$1 / \\Lambda_{\\mathrm{m}}$绘制为$\\mathrm{c} \\Lambda_{\\mathrm{m}}$，其中$\\mathrm{c}$是弱单价酸（HX）的水溶液的摩尔浓度，结果是一条直线，其纵轴截距为$\\mathrm{P}$，斜率为$\\mathrm{S}$。比值$\\mathrm{P} / \\mathrm{S}$是\n\n\n\n$\\left[\\Lambda_{\\mathrm{m}}=\\right.$ 摩尔电导率\n\n\n\n$\\Lambda_{\\mathrm{m}}^{\\mathrm{o}}=$ 极限摩尔电导率\n\n\n\n$\\mathrm{c}=$ 摩尔浓度\n\n\n\n$\\mathrm{K}_{\\mathrm{a}}=$ $\\mathrm{HX}$的解离常数]\n\n\n\n(A) $\\mathrm{K}_{\\mathrm{a}} \\Lambda_{\\mathrm{m}}^{\\mathrm{o}}$\n\n\n\n(B) $\\mathrm{K}_{\\mathrm{a}} \\Lambda_{\\mathrm{m}}^{\\mathrm{o}} / 2$\n\n\n\n(C) $2 \\mathrm{~K}_{\\mathrm{a}} \\Lambda_{\\mathrm{m}}^{\\mathrm{o}}$\n\n\n\n(D) $1 /\\left(\\mathrm{K}_{\\mathrm{a}} \\Lambda_{\\mathrm{m}}^{\\mathrm{o}}\\right)$"
+  },
+  {
+    "480": "当$pH$从7降至2时，一种弱酸(HX)的微溶盐(MX)的溶解度由$10^{-4}molL^{-1}$增加至$10^{-3}molL^{-1}$。HX的$pK_{a}$值是\n\n\n\n(A) 3\n\n\n\n(B) 4\n\n\n\n(C) 5\n\n\n\n(D) 2"
+  },
+  {
+    "481": "$516 \\, \\mathrm{g}$的二甲基二氯硅烷与水的化学计量反应的产物是一种四聚环产物 $\\mathbf{X}$，收率为 $75\\%$。求得到的 $\\mathbf{X}$ 的质量（以克为单位）。\n\n[使用，摩尔质量 $\\left(\\mathrm{g} \\mathrm{mol}^{-1}\\right): \\mathrm{H}=1, \\mathrm{C}=12, \\mathrm{O}=16, \\mathrm{Si}=28, \\mathrm{Cl}=35.5$]"
+  },
+  {
+    "482": "气体在温度为 $800 \\mathrm{~K}$，压力为 $\\mathbf{x}$ atm 时具有压缩因子 $0.5$，摩尔体积为 $0.4 \\mathrm{dm}^{3} \\mathrm{~mol}^{-1}$。如果在相同温度和压力下呈现理想气体行为，摩尔体积将为 $\\mathbf{y} \\mathrm{dm}^{3} \\mathrm{~mol}^{-1}$。求 $\\mathbf{x} / \\mathbf{y}$ 的值。\n\n[使用：气体常数 $\\mathrm{R}=8 \\times 10^{-2} \\mathrm{~L} \\mathrm{~atm} \\mathrm{~K} \\mathrm{~mol}^{-1}$]"
+  },
+  {
+    "483": "将列出的反应（给出的反应物的化学计量）与列出的反应产物中的一个进行匹配，并选择正确的选项。\n\n\\textbf{List-I}\n\n(P) $\\mathrm{P}_{2} \\mathrm{O}_{3}+3 \\mathrm{H}_{2} \\mathrm{O} \\rightarrow$\n\n(Q) $\\mathrm{P}_{4}+3 \\mathrm{NaOH}+3 \\mathrm{H}_{2} \\mathrm{O} \\rightarrow$\n\n(R) $\\mathrm{PCl}_{5}+\\mathrm{CH}_{3} \\mathrm{COOH} \\rightarrow$\n\n(S) $\\mathrm{H}_{3} \\mathrm{PO}_{2}+2 \\mathrm{H}_{2} \\mathrm{O}+4 \\mathrm{AgNO}_{3} \\rightarrow$\n\n\\textbf{List-II}\n\n(1) $\\mathrm{P}(\\mathrm{O})\\left(\\mathrm{OCH}_{3}\\right) \\mathrm{Cl}_{2}$\n\n(2) $\\mathrm{H}_{3} \\mathrm{PO}_{3}$\n\n(3) $\\mathrm{PH}_{3}$\n\n(4) $\\mathrm{POCl}_{3}$\n\n(5) $\\mathrm{H}_{3} \\mathrm{PO}_{4}$\n\n(A) $\\mathrm{P} \\rightarrow 2$; $\\mathrm{Q} \\rightarrow 3$; $\\mathrm{R} \\rightarrow 1$; $\\mathrm{S} \\rightarrow 5$\n\n(B) $\\mathrm{P} \\rightarrow 3$; Q $\\rightarrow 5$; R $\\rightarrow 4$; $\\mathrm{S} \\rightarrow 2$\n\n(C) $\\mathrm{P} \\rightarrow 5 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 1$; S $\\rightarrow 3$\n\n(D) P $\\rightarrow 2$; Q $\\rightarrow 3$; R $\\rightarrow 4$; $\\mathrm{S} \\rightarrow 5$"
+  },
+  {
+    "484": "匹配List-I中的电子构型与List-II中适当的金属配合物离子，并选择正确的选项。\n\n[原子序数：$\\mathrm{Fe}=26, \\mathrm{Mn}=25$, $\\mathrm{Co}=27$]\n\n\\textbf{List-I}\n\n(P) $t_{2 g}^{6} e_{g}^{0}$\n\n(Q) $t_{2 g}^{3} e_{g}^{2}$\n\n(R) $\\mathrm{e}^{2} \\mathrm{t}_{2}^{3}$\n\n(S) $t_{2 g}^{4} e_{g}^{2}$\n\n\\textbf{List-II}\n\n(1) $\\left[\\mathrm{Fe}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{6}\\right]^{2+}$\n\n(2) $\\left[\\mathrm{Mn}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{6}\\right]^{2+}$\n\n(3) $\\left[\\mathrm{Co}\\left(\\mathrm{NH}_{3}\\right)_{6}\\right]^{3+}$\n\n(4) $\\left[\\mathrm{FeCl}_{4}\\right]^{-}$\n\n(5) $\\left[\\mathrm{CoCl}_{4}\\right]^{2-}$\n\n(A) $\\mathrm{P} \\rightarrow 1$; Q $\\rightarrow 4$; $\\mathrm{R} \\rightarrow 2$; $\\mathrm{S} \\rightarrow 3$\n\n(B) $\\mathrm{P} \\rightarrow 1 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 5$\n\n(C) $\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 5 ; \\mathrm{S} \\rightarrow 1$\n\n(D) $\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 4$; $\\mathrm{S} \\rightarrow 1$"
+  },
+  {
+    "485": "从List-II中反应中得到的主要产物是List-I中提到的命名反应的反应物。将List-I与List-II相匹配并选择正确的选项。\n\n\n\n\\textbf{List-I}\n\n\n\n(P) Etard反应\n\n\n\n(Q) Gattermann反应\n\n\n\n(R) Gattermann-Koch反应\n\n\n\n(S) Rosenmund还原\n\n\n\n\\textbf{List-II}\n\n\n\n(1) 苯乙酮 $\\stackrel{\\mathrm{Zn}-\\mathrm{Hg}, \\mathrm{HCl}}{\\longrightarrow}$\n\n\n\n(2) 甲苯 $\\underset{\\text{(ii)}\\mathrm{SOCl}_{2}}{\\stackrel{\\text {(i)} \\mathrm{KMnO}_{4}, \\mathrm{KOH}, \\Delta}{\\longrightarrow}}$\n\n\n\n\n\n(3) 苯 $\\underset{\\text {anhyd.} \\mathrm{AlCl}_{3}}{\\stackrel{\\mathrm{CH}_{3} \\mathrm{Cl}}{\\longrightarrow}}$\n\n\n\n(4) 苯胺 $\\underset{273-278 \\mathrm{~K}}{\\stackrel{\\mathrm{NaNO}_{2} / \\mathrm{HCl}}{\\longrightarrow}}$\n\n\n\n(5) 酚 $\\stackrel{\\mathrm{Zn}, \\Delta}{\\longrightarrow}$\n\n\n\n\n\n(A) $\\mathrm{P} \\rightarrow 2$; $\\mathrm{Q} \\rightarrow 4 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 3$\n\n\n\n(B) $\\mathrm{P} \\rightarrow 1$; $\\mathrm{Q} \\rightarrow 3$; $\\mathrm{R} \\rightarrow 5$; $\\mathrm{S} \\rightarrow 2$\n\n\n\n(C) $\\mathrm{P} \\rightarrow 3$; $\\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 1$; $\\mathrm{S} \\rightarrow 4$\n\n\n\n(D) $\\mathrm{P} \\rightarrow 3$; $\\mathrm{Q} \\rightarrow 4$; R $\\rightarrow 5$; $\\mathrm{S} \\rightarrow 2$"
+  },
+  {
+    "509": "金属$\\mathrm{x}, \\mathrm{y}$和$\\mathrm{z}$的原子分别形成具有边长$\\mathrm{L}_{\\mathrm{x}}$的面心立方（fcc）晶胞，具有边长$\\mathrm{L}_{\\mathrm{y}}$的体心立方（bcc）晶胞，以及具有边长$\\mathrm{L}_{\\mathrm{z}}$的简单立方晶胞。\n\n\n\n如果$\\mathrm{r}_{\\mathrm{z}}=\\frac{\\sqrt{3}}{2} \\mathrm{r}_{\\mathrm{y}}$；$\\mathrm{r}_{\\mathrm{y}}=\\frac{8}{\\sqrt{3}} \\mathrm{r}_{\\mathrm{x}}$；$\\mathrm{M}_{\\mathrm{z}}=\\frac{3}{2} \\mathrm{M}_{\\mathrm{y}}$且$\\mathrm{M}_{\\mathrm{Z}}=3 \\mathrm{M}_{\\mathrm{x}}$，那么正确的陈述是：\n\n\n\n[给定：$M_{x}, M_{y}$和$M_{z}$分别是金属$x, y$和$z$的摩尔质量。\n\n\n\n$r_{x}, r_{y}$和$r_{z}$分别是金属$x, y$和$z$的原子半径。]\n\n\n\n(A) $x$的晶胞的填充效率$>$ $y$的晶胞的填充效率$>$ $z$的晶胞的填充效率\n\n\n\n(B) $\\mathrm{L}_{\\mathrm{y}} > \\mathrm{L}_{\\mathrm{z}}$\n\n\n\n(C) $\\mathrm{L}_{\\mathrm{x}} > \\mathrm{L}_{\\mathrm{y}}$\n\n\n\n(D) $x$的密度$>$ $y$的密度"
+  },
+  {
+    "510": "$\\quad \\mathrm{H}_{2} \\mathrm{~S}$ (5 moles) reacts completely with acidified aqueous potassium permanganate solution. In this reaction, the number of moles of water produced is $\\mathbf{x}$, and the number of moles of electrons involved is $\\mathbf{y}$. The value of $(\\mathbf{x}+\\mathbf{y})$ is\n\n\\[5+\\frac{5}{2} = \\frac{15}{2}\\]"
+  },
+  {
+    "511": "在$\\left[\\mathrm{I}_{3}\\right]^{+}, \\left[\\mathrm{SiO}_{4}\\right]^{4-}, \\mathrm{SO}_{2} \\mathrm{Cl}_{2}, \\mathrm{XeF}_{2}, \\mathrm{SF}_{4}, \\mathrm{ClF}_{3}, \\mathrm{Ni}(\\mathrm{CO})_{4}, \\mathrm{XeO}_{2} \\mathrm{~F}_{2}, \\left[\\mathrm{PtCl}_{4}\\right]^{2-}, \\mathrm{XeF}_{4}$和$\\mathrm{SOCl}_{2}$中，具有$s p^{3}$杂化中心原子的物种总数是多少？"
+  },
+  {
+    "512": "考虑以下分子：$\\mathrm{Br}_{3} \\mathrm{O}_{8}, \\mathrm{~F}_{2} \\mathrm{O}, \\mathrm{H}_{2} \\mathrm{~S}_{4} \\mathrm{O}_{6}, \\mathrm{H}_{2} \\mathrm{~S}_{5} \\mathrm{O}_{6}$和$\\mathrm{C}_{3} \\mathrm{O}_{2}$。\n\n计算每个分子中存在于零氧化态的原子数。它们的总和是多少？"
+  },
+  {
+    "513": "混合0.2 molal 尿素溶液（密度 $=1.012 \\mathrm{~g} \\mathrm{~mL}^{-1}$ at $300 \\mathrm{~K}$）的 $50 \\mathrm{~mL}$ 与含有 $0.06 \\mathrm{~g}$ 尿素的 $250 \\mathrm{~mL}$ 溶液混合在一起。这两个溶液是在相同的溶剂中制备的。在 $300 \\mathrm{~K}$，混合溶液的渗透压是多少（以 Torr 表示）？\n\n[使用：尿素的摩尔质量：$60 \\mathrm{~g} \\mathrm{~mol}^{-1}$；气体常数，$\\mathrm{R}=62$ L Torr K${}^{-1} \\mathrm{~mol}^{-1}$；\n\n假设，$\\Delta_{\\text {mix}} \\mathrm{H}=0, \\Delta_{\\text {mix}} \\mathrm{V}=0$]"
+  },
+  {
+    "514": "一个三硝基化合物，1, 3, 5-三-(4-硝基苯基)苯，在过量$\\mathrm{Sn/HCl}$的完全反应中产生一个主要产物，然后在$0{}^{\\circ} \\mathrm{C}$时用过量$\\mathrm{NaNO}_{2}/\\mathrm{HCl}$处理生成$\\mathbf{P}$作为产物。将$\\mathbf{P}$在室温下用过量$\\mathrm{H}_{2}\\mathrm{O}$处理，得到产物$\\mathbf{Q}$。在水性介质中对$\\mathbf{Q}$进行溴化反应得到产物$\\mathbf{R}$。将化合物$\\mathbf{P}$在碱性条件下与过量苯酚处理，得到产物$\\mathbf{S}$。\n\n\n化合物$\\mathbf{Q}$和$\\mathbf{R}$之间的摩尔质量差为$474\\mathrm{~g}~\\mathrm{mol}^{-1}$，化合物$\\mathbf{P}$和$\\mathbf{S}$之间的摩尔质量差为$172.5\\mathrm{~g}~\\mathrm{mol}^{-1}$。求$\\mathbf{R}$一分子中含有的杂原子数。\n\n\n[使用：摩尔质量（单位为g mol${}^{-1}$）：$\\mathrm{H}=1, \\mathrm{C}=12, \\mathrm{~N}=14, \\mathrm{O}=16, \\mathrm{Br}=80, \\mathrm{Cl}=35.5$\n\n\n除了$\\mathrm{C}$和$\\mathrm{H}$之外的原子被视为杂原子]"
+  },
+  {
+    "515": "一种三硝基化合物，1, 3, 5-三-(4-硝基苯基)苯，与过量的 $\\mathrm{Sn/HCl}$ 完全反应，产生一个主要产物，然后用过量的 $\\mathrm{NaNO}_{2}/\\mathrm{HCl}$ 在 $0{}^{\\circ} \\mathrm{C}$ 处理生成 $\\mathbf{P}$ 作为产物。$\\mathbf{P}$ 经过过量 $\\mathrm{H}_{2}\\mathrm{O}$ 处理后，在室温下生成产物 $\\mathbf{Q}$。在水介质中对 $\\mathbf{Q}$ 进行溴化得到产物 $\\mathbf{R}$。化合物 $\\mathbf{P}$ 在碱性条件下处理后得到产物 $\\mathbf{S}$。\n\n\n化合物 $\\mathbf{Q}$ 和 $\\mathbf{R}$ 之间的摩尔质量差为 $474\\mathrm{~g~mol}^{-1}$，$\\mathbf{P}$ 和 $\\mathbf{S}$ 之间的摩尔质量差为 $172.5\\mathrm{~g~mol}^{-1}$。求 $\\mathbf{S}$ 分子中碳原子和杂原子的总数。\n\n\n[使用：摩尔质量（单位为 $\\mathrm{g~mol}^{-1}$）：$\\mathrm{H}=1$，$\\mathrm{C}=12$，$\\mathrm{N}=14$，$\\mathrm{O}=16$，$\\mathrm{Br}=80$，$\\mathrm{Cl}=35.5$\n\n\n除了 $\\mathrm{C}$ 和 $\\mathrm{H}$ 外的其它原子被视为杂原子]"
+  }
+]
