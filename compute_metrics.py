@@ -5,20 +5,20 @@ import pandas as pd
 QUES_TYPES = ['MCQ', 'MCQ(multiple)', 'Integer', 'Numeric']
 
 models = [
-    "Random",
-    "GPT3_normal",
+    # "Random",
+    # "GPT3_normal",
     "GPT3.5_normal",
-    "GPT4_normal",
-    "GPT4_CoT",
-    'GPT4_CoT_self_refine',
-    "GPT4_CoT+OneShot",
+    # "GPT4_normal",
+    # "GPT4_CoT",
+    # 'GPT4_CoT_self_refine',
+    # "GPT4_CoT+OneShot",
     # "GPT4_CoT+SC@8",
     'GPT4_0613_normal'
 ]
 
 
 def get_aggregate(answers, question_type, single_threshold=None, multiple_threshold=None):
-    # Pass optional \tau_{single} and \tau_{multiple} parameters if needed for evaluation under risk. 
+    # Pass optional \tau_{single} and \tau_{multiple} parameters if needed for evaluation under risk.
     if question_type == 'MCQ(multiple)' or question_type == 'MCQ':
         letter_to_idx = {'A': 0, 'B': 1, 'C': 2, 'D': 3, 'None': 4}
         idx_to_letter = {0: 'A', 1: 'B', 2: 'C', 3: 'D', 4: 'None'}
@@ -83,14 +83,14 @@ def construct_responses_table():
         if "SC@" in model or "Random" == model:
             continue
         try:
-            with open(f"data/responses/{model}_responses/responses.json") as f:
+            with open(f"data/cp2_responses/{model}_responses/arabic_responses.json", encoding='utf-8') as f:
                 responses[model] = json.load(f)
                 print(f'Loaded {model}, number of responses: {len(responses[model])}')
         except FileNotFoundError as e:
             print(f"File not found for model {model}: {e}")
             responses[model] = []  # Assign an empty list if file is not found
 
-    dataset = json.load(open('data/dataset.json'))
+    dataset = json.load(open('data/updated_arabic_dataset.json', encoding='utf-8'))
     min_responses = min(len(responses[model]) for model in models if model not in ["SC@", "Random"])
 
     extracts = {

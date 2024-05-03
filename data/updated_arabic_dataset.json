@@ -1,0 +1,810 @@
+[
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 22,
+        "subject": "chem",
+        "type": "MCQ",
+        "question": "أي من الجمعيات التالية سينتج غاز $\\mathrm{H}_{2}$؟\n\n[A] Fe metal and conc. $\\mathrm{HNO}_{3}$\n\n[B] Cu metal and conc. $\\mathrm{HNO}_{3}$\n\n[C] $\\mathrm{Zn}$ metal and $\\mathrm{NaOH}(\\mathrm{aq})$\n\n[D] Au metal and $\\mathrm{NaCN}(\\mathrm{aq})$ in the presence of air",
+        "gold": "C"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 23,
+        "subject": "chem",
+        "type": "MCQ",
+        "question": "ترتيب حالة تأكسد ذرة الفوسفور في $\\mathrm{H}_{3} \\mathrm{PO}_{2}, \\mathrm{H}_{3} \\mathrm{PO}_{4}, \\mathrm{H}_{3} \\mathrm{PO}_{3}$, و$\\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{6}$ هو\n\n[A] $\\mathrm{H}_{3} \\mathrm{PO}_{3}>\\mathrm{H}_{3} \\mathrm{PO}_{2}>\\mathrm{H}_{3} \\mathrm{PO}_{4}>\\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{6}$\n\n[B] $\\mathrm{H}_{3} \\mathrm{PO}_{4}>\\mathrm{H}_{3} \\mathrm{PO}_{2}>\\mathrm{H}_{3} \\mathrm{PO}_{3}>\\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{6}$\n\n[C] $\\mathrm{H}_{3} \\mathrm{PO}_{4}>\\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{6}>\\mathrm{H}_{3} \\mathrm{PO}_{3}>\\mathrm{H}_{3} \\mathrm{PO}_{2}$\n\n[D] $\\mathrm{H}_{3} \\mathrm{PO}_{2}>\\mathrm{H}_{3} \\mathrm{PO}_{3}>\\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{6}>\\mathrm{H}_{3} \\mathrm{PO}_{4}$",
+        "gold": "C"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 26,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "البيانات الصحيحة حول خصائص السطح هي\n\n[A] ترافق الامتزاج بانخفاض في الإنثالبي وانخفاض في الانتروبي للنظام\n\n[B] درجات حرارة الانتقال للإيثان والنيتروجين هي $563 \\mathrm{~K}$ و $126 \\mathrm{~K}$ على التوالي. سيكون امتزاج الإيثان أكثر من ذلك من النيتروجين عند نفس كمية الفحم المنشط عند درجة حرارة معينة.\n\n[C] السحابة هي نوع من المحاليل الكولويدية حيث يكون السائل الطور المعلق والغاز الوسيط المعلق.\n\n[D] حركة براونيان لجزيئات الكولويد لا تعتمد على حجم الجزيئات ولكن تعتمد على لزوجة الحل.",
+        "gold": "AB"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 27,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "لتفاعل يحدث في حاوية في توازن مع بيئته، يتم وصف تأثير درجة الحرارة على الثابت التوازني $K$ من حيث التغير في الانتروبيا على النحو التالي:\n\n[A] مع زيادة درجة الحرارة، يقل قيمة $K$ للتفاعل الصادر لأن تغيير الانتروبيا في النظام هو إيجابي.\n\n[B] مع زيادة درجة الحرارة، تزيد قيمة $K$ للتفاعل الامتصالي لأن التغيير غير المرغوب في انتروبيا البيئة يقل.\n\n[C] مع زيادة درجة الحرارة، تزيد قيمة $K$ للتفاعل الامتصالي لأن تغيير الانتروبيا في النظام هو سالب.\n\n[D] مع زيادة درجة الحرارة، يقل قيمة $K$ للتفاعل الصادر لأن التغيير المرغوب في انتروبيا البيئة يقل.",
+        "gold": "BD"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 28,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "في تفاعل ثنائي الجزيء، تم تحديد العامل الاستيري $P$ تجريبيًا بأنه 4.5. الخيار(ات) الصحيحة بين الخيارات التالية هي\n\n[A] طاقة التنشيط للتفاعل لا تتأثر بقيمة العامل الاستيري\n\n[B] قيمة عامل التردد المحددة تجريبيًا أعلى من تلك التي تتنبأ بها معادلة Arrhenius\n\n[C] نظرًا لأن $\\mathrm{P}=4.5$، لن يحدث التفاعل مالم يُستخدم محفز فعال\n\n[D] قيمة عامل التردد التي تتنبأ بها معادلة Arrhenius أعلى من القيمة التي تم تحديدها تجريبيًا",
+        "gold": "AB"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 30,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "من بين ما يلي، البيان (البيانات) الصحيح(ة) هو(هي)\n\n[A] $\\mathrm{Al}\\left(\\mathrm{CH}_{3}\\right)_{3}$ لديها روابط ثلاث مراكز باثنين من الإلكترونات في هيكلها الثنائي\n\n[B] $\\mathrm{BH}_{3}$ لديها روابط ثلاث مراكز باثنين من الإلكترونات في هيكلها الثنائي\n\n[C] $\\mathrm{AlCl}_{3}$ لديها روابط ثلاث مراكز باثنين من الإلكترونات في هيكلها الثنائي\n\n[D] حموضة لويس ل$\\mathrm{BCl}_{3}$ أكبر من تلك ل$\\mathrm{AlCl}_{3}$",
+        "gold": "ABD"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 31,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "الخيار(ات) الذي يحتوي(يحتوين) فقط على أكسيدات مثيلة هو(هي):\n\n[A] $\\mathrm{Cr}_{2} \\mathrm{O}_{3}, \\mathrm{BeO}, \\mathrm{SnO}, \\mathrm{SnO}_{2}$\n\n[B] $\\mathrm{Cr}_{2} \\mathrm{O}_{3}, \\mathrm{CrO}, \\mathrm{SnO}, \\mathrm{PbO}$\n\n[C] $\\mathrm{NO}, \\mathrm{B}_{2} \\mathrm{O}_{3}, \\mathrm{PbO}, \\mathrm{SnO}_{2}$\n\n[D] $\\mathrm{ZnO}, \\mathrm{Al}_{2} \\mathrm{O}_{3}, \\mathrm{PbO}, \\mathrm{PbO}_{2}$",
+        "gold": "AD"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 37,
+        "subject": "math",
+        "type": "MCQ",
+        "question": "معادلة السطح الذي يمر عبر النقطة $(1,1,1)$ ومنحصر عمودياً على الأسطح $2x+y-2z = 5$ و$3x-6y-2z = 7$، هي\n\n[A] $14x+2y-15z=1$\n\n[B] $14x-2y+15z=27$\n\n[C] $14x+2y+15z=31$\n\n[D] $-14x+2y+15z=3$",
+        "gold": "C"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 38,
+        "subject": "math",
+        "type": "MCQ",
+        "question": "لنكن $O$ هو الأصل ولتكن $P Q R$ مثلثًا عشوائيًا. النقطة $S$ تتمتع بالشرط التالي:\n\n\\[\n\\overrightarrow{O P} \\cdot \\overrightarrow{O Q}+\\overrightarrow{O R} \\cdot \\overrightarrow{O S}=\\overrightarrow{O R} \\cdot \\overrightarrow{O P}+\\overrightarrow{O Q} \\cdot \\overrightarrow{O S}=\\overrightarrow{O Q} \\cdot \\overrightarrow{O R}+\\overrightarrow{O P} \\cdot \\overrightarrow{O S}\n\\]\n\nثم المثلث $P Q R$ يكون لديه $S$ كـ \n\n[A] الجاكر\n\n[B] مركز الدائرة\n\n[C] مركز المثلث\n\n[D] مركز الارتفاع",
+        "gold": "D"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 39,
+        "subject": "math",
+        "type": "MCQ",
+        "question": "إذا كانت $y=y(x)$ ترضي المعادلة التفاضلية التالية\n\\[\n8 \\sqrt{x}(\\sqrt{9+\\sqrt{x}}) d y=(\\sqrt{4+\\sqrt{9+\\sqrt{x}}})^{-1} d x, \\quad x>0\n\\]\n\nو $y(0)=\\sqrt{7}$, فإن $y(256)=$\n\n[A] 3\n\n[B] 9\n\n[C] 16\n\n[D] 80",
+        "gold": "A"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 40,
+        "subject": "math",
+        "type": "MCQ",
+        "question": "إذا كانت $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ دالة قابلة للتفاضل مرتين بحيث $f^{\\prime \\prime}(x)>0$ لكل $x \\in \\mathbb{R}$، و $f\\left(\\frac{1}{2}\\right)=\\frac{1}{2}$، $f(1)=1$،\n\n[A] $f^{\\prime}(1) \\leq 0$\n\n[B] $0<f^{\\prime}(1) \\leq \\frac{1}{2}$\n\n[C] $\\frac{1}{2}<f^{\\prime}(1) \\leq 1$\n\n[D] $f^{\\prime}(1)>1$",
+        "gold": "D"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 41,
+        "subject": "math",
+        "type": "MCQ",
+        "question": "كم مصفوفات $3 \\times 3$ $M$ بمداخل من $\\{0,1,2\\}$ موجودة، حيث أن مجموع عناصر القُطر الرئيسي للمصفوفة $M^{T} M$ يساوي $5$؟\n\n$[\\text{أ}] 126$\n\n$[\\text{ب}] 198$\n\n$[\\text{ج}] 162$\n\n$[\\text{د}] 135$",
+        "gold": "B"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 42,
+        "subject": "math",
+        "type": "MCQ",
+        "question": "لنكن $S=\\{1,2,3, \\ldots, 9\\}$. للمتغير $k=1,2, \\ldots, 5$، دع $N_{k}$ يمثل عدد النطاقات الفرعية لمجموعة $S$، حيث تحتوي كل نطاقة على خمس عناصر ومن بينها بالضبط $k$ عناصر فرديين. إذاً $N_{1}+N_{2}+N_{3}+N_{4}+N_{5}=$\n\n[A] 210\n\n[B] 252\n\n[C] 125\n\n[D] 126",
+        "gold": "D"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 43,
+        "subject": "math",
+        "type": "MCQ",
+        "question": "ثلاثة أعداد صحيحة غير سالبة عشوائية $x، y$ و $z$ يتم اختيارها بحيث ترضي المعادلة $x+y+z=10$. إذن الاحتمال أن يكون $z$ زوجيًا هو\n\n[A] $\\frac{36}{55}$\n\n[B] $\\frac{6}{11}$\n\n[C] $\\frac{1}{2}$\n\n[D] $\\frac{5}{11}$",
+        "gold": "B"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 46,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "إذا كان $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ دالة قابلة للتفاضل بحيث $f^{\\prime}(x)>2 f(x)$ لكل $x \\in \\mathbb{R}$ و $f(0)=1$، فإن\n\n[A] $f(x)$ زايدة في $(0, \\infty)$\n\n[B] $f(x)$ ناقصة في $(0, \\infty)$\n\n[C] $\\quad f(x)>e^{2 x}$ في $(0, \\infty)$\n\n[D] $f^{\\prime}(x)<e^{2 x}$ في $(0, \\infty)$",
+        "gold": "AC"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 47,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "دع $f(x)=\\frac{1-x(1+|1-x|)}{|1-x|} \\cos \\left(\\frac{1}{1-x}\\right)$ لـ $x \\neq 1$. ثم\n\n[A] $\\lim _{x \\rightarrow 1^{-}} f(x)=0$\n\n[B] $\\lim _{x \\rightarrow 1^{-}} f(x)$ لا يوجد\n\n[C] $\\lim _{x \\rightarrow 1^{+}} f(x)=0$\n\n[D] $\\lim _{x \\rightarrow 1^{+}} f(x)$ لا يوجد",
+        "gold": "AD"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 48,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "إذا كان $f(x)=\\left|\\begin{array}{ccc}\\cos (2 x) & \\cos (2 x) & \\sin (2 x) \\\\ -\\cos x & \\cos x & -\\sin x \\\\ \\sin x & \\sin x & \\cos x\\end{array}\\right|$، حيث\n\n[A] $f^{\\prime}(x)=0$ في ثلاث نقاط بالضبط في $(-\\pi, \\pi)$\n\n[B] $f^{\\prime}(x)=0$ في أكثر من ثلاث نقاط في $(-\\pi, \\pi)$\n\n[C] $f(x)$ تحقق أقصى قيمة عند $x=0$\n\n[D] $f(x)$ تحقق قيمتها الدنيا عند $x=0$",
+        "gold": "BC"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 49,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "إذا قسم الخط $x=\\alpha$ مساحة المنطقة $R=\\left\\{(x, y) \\in \\mathbb{R}^{2}: x^{3} \\leq y \\leq x, 0 \\leq x \\leq 1\\right\\}$ إلى جزئين متساويين، فإن\n\n[A] $0<\\alpha \\leq \\frac{1}{2}$\n\n[B] $\\frac{1}{2}<\\alpha<1$\n\n[C] $2 \\alpha^{4}-4 \\alpha^{2}+1=0$\n\n[D] $\\alpha^{4}+4 \\alpha^{2}-1=0$",
+        "gold": "BC"
+    },
+    {
+        "description": "JEE Adv 2017 Paper 2",
+        "index": 50,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "إذا كان $I=\\sum_{k=1}^{98} \\int_{k}^{k+1} \\frac{k+1}{x(x+1)} dx$، فإن\n\n[A] $I>\\log _{e} 99$\n\n[B] $I<\\log_{e} 99$\n\n[C] $I<\\frac{49}{50}$\n\n[D] $I>\\frac{49}{50}$",
+        "gold": "BD"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 1,
+        "subject": "phy",
+        "type": "MCQ(multiple)",
+        "question": "طاقة الطاقة المحتملة لجسيم بكتلة $m$ على بُعد $r$ عن نقطة ثابتة $O$ تعطى بالعلاقة $V(r)=k r^{2} / 2$، حيث $k$ ثابت إيجابي بأبعاد مناسبة. يتحرك هذا الجسيم في مدار دائري ذو نصف قطر $R$ حول النقطة $O$. إذا كان $v$ هو سرعة الجسيم و $L$ هو مقدار الزخم الزاوي حول $O$، أيًا من العبارات التالية صحيحة؟\n\n(A) $v=\\sqrt{\\frac{k}{2 m}} R$\n\n(B) $v=\\sqrt{\\frac{k}{m}} R$\n\n(C) $L=\\sqrt{m k} R^{2}$\n\n(D) $L=\\sqrt{\\frac{m k}{2}} R^{2}$",
+        "gold": "BC"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 2,
+        "subject": "phy",
+        "type": "MCQ(multiple)",
+        "question": "Considerr a body of mass $1.0 \\mathrm{~kg}$ at rest at the origin at time $t=0$. A force $\\vec{F}=(\\alpha t \\hat{i}+\\beta \\hat{j})$ is applied on the body, where $\\alpha=1.0 \\mathrm{Ns}^{-1}$ and $\\beta=1.0 \\mathrm{~N}$. The torque acting on the body about the origin at time $t=1.0 \\mathrm{~s}$ is $\\vec{\\tau}$. Which of the following statements is (are) true?\n\n(A) $|\\vec{\\tau}|=\\frac{1}{3} \\text{ N m}$\n\n(B) The torque $\\vec{\\tau}$ is in the direction of the unit vector $+\\hat{k}$\n\n(C) The velocity of the body at $t=1 \\text{ s}$ is $\\vec{v}=\\frac{1}{2}(\\hat{i}+2 \\hat{j}) \\text{ m s}^{-1}$\n\n(D) The magnitude of displacement of the body at $t=1 \\text{ s}$ is $\\frac{1}{6} \\text{ m}$",
+        "gold": "AC"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 3,
+        "subject": "phy",
+        "type": "MCQ(multiple)",
+        "question": "يتم تغطية أنبوب الشعيرة الموحد بنصف قطر داخلي $r$ عمودياً في قدر مملوء بالماء. يرتفع الماء إلى ارتفاع $h$ في أنبوب الشعيرة فوق سطح الماء في القدر. توتر سطح الماء هو $\\sigma$. زاوية الاتصال بين الماء وجدار أنبوب الشعيرة هي $\\theta$. تجاهل كتلة الماء في الحد الأدنى. أيًا من العبارات التالية صحيحة؟\n\n(أ) بالنسبة لمادة معينة من أنبوب الشعيرة، ينخفض $h$ بزيادة $r$\n\n(ب) بالنسبة لمادة معينة من أنبوب الشعيرة، $h$ غير متعلق بـ $\\sigma$\n\n(ج) إذا تم تنفيذ هذه التجربة في مصعد يتحرك لأعلى بتسارع ثابت، فإن $h$ ينخفض\n\n(د) $h$ تتناسب مع زاوية الاتصال $\\theta$",
+        "gold": "AC"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 5,
+        "subject": "phy",
+        "type": "MCQ(multiple)",
+        "question": "يكمن سلكين مستقيمين طويلين لا نهاية لهما في مستوى \\textbf{xy} على طول الخطوط \\textbf{x=$\\pm$ R}. يحمل السلك الموجود عند \\textbf{x=+R} تيارا ثابتا $I_{1}$ والسلك الموجود عند \\textbf{x=-R} يحمل تيارا ثابتا $I_{2}$. حلقة دائرية ذات نصف قطر R معلقة بمركزها عند \\textbf{(0,0,$\\sqrt{3}$ R)} وفي خطوط موازية لمستوى \\textbf{xy}. تحمل هذه الحلقة تيارا ثابتا $I$ في اتجاه عقارب الساعة كما يُرى من فوق الحلقة. يُعتبر التيار في السلك إيجابيًا إذا كان في اتجاه \\textbf{+\\^{j}}. أي من العبارات التالية حول الحقل المغناطيسي $\\vec{B}$ هي صحيحة؟\n\nأ) إذا كان $I_{1}=I_{2}$ ، فإن $\\vec{B}$ لا يمكن أن يكون مساويًا للصفر في المنتصف \\textbf{(0,0,0)}\n\nب) إذا كان $I_{1}>0$ و $I_{2}<0$ ، فإن $\\vec{B}$ يمكن أن يكون مساويًا للصفر في المنتصف \\textbf{(0,0,0)}\n\nج) إذا كان $I_{1}<0$ و $I_{2}>0$ ، فإن $\\vec{B}$ يمكن أن يكون مساويًا للصفر في المنتصف \\textbf{(0,0,0)}\n\nد) إذا كان $I_{1}=I_{2}$ ، فإن مكون الـ \\textbf{z} للحقل المغناطيسي في مركز الحلقة هو $\\left(-\\frac{\\mu_{0} I}{2 R}\\right)$",
+        "gold": "ABD"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 7,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "يتم تحديد متجهين $\\vec{A}$ و $\\vec{B}$ بشكلٍ أن $\\vec{A}=a \\hat{i}$ و $\\vec{B}=a(\\cos \\omega t \\hat{i}+\\sin \\omega t \\hat{j})$، حيث $a$ ثابتة و $\\omega=\\pi / 6 \\mathrm{rads}^{-1}$. إذا كان $|\\vec{A}+\\vec{B}|=\\sqrt{3}|\\vec{A}-\\vec{B}|$ في الزمن $t=\\tau$ للمرة الأولى، فما قيمة $\\tau$ بالثواني؟",
+        "gold": "2"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 8,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "يسيرون رجلان على خط أفقي مستقيم في نفس الاتجاه. الرجل الأمامي يسير بسرعة $1.0 \\mathrm{~ms}^{-1}$ والرجل الذي خلفه يسير بسرعة $2.0 \\mathrm{~m} \\mathrm{~s}^{-1}$. ثالث يقف على ارتفاع $12 \\mathrm{~m}$ فوق نفس الخط الأفقي بحيث تكون الرجلان الثلاثة في نفس السطح الرأسي. الرجلان يحملان أصفارًا متطابقة تنبعث منها صوت بتردد $1430 \\mathrm{~Hz}$. سرعة الصوت في الهواء تبلغ $330 \\mathrm{~m} \\mathrm{~s}^{-1}$. في اللحظة التي يكون فيها الرجلان المتحركان على بعد $10 \\mathrm{~m}$ من بعضهما، الرجل الثابت يكون على بعد متساوٍ منهما. ما هو تردد النغمات بالهرتز الذي يسمعه الرجل الثابت في هذه اللحظة؟",
+        "gold": "5"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 9,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "حلقة وقرص في حالة سكون، جنبًا إلى جنب، في أعلى مميل يصنع زاوية $60^{\\circ}$ مع الأفقي. يبدأون في التدحرج دون انزلاق في نفس اللحظة على طول المسار الأقصر. إذا كان الفرق في الزمن بين وصولهما إلى الأرض هو $(2-\\sqrt{3}) / \\sqrt{10} s$، فما هو ارتفاع أعلى السطح المائل، بالأمتار؟\n\nخذ $g=10 m s^{-2}$.",
+        "gold": "0.75"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 13,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "شعاع الشمس بكثافة $1.3 \\mathrm{~kW} \\mathrm{~m}^{-2}$ يسقط بشكلٍ عمودي على عدسة محدبة رقيقة ببعد بؤري $20 \\mathrm{~cm}$. تجاهل فقدان الطاقة الناتج عن الضوء بسبب العدسة وافترض أن حجم فتحة العدسة أصغر بكثير من بعدها البؤري. ما هو المتوسط لكثافة الضوء، بواحدة $\\mathrm{kW} \\mathrm{m}{ }^{-2}$، عند مسافة $22 \\mathrm{~cm}$ من العدسة في الجهة الأخرى؟",
+        "gold": "130"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 19,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "المركب(ات) الذي يولد غاز $\\mathrm{N}_{2}$ أثناء تفككه الحراري تحت $300^{\\circ} \\mathrm{C}$ هو\n\n(A) $\\mathrm{NH}_{4} \\mathrm{NO}_{3}$\n\n(B) $\\left(\\mathrm{NH}_{4}\\right)_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$\n\n(C) $\\mathrm{Ba}\\left(\\mathrm{N}_{3}\\right)_{2}$\n\n(D) $\\mathrm{Mg}_{3} \\mathrm{~N}_{2}$",
+        "gold": "BC"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 20,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "البيان الصحيح(ة) بخصوص مركبات الكربونيل المعدنية ثنائية التحول هو (هي) (أعداد ذراتية: $\\mathrm{Fe}=26, \\mathrm{Ni}=28$ )\n\n(A) إجمالي عدد إلكترونات الطبقة الخارجية عند مركز المعدن في $\\mathrm{Fe}(\\mathrm{CO})_{5}$ أو $\\mathrm{Ni}(\\mathrm{CO})_{4}$ هو 16\n\n(B) هذه تكون في الغالب من النوع الدوراني المنخفض\n\n(C) يتقوى رابط المعدن-كربون عند خفض حالة الأكسدة للمعدن\n\n(D) يضعف رابط الكربونيل C-O عند زيادة حالة الأكسدة للمعدن",
+        "gold": "BC"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 21,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "استنادًا إلى مركبات عناصر المجموعة 15، البيان الصحيح هو\n\n(A) $\\mathrm{Bi}_{2} \\mathrm{O}_{5}$ أكثر قاعدية من $\\mathrm{N}_{2} \\mathrm{O}_{5}$\n\n(B) $\\mathrm{NF}_{3}$ أكثر تساهمية من $\\mathrm{BiF}_{3}$\n\n(C) $\\mathrm{PH}_{3}$ يغلي عند درجة حرارة أقل من $\\mathrm{NH}_{3}$\n\n(D) رابطة الأزوت $\\mathrm{N}-\\mathrm{N}$ الأحادية أقوى من رابطة الفوسفور $\\mathrm{P}-\\mathrm{P}$ الأحادية",
+        "gold": "ABC"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 25,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "من بين الأنواع المعطاة أدناه، ما هو إجمالي عدد الأنواع الذاتية التعامل؟\n\n$\\mathrm{H}$ atom, $\\mathrm{NO}_{2}$ monomer, $\\mathrm{O}_{2}^{-}$(superoxide), dimeric sulphur in vapour phase,\n\n$\\mathrm{Mn}_{3} \\mathrm{O}_{4},\\left(\\mathrm{NH}_{4}\\right)_{2}\\left[\\mathrm{FeCl}_{4}\\right],\\left(\\mathrm{NH}_{4}\\right)_{2}\\left[\\mathrm{NiCl}_{4}\\right], \\mathrm{K}_{2} \\mathrm{MnO}_{4}, \\mathrm{~K}_{2} \\mathrm{CrO}_{4}$",
+        "gold": "1"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 26,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "تم استخدام الأمونيا المحضرة بمعالجة كبريتات الأمونيوم بهيدروكسيد الكالسيوم بالكامل من قبل $\\mathrm{NiCl}_{2} \\cdot 6 \\mathrm{H}_{2} \\mathrm{O}$ لتكوين مركب تنسيقي مستقر. يفترض أن كلتا التفاعلين تكتملا بنسبة $100 \\%$. إذا تم استخدام $1584 \\mathrm{~g}$ من كبريتات الأمونيوم و $952 \\mathrm{~g}$ من $\\mathrm{NiCl}_{2} .6 \\mathrm{H}_{2} \\mathrm{O}$ في الإعداد، فما هو الوزن المجموع (بالجرام) للجبس ومركب تصنيع النيكل أمونيا المنسق الذي تم إنتاجه؟\n\n(أوزان ذرية بوحدة $\\mathrm{g} \\mathrm{mol}^{-1}: \\mathrm{H}=1, \\mathrm{~N}=14, \\mathrm{O}=16, \\mathrm{~S}=32, \\mathrm{Cl}=35.5, \\mathrm{Ca}=40, \\mathrm{Ni}=59$ )",
+        "gold": "2992"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 27,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "Considر an ionic solid $\\mathbf{M X}$ with $\\mathrm{NaCl}$ structure. Construct a new structure (Z) whose unit cell is constructed from the unit cell of $\\mathbf{M X}$ following the sequential instructions given below. Neglect the charge balance.\n\n(i) Remove all the anions (X) except the central one\n\n(ii) Replace all the face centered cations (M) by anions (X)\n\n(iii) Remove all the corner cations (M)\n\n(iv) Replace the central anion (X) with cation (M)\n\nWhat is the value of $\\left(\\frac{\\text { number of anions }}{\\text { number of cations }}\\right)$ in $\\mathbf{Z}$?",
+        "gold": "3"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 28,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "بالنسبة للخلية الكهروكيميائية،\n\n\\[\n\\operatorname{Mg}(\\mathrm{s})\\left|\\mathrm{Mg}^{2+}(\\mathrm{aq}, 1 \\mathrm{M}) \\| \\mathrm{Cu}^{2+}(\\mathrm{aq}, 1 \\mathrm{M})\\right| \\mathrm{Cu}(\\mathrm{s})\n\\]\n\nالفرق الكهروكيميائي القياسي للخلية هو $2.70 \\mathrm{~V}$ عند $300 \\mathrm{~K}$. عند تغيير تركيز $\\mathrm{Mg}^{2+}$ إلى $\\boldsymbol{x} \\mathrm{M}$، تتغير البوتنشيال الخلوي إلى $2.67 \\mathrm{~V}$ عند $300 \\mathrm{~K}$. ما قيمة $\\boldsymbol{x}$؟\n\n(القيم المعطاة، $\\frac{F}{R}=11500 \\mathrm{~K} \\mathrm{~V}^{-1}$، حيث $F$ ثابت فرايدي، و $R$ ثابت الغازات، $\\ln(10)=2.30)$",
+        "gold": "10"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 30,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "السوائل $\\mathbf{A}$ و $\\mathbf{B}$ تكوّنان حلاً مثاليًا عبر نطاق التركيب بأكمله. في درجة حرارة $\\mathrm{T}$، يكون لمحلول ثنائي متكافئ من السوائل $\\mathbf{A}$ و $\\mathbf{B}$ ضغط بخاري يبلغ 45 تور. في نفس درجة الحرارة، يكون لمحلول جديد من $\\mathbf{A}$ و $\\mathbf{B}$ ذو تراكيز مولارية $x_{A}$ و $x_{B}$ على التوالي، ضغط بخاري يبلغ 22.5 تور. ما قيمة $x_{A} / x_{B}$ في المحلول الجديد؟ (مع العلم أن الضغط البخاري للسائل النقي $\\mathbf{A}$ يبلغ 20 تور عند درجة الحرارة $\\mathrm{T}$)",
+        "gold": "19"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 31,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "الذوبانية لملح الحمض الضعيف (AB) عند $\\mathrm{pH} 3$ هي $\\mathbf{Y} \\times 10^{-3} \\mathrm{~mol} \\mathrm{~L}^{-1}$. قيمة $\\mathbf{Y}$ هي (مع العلم أن قيمة ثابت ذوبانية $\\mathbf{A B}\\left(K_{s p}\\right)=2 \\times 10^{-10}$ وقيمة ثابت تأين $\\left.\\mathbf{H B}\\left(K_{a}\\right)=1 \\times 10^{-8}\\right)$",
+        "gold": "4.47"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 37,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "لرقم مركب غير صفري $z$، لنعتبر $\\arg (z)$ أمراً أساسياً يكون مع $-\\pi<\\arg (z) \\leq \\pi$. ثم، أي من البيانات التالية غير صحيحة؟\n\n\\end{itemize}\n\n(A) $\\arg (-1-i)=\\frac{\\pi}{4}$، حيث $i=\\sqrt{-1}$\n\n(B) الدالة $f: \\mathbb{R} \\rightarrow(-\\pi, \\pi]$، محددة بواسطة $f(t)=\\arg (-1+i t)$ لكل $t \\in \\mathbb{R}$، مستمرة في جميع نقاط $\\mathbb{R}$، حيث $i=\\sqrt{-1}$\n\n(C) بالنسبة لأي رقمين مركبين غير صفرين $z_{1}$ و $z_{2}$،\n\n\\[\n\\arg \\left(\\frac{z_{1}}{z_{2}}\\right)-\\arg \\left(z_{1}\\right)+\\arg \\left(z_{2}\\right)\n\\]\n\nهو مضاعف عددي ل $2 \\pi$\n\n(D) بالنسبة لأي ثلاثة أرقام مركبة مميزة معطاة $z_{1}, z_{2}$ و$z_{3}$، المكان الذي توجد فيه النقطة $z$ التي تحقق التالي\n\n\\[\n\\arg \\left(\\frac{\\left(z-z_{1}\\right)\\left(z_{2}-z_{3}\\right)}{\\left(z-z_{3}\\right)\\left(z_{2}-z_{1}\\right)}\\right)=\\pi\n\\]\n\nيكون على خط مستقيم",
+        "gold": "ABD"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 38,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "في مثلث $PQR$، لنفرض $\\angle PQR=30^{\\circ}$ وأن طول الضلعين $PQ$ و$QR$ هما $10\\sqrt{3}$ و10، على التوالي. إذاً، أيٌّ من البيانات التالية صحيحة؟\n\nأ- $\\angle QPR=45^{\\circ}$\n\nب- مساحة المثلث $PQR$ هي $25\\sqrt{3}$ و$\\angle QRP=120^{\\circ}$\n\nج- نصف قطر دائرة الدائرة الداخلية للمثلث $PQR$ هو $10\\sqrt{3}-15$\n\nد- مساحة دائرة الدائرة المحيطة لمثلث $PQR$ هي $100\\pi$",
+        "gold": "BCD"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 39,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "لنكن $P_{1}: 2 x+y-z=3$ و $P_{2}: x+2 y+z=2$ خطين. ثم، أيًا من العبارات التالية هو صحيح؟\n\n(A) خط التقاطع بين $P_{1}$ و $P_{2}$ له نسب توجيهية $1,2,-1$\n\n(B) الخط\n\n\\[\n\\frac{3 x-4}{9}=\\frac{1-3 y}{9}=\\frac{z}{3}\n\\]\n\nعمودي على خط التقاطع بين $P_{1}$ و $P_{2}$\n\n(C) الزاوية الحادة بين $P_{1}$ و $P_{2}$ هي $60^{\\circ}$\n\n(D) إذا كان $P_{3}$ هو السطح الذي يمر عبر النقطة $(4,2,-2)$ وعمودي على خط التقاطع بين $P_{1}$ و $P_{2}$، فإن المسافة بين النقطة $(2,1,1)$ والسطح $P_{3}$ هي $\\frac{2}{\\sqrt{3}}$",
+        "gold": "CD"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 40,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "لكل دالة مرتين قابلة للتفاضل $f: \\mathbb{R} \\rightarrow[-2,2]$ حيث $(f(0))^{2}+\\left(f^{\\prime}(0)\\right)^{2}=85$، أيًا من العبارات التالية صحيحة؟\n\n(A) يوجد $r، s \\in \\mathbb{R}$، حيث $r<s$، بحيث تكون $f$ توافقية على الفترة المفتوحة $(r, s)$\n\n(B) يوجد $x_{0} \\in(-4,0)$ بحيث $\\left|f^{\\prime}\\left(x_{0}\\right)\\right| \\leq 1$\n\n(C) $\\lim _{x \\rightarrow \\infty} f(x)=1$\n\n(D) يوجد $\\alpha \\in(-4,4)$ بحيث $f(\\alpha)+f^{\\prime \\prime}(\\alpha)=0$ و$f^{\\prime}(\\alpha) \\neq 0$",
+        "gold": "ABD"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 41,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "لتكن $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ و $g: \\mathbb{R} \\rightarrow \\mathbb{R}$ دالتان قابلتان للتفاضل غير الثابتتين. إذا كانت\n\n\\[\nf^{\\prime}(x)=\\left(e^{(f(x)-g(x))}\\right) g^{\\prime}(x) \\text { for all } x \\in \\mathbb{R}\n\\]\n\nو$ f(1)=g(2)=1 $، فأيٌ من العبارات التالية صحيحة؟\n\n(أ) $f(2)<1-\\log_{\\mathrm{e}}2$\n\n(ب) $f(2)>1-\\log_{\\mathrm{e}}2$\n\n(ج) $g(1)>1-\\log_{\\mathrm{e}}2$\n\n(د) $g(1)<1-\\log_{\\mathrm{e}}2$",
+        "gold": "BC"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 43,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "ما هو قيمة\n\n\\[\n\\left(\\left(\\log _{2} 9\\right)^{2}\\right)^{\\frac{1}{\\log _{2}\\left(\\log _{2} 9\\right)}} \\times(\\sqrt{7})^{\\frac{1}{\\log _{4} 7}}\n\\]?",
+        "gold": "8"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 44,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "ما هو عدد الأرقام المكونة من 5 أرقام والتي يمكن قسمتها على 4، مع الأرقام من المجموعة $\\{1,2,3,4,5\\}$ وتكرار الأرقام مسموح به؟",
+        "gold": "625"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 45,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "لنكن $X$ مجموعة تتكون من أول 2018 عنصر من التسلسل الحسابي $1,6,11،\\ldots$، ولنكن $Y$ مجموعة تتكون من أول 2018 عنصر من التسلسل الحسابي $9,16,23،\\ldots$.\nإذاً، ما هو عدد العناصر في المجموعة $X \\cup Y$؟",
+        "gold": "3748"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 46,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "ما هو عدد الحلول الحقيقية للمعادلة\n\n\\[\n\\sin ^{-1}\\left(\\sum_{i=1}^{\\infty} x^{i+1}-x \\sum_{i=1}^{\\infty}\\left(\\frac{x}{2}\\right)^{i}\\right)=\\frac{\\pi}{2}-\\cos ^{-1}\\left(\\sum_{i=1}^{\\infty}\\left(-\\frac{x}{2}\\right)^{i}-\\sum_{i=1}^{\\infty}(-x)^{i}\\right)\n\\]\n\nالتي تقع في الفترة $\\left(-\\frac{1}{2}, \\frac{1}{2}\\right)$ هو\n\n(هنا، تأخذ الدوال العكسية التمامية $\\sin ^{-1} x$ و $\\cos ^{-1} x$ قيمًا في المدى $\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right]$ و $[0, \\pi]$، على التوالي.)",
+        "gold": "2"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 47,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "لكل عدد صحيح إيجابي $n$، لنكن\n\n\\[\ny_{n}=\\frac{1}{n}((n+1)(n+2) \\cdots(n+n))^{\\frac{1}{n}}\n\\]\n\nلـ $x \\in \\mathbb{R}$، دع $[x]$ يكون أكبر عدد صحيح يقل عن $x$ أو يساويه. إذا كان $\\lim _{n \\rightarrow \\infty} y_{n}=L$، فما هو قيمة $[L]$؟",
+        "gold": "1"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 48,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "لنكن $\\vec{a}$ و$\\vec{b}$ متجهين موحدين بحيث تكون $\\vec{a} \\cdot \\vec{b}=0$. لبعض الأعداد $x ، y \\in \\mathbb{R}$، لنكن $\\vec{c}=x \\vec{a}+y \\vec {b}+(\\vec{a} \\times \\vec{b})$. إذا كان $|\\vec{c}|=2$ وكان يميل متجه $\\vec{c}$ بنفس الزاوية $\\alpha$ لكل من $\\vec{a}$ و$\\vec{b}$، فما هو قيمة $8 \\cos ^{2} \\alpha$؟",
+        "gold": "3"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 49,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "لتكن $a، b، c$ ثلاثة أعداد حقيقية غير صفرية بحيث تكون المعادلة\n\n\\[\n\\sqrt{3} a \\cos x+2 b \\sin x=c, x \\in\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right]\n\\]\n\nلها جذرين حقيقيين متمايزين $\\alpha$ و $\\beta$ حيث أن $\\alpha + \\beta = \\frac{\\pi}{3}$. ما قيمة التعبير $\\frac{b}{a}$؟",
+        "gold": "0.5"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 1",
+        "index": 50,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "المزارع $F_{1}$ لديه أرض على شكل مثلث برؤوس في $P(0,0)$ و$Q(1,1)$ و$R(2,0)$. يأخذ المزارع المجاور $F_{2}$ من هذه الأرض المنطقة التي تقع بين الضلع $P Q$ ومنحنى من النوع $y=x^{n}(n>1)$. إذا كانت مساحة المنطقة التي أخذها المزارع $F_{2}$ بالضبط $30 \\%$ من مساحة المثلث $\\triangle P Q R$، فما قيمة $n$؟",
+        "gold": "4"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 1,
+        "subject": "phy",
+        "type": "MCQ(multiple)",
+        "question": "جسيم ذو كتلة $m$ في البداية بدأ في الراحة عند الأصل. تتعرض لقوة وتبدأ في التحرك على طول محور $x$. تتغير طاقته الحركية $K$ مع الزمن بمعدل $d K / d t=\\gamma t$، حيث أن $\\gamma$ ثابت إيجابي من الأبعاد المناسبة. أيٌّ من العبارات التالية صحيحة؟\n\n(A) القوة المطبقة على الجسيم ثابتة\n\n(B) سرعة الجسيم تتناسب مع الزمن\n\n(C) المسافة بين الجسيم والأصل تزداد بشكل خطي مع الزمن\n\n(D) القوة هي محافظة",
+        "gold": "ABD"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 2,
+        "subject": "phy",
+        "type": "MCQ(multiple)",
+        "question": "Considfer a thin sqaure plate floating on a viscosus liquid in a large tank. The height $h$ of the liquid in the tank is much less than the width of the tank. The floating plate is pulled horizontally with a constant velocity $u_{0}$. Which of the following statements is (are) true?\n\n(A) The resistive force of liquid on the plate is inversely proportional to $h$\n\n(B) The resistive force of liquid on the plate is independent of the area of the plate\n\n(C) The tangential (shear) stress on the floor of the tank increases with $u_{0}$\n\n(D) The tangential (shear) stress on the plate varies linearly with the viscosity $\\eta$ of the liquid",
+        "gold": "ACD"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 5,
+        "subject": "phy",
+        "type": "MCQ(multiple)",
+        "question": "في سلسلة تحلل إشعاعي، يتحلل نواة ${ }_{90}^{232} \\mathrm{Th}$ إلى نواة ${ }_{82}^{212} \\mathrm{~Pb}$ . لنكن $N_{\\alpha}$ و $N_{\\beta}$ هما عدد الجسيمات $\\alpha$ و $\\beta^{-}$ المنبعثة، على التوالي، في هذه العملية تحلل. أيًا من العبارات التالية هي صحيحة؟\n\n(A) $N_{\\alpha}=5$\n\n(B) $N_{\\alpha}=6$\n\n(C) $N_{\\beta}=2$\n\n(D) $N_{\\beta}=4$",
+        "gold": "AC"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 6,
+        "subject": "phy",
+        "type": "MCQ(multiple)",
+        "question": "في تجربة لقياس سرعة الصوت بواسطة عمود هوائي ارتجاعي، تُستخدم شوكة صوتية تصدر ترددًا $500 \\mathrm{~Hz}$. يتم تغيير طول العمود الهوائي عن طريق تغيير مستوى الماء في أنبوب الارتجاع. يُسمع ارتجاجان متتاليان عند أعمدة هوائية بأطوال $50.7 \\mathrm{~cm}$ و$83.9 \\mathrm{~cm}$. أيٌّ من العبارات التالية صحيحة؟\n\n(A) سرعة الصوت المُحددة من هذه التجربة هي $332 \\mathrm{~ms}^{-1}$.\n\n(B) تصحيح النهاية في هذه التجربة هو $0.9 \\mathrm{~cm}$.\n\n(C) طول موجة الموجة الصوتية هو $66.4 \\mathrm{~cm}$.\n\n(D) الارتجاج في $50.7 \\mathrm{~cm}$ يُقابل الأساسي الأساسي.",
+        "gold": "AC"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 7,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "سطح أفقي صلب مغطى بطبقة رقيقة من الزيت. مكعب مستطيلي له كتلة $m=0.4 \\mathrm{~kg}$ في وضع السكون على هذه السطح. يتم تطبيق الزخم $1.0 \\mathrm{~N}$ على المكعب في الزمن $t=0$ بحيث يبدأ بالحركة على طول محور $x$ بسرعة $v(t)=v_{0} e^{-t / \\tau}$ حيث $v_{0}$ ثابت و $\\tau=4 \\mathrm{~s}$. ما هو التنقل للمكعب، بالأمتار، عند $t=\\tau$؟ إذا كان $e^{-1}=0.37$",
+        "gold": "6.3"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 8,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "يتم إطلاق كرة من الأرض بزاوية تبلغ $45^{\\circ}$ مع سطح الأرض الأفقي. تصل إلى ارتفاع أقصى يبلغ $120 \\mathrm{~m}$ ثم تعود إلى الأرض. عندما تصطدم بالأرض لأول مرة، تفقد نصف طاقتها الحركية. مباشرة بعد الارتداد، زاوية سرعة الكرة مع سطح الأرض تصبح $30^{\\circ}$. ما هو الارتفاع الأقصى الذي تصل إليه بعد الارتداد، بالمتر؟",
+        "gold": "30"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 9,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "جسيم بكتلة $10^{-3} \\mathrm{~kg}$ وشحنة $1.0 \\mathrm{C}$، في البداية كان في حالة سكون. في الزمن $t=0$، يتأثر الجسيم بمجال كهربائي $\\vec{E}(t)=E_{0} \\sin \\omega t \\hat{i}$، حيث $E_{0}=1.0 \\mathrm{~N}^{-1}$ و $\\omega=10^{3} \\mathrm{rad} \\mathrm{s}^{-1}$. يُعتبر تأثير القوة الكهربائية فقط على الجسيم. ما هي أقصى سرعة، بوحدة $m s^{-1}$، التي يصل إليها الجسيم في الأوقات التالية؟",
+        "gold": "2"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 10,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "لدينا تيار حلزوني متحرك يحتوي على 50 لفة، وكل لفة لها مساحة $2 \\times 10^{-4} \\mathrm{~m}^{2}$. المجال المغناطيسي الناتج بواسطة المغناطيس داخل التيار الحلزوني هو $0.02 T$. ثابت اللولب لسلك التعليق هو $10^{-4} \\mathrm{~N} \\mathrm{~m} \\mathrm{rad}^{-1}$. عندما يمر تيار خلال التيار الحلزوني، يحدث انحراف مقياس كامل الحجم إذا دورت اللفة بمقدار $0.2 \\mathrm{rad}$. مقاومة اللفة في التيار الحلزوني هي $50 \\Omega$. يُراد تحويل هذا التيار الحلزوني إلى أميتر قادر على قياس التيار في النطاق $0-1.0 \\mathrm{~A}$. لهذا الغرض، يجب إضافة مقاومة تحويل موازية للتيار الحلزوني. ما قيمة هذه المقاومة التحويلية؟",
+        "gold": "5.56"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 11,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "سلك فولاذي بقطر $0.5 \\mathrm{~mm}$ ومعامل شبابيك $2 \\times 10^{11} \\mathrm{~N} \\mathrm{~m}^{-2}$ يحمل حمولة كتلتها $M$. طول السلك مع الحمولة هو $1.0 \\mathrm{~m}$. مقياس فيرنيه له عشرة أقسام مرتبط بنهاية هذا السلك. بجانب السلك الفولاذي هنالك سلك مرجعي يحمل مقياس رئيسي، بحد أدنى $1.0 \\mathrm{~mm}$، مرفق به. تتوافق عشرة أقسام في مقياس فيرنيه مع تسعة أقسام في المقياس الرئيسي. في البداية، يتزامن صفر مقياس فيرنيه مع صفر المقياس الرئيسي. إذا زادت الحمولة على السلك الفولاذي بمقدار $1.2 \\mathrm{~kg}$، ما هي القسم في مقياس فيرنيه الذي يتزامن مع قسم في المقياس الرئيسي؟ استخدم $g=10 \\mathrm{~ms}^{-2}$ و$\\pi=3.2$",
+        "gold": "3"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 12,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "يخضع مول واحد من غاز مثالي أحادي الذرة لتمدد مفاعل حيث يصبح حجمه ثمانية أضعاف قيمته الأولية. إذا كانت درجة حرارة الغاز الأولية هي $100 \\mathrm{~K}$ وثابت الغاز العام $R=8.0 \\mathrm{~J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$، فما هي النقص في طاقته الداخلية بالجول؟",
+        "gold": "900"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 13,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "في تجربة الفوتوكهرباء، يسقط شعاع موازٍ من الضوء المونوكرومي بقوة $200 \\mathrm{~W}$ على كاثود ممتص تمامًا لطاقة العمل $6.25 \\mathrm{eV}$. تكون ترددات الضوء أعلى بقليل من التردد الحدّي، حتى تنبعث الفوتونات بطاقة حركية مهملة. نفترض أن كفاءة انبعاث الفوتونات هي $100\\%$. يُطبق فرق الجهد الكهربائي $500 \\mathrm{~V}$ بين الكاثود والأنود. جميع الإلكترونات المنبعثة تسقط عموديًا على الأنود وتُمتص. يتعرّض الأنود لقوة $F=n \\times 10^{-4} N$ نتيجة اصطدام الإلكترونات. ما قيمة $n$؟\n\nكتلة الإلكترون $m_{e}=9 \\times 10^{-31} \\mathrm{~kg}$ و$1.0 \\mathrm{eV} = 1.6 \\times 10^{-19} \\mathrm{~J}$.",
+        "gold": "24"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 14,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "ننظر إلى ذرة مئوية مثل الهيدروجين متأينة وذات زمرة ذرية $Z$ تحتوي على إلكترون واحد. في الطيف الانبعاثي لهذه الذرة، يكون الفوتون المُنبعث في الانتقال من $n=2$ إلى $n=1$ له طاقة تزيد بمقدار $74.8 \\mathrm{eV}$ على الفوتون المنبعث في الانتقال من $n=3$ إلى $n=2$. طاقة التأين لذرة الهيدروجين تبلغ $13.6 \\mathrm{eV}$. ما قيمة $Z$؟",
+        "gold": "3"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 19,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "الخيار(ات) الصحيح(ة) بخصوص المركب المعقّد $\\left[\\mathrm{Co}(\\mathrm{en})\\left(\\mathrm{NH}_{3}\\right)_{3}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)\\right]^{3+}$ (حيث en $=\\mathrm{H}_{2} \\mathrm{NCH}_{2} \\mathrm{CH}_{2} \\mathrm{NH}_{2}$ ) هو\n\n(A) لديها اثنين من المتصاوغات الهندسية\n\n(B) ستكون لديها ثلاثة متصاوغات هندسية إذا استُبدلت ligands سيانيد المتصلخم بحجمي en\n\n(C) إنها غير مغناطيسي\n\n(D) يمتص الضوء بطول موجي أطول مقارنة بـ $\\left[\\mathrm{Co}(\\mathrm{en})\\left(\\mathrm{NH}_{3}\\right)_{4}\\right]^{3+}$",
+        "gold": "ABD"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 20,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "الخيار(ات) الصحيحة لتمييز أملاح النترات لأيونات $\\mathrm{Mn}^{2+}$ و $\\mathrm{Cu}^{2+}$ عندما تؤخذ بشكل منفصل هي:\n\n(A) يظهر $\\mathrm{Mn}^{2+}$ اللون الأخضر المميز في اختبار اللهب\n\n(B) فقط $\\mathrm{Cu}^{2+}$ يظهر تكوين راسب عن طريق تمرير $\\mathrm{H}_{2} \\mathrm{~S}$ في وسط حمضي\n\n(C) فقط $\\mathrm{Mn}^{2+}$ يظهر تكوين راسب عن طريق تمرير $\\mathrm{H}_{2} \\mathrm{~S}$ في وسط قلوي خافت\n\n(D) $\\mathrm{Cu}^{2+} / \\mathrm{Cu}$ له الإمكان الأكبر للاختزال بالمقارنة مع $\\mathrm{Mn}^{2+} / \\mathrm{Mn}$ (مقاس تحت ظروف مماثلة)",
+        "gold": "BD"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 25,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "ما هو إجمالي عدد المركبات التي تحتوي على مجموعة أُوكسو للربط واحدة على الأقل من بين الجزيئات المعطاة أدناه؟\n\n$\\mathrm{N}_{2} \\mathrm{O}_{3}, \\mathrm{~N}_{2} \\mathrm{O}_{5}, \\mathrm{P}_{4} \\mathrm{O}_{6}, \\mathrm{P}_{4} \\mathrm{O}_{7}, \\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{5}, \\mathrm{H}_{5} \\mathrm{P}_{3} \\mathrm{O}_{10}, \\mathrm{H}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{3}, \\mathrm{H}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{5}$",
+        "gold": "6"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 26,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "تتأكسد جزئيا كالينا (خام) عن طريق تمرير الهواء من خلاله عند درجة حرارة عالية. بعد مرور بعض الوقت، يتم وقف مرور الهواء، ولكن يتم الاستمرار في التسخين في فرن مغلق بحيث تحدث عملية التخفيف الذاتي للمحتويات. ما هو الوزن (بالكيلوغرام) من الرصاص (Pb) الناتج لكل كيلوغرام من الأكسجين (O_2) المستهلك؟\n\n(الأوزان الذرية بوحدة جرام لكل مول: O=16، S=32، Pb=207)",
+        "gold": "6.47"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 27,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "لقياس كمية $\\mathrm{MnCl}_{2}$ المذابة في محلول مائي، تم تحويلها بالكامل إلى $\\mathrm{KMnO}_{4}$ باستخدام التفاعل، $\\mathrm{MnCl}_{2}+\\mathrm{K}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{8}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow \\mathrm{KMnO}_{4}+\\mathrm{H}_{2} \\mathrm{SO}_{4}+\\mathrm{HCl}$ (المعادلة غير متوازنة).\n\nتم إضافة بضع قطرات من $\\mathrm{HCl}$ المركز إلى هذا المحلول وتسخينه بلطف. بعد ذلك، تم إضافة حمض الأوكساليك (225 مليغرام) بالتدريج حتى اختفت لون أيون البرمنغنات. كمية $\\mathrm{MnCl}_{2}$ (بالملليغرام) الموجودة في المحلول الأولي هي\n\n(أوزان ذرية بواحدة بالجرام لكل مول: $\\mathrm{Mn}=55، \\mathrm{Cl}=35.5$ )",
+        "gold": "126"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 30,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "تتأكسد سطح النحاس بواسطة تشكيل أكسيد النحاس. تم تمرير غاز $\\mathrm{N}_{2}$ لمنع تكون الأكسيد خلال تسخين النحاس عند $1250 \\mathrm{~K}$. ومع ذلك، يحتوي غاز $\\mathrm{N}_{2}$ على 1 مول $\\%$ من بخار الماء كشوائب. يؤكسد بخار الماء النحاس وفقًا لتفاعل الأسفل:\n\n$2 \\mathrm{Cu}(\\mathrm{s})+\\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) \\rightarrow \\mathrm{Cu}_{2} \\mathrm{O}(\\mathrm{s})+\\mathrm{H}_{2}(\\mathrm{~g})$\n\n$p_{\\mathrm{H}_{2}}$ هو أدنى ضغط جزئي لل$\\mathrm{H}_{2}$ (في بار) المطلوب لمنع التأكسد عند $1250 \\mathrm{~K}$. ما هو قيمة $\\ln \\left(p_{\\mathrm{H}_{2}}\\right)$؟\n\n(المعطيات: الضغط الكلي $=1$ بار، $R$ ثابت الغاز العالمي $=8 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}, \\ln (10)=2.3$، $\\mathrm{Cu}(\\mathrm{s})$ و $\\mathrm{Cu}_{2} \\mathrm{O}(\\mathrm{s})$ غير قابلين للتبادل.\n\nعند $1250 \\mathrm{~K}: 2 \\mathrm{Cu}(\\mathrm{s})+1 / 2 \\mathrm{O}_{2}(\\mathrm{~g}) \\rightarrow \\mathrm{Cu}_{2} \\mathrm{O}(\\mathrm{s}) ; \\Delta G^{\\theta}=-78,000 \\mathrm{~J} \\mathrm{~mol}^{-1}$\n\n\\[\n\\mathrm{H}_{2}(\\mathrm{~g})+1 / 2 \\mathrm{O}_{2}(\\mathrm{~g}) \\rightarrow \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) ; \\quad \\Delta G^{\\theta}=-1,78,000 \\mathrm{~J} \\mathrm{~mol}^{-1} ; G \\text { هو طاقة جيبز) }\n\\]",
+        "gold": "-14.6"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 31,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "considr t7e following reversible reaction,\n\n\\[\n\\mathrm{A}(\\mathrm{g})+\\mathrm{B}(\\mathrm{g}) \\rightleftharpoons \\mathrm{AB}(\\mathrm{g})\n\\]\n\nThe activation energy of the backward reaction exceeds that of the forward reaction by $2 R T$ (in $\\mathrm{J} \\mathrm{mol}^{-1}$ ). If the pre-exponential factor of the forward reaction is 4 times that of the reverse reaction, what is the absolute value of $\\Delta G^{\\theta}$ (in $\\mathrm{J} \\mathrm{mol}^{-1}$ ) for the reaction at $300 \\mathrm{~K}$?\n\n(Given; $\\ln (2)=0.7, R T=2500 \\mathrm{~J} \\mathrm{~mol}^{-1}$ at $300 \\mathrm{~K}$ and $G$ is the Gibbs energy)",
+        "gold": "8500"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 32,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "Consder an electrochemical cell: $\\mathrm{A}(\\mathrm{s})\\left|\\mathrm{A}^{\\mathrm{n}+}(\\mathrm{aq}, 2 \\mathrm{M}) \\| \\mathrm{B}^{2 \\mathrm{n}+}(\\mathrm{aq}, 1 \\mathrm{M})\\right| \\mathrm{B}(\\mathrm{s})$. The value of $\\Delta H^{\\theta}$ for the cell reaction is twice that of $\\Delta G^{\\theta}$ at $300 \\mathrm{~K}$. If the emf of the cell is zero, what is the $\\Delta S^{\\ominus}$ (in $\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$ ) of the cell reaction per mole of $\\mathrm{B}$ formed at $300 \\mathrm{~K}$?\n\n(Given: $\\ln (2)=0.7, R$ (universal gas constant) $=8.3 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1} . H, S$ and $G$ are enthalpy, entropy and Gibbs energy, respectively.)",
+        "gold": "-11.62"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 37,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "لأي عدد صحيح إيجابي $n$ ، نعرف $f_{n}:(0, \\infty) \\rightarrow \\mathbb{R}$ على أنه\n\n\\[\nf_{n}(x)=\\sum_{j=1}^{n} \\tan ^{-1}\\left(\\frac{1}{1+(x+j)(x+j-1)}\\right) \\text { لكل } x \\in(0, \\infty)\n\\]\n\n(هنا، تأخذ الدالة الجيبية العكسية المثلثية $\\tan ^{-1} x$ قيمًا في $\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$.) ثم، أيٌّ من البيان(ات) التالي(ة) صحيح(ة)؟\n\n(A) $\\sum_{j=1}^{5} \\tan ^{2}\\left(f_{j}(0)\\right)=55$\n\n(B) $\\sum_{j=1}^{10}\\left(1+f_{j}^{\\prime}(0)\\right) \\sec ^{2}\\left(f_{j}(0)\\right)=10$\n\n(C) لأي عدد صحيح إيجابي $n$ ثابت، $\\lim _{x \\rightarrow \\infty} \\tan \\left(f_{n}(x)\\right)=\\frac{1}{n}$\n\n(D) لأي عدد صحيح إيجابي $n$ ثابت، $\\lim _{x \\rightarrow \\infty} \\sec ^{2}\\left(f_{n}(x)\\right)=1$",
+        "gold": "D"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 41,
+        "subject": "math",
+        "type": "MCQ(multiple)",
+        "question": "لتكن $s، t، r$ أعداد مركبة غير صفرية وليكن $L$ هو مجموعة الحلول $z=x+iy$ $(x, y \\in \\mathbb{R}, i=\\sqrt{-1})$ للمعادلة $sz+t\\bar{z}+r=0$ حيث $\\bar{z}=x-iy$. أيٌّ من العبارات التالية يُعتبر صحيحًا؟\n\n(A) إذا كان لـ $L$ عنصر واحد فقط، فإن $|s|\\neq|t|$\n\n(B) إذا كان $|s|=|t|$، فإن $L$ يحتوي على عددٍ لانهايًا من العناصر\n\n(C) عدد العناصر في $L \\cap\\{z:|z-1+i|=5\\}$ هو على الأكثر 2\n\n(D) إذا كان لـ $L$ أكثر من عنصر واحد، فإنه لديه عددٌ لانهائيٌ من العناصر",
+        "gold": "ACD"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 43,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "ما هو قيمة التكامل\n\n\\[\n\\int_{0}^{\\frac{1}{2}} \\frac{1+\\sqrt{3}}{\\left((x+1)^{2}(1-x)^{6}\\right)^{\\frac{1}{4}}} d x\n\\]?",
+        "gold": "2"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 44,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "لنكن $P$ مصفوفة ذات ترتيب $3 \\times 3$ بحيث أن جميع العناصر في $P$ هي من المجموعة $\\{-1,0,1\\}$. ثم، ما هو القيمة القصوى الممكنة لمقدار المحدد لـ $P$؟",
+        "gold": "4"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 45,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "لنكن $X$ مجموعة تحتوي بالضبط على 5 عناصر و$Y$ مجموعة تحتوي بالضبط على 7 عناصر. إذا كان $\\alpha$ هو عدد الدوال اللا-إلى-واحدة من $X$ إلى $Y$ و$\\beta$ هو عدد الدوال العلى-على من $Y$ إلى $X$، فما هو قيمة $\\frac{1}{5 !}(\\beta-\\alpha)$؟",
+        "gold": "119"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 46,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "لنكن $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ دالة قابلة للتفاضل مع $f(0)=0$. إذا كانت $y=f(x)$ تُحقق المعادلة التفاضلية\n\n\\[ \\frac{dy}{dx} = (2+5y)(5y-2) \\]\n\nفما هو قيمة $\\lim_{x \\rightarrow -\\infty} f(x)$؟",
+        "gold": "0.4"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 47,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "لنكن $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ وظيفة قابلة للتفاضل مع $f(0)=1$ وتحقق المعادلة\n\n\\[\nf(x+y)=f(x) f^{\\prime}(y)+f^{\\prime}(x) f(y) \\text { لكل } x, y \\in \\mathbb{R} .\n\\]\n\nفإن قيمة $\\log _{e}(f(4))$ تساوي",
+        "gold": "2"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 48,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "لنكن $P$ نقطة في الثمن الأول، حيث تكون صورتها $Q$ على مستوى $x+y=3$ (أي أن الشعاع $P Q$ يكون متعامداً على المستوى $x+y=3$ ونقطة منتصف $P Q$ تقع في المستوى $x+y=3$) تقع على محور $z$. فلتكن المسافة بين $P$ والمحور $x$ تساوي 5. إذا كانت $R$ هي صورة $P$ على مستوى $x y$، فما هو طول $P R$؟",
+        "gold": "8"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 49,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "Considet the cube in the first octant with sides $OP, OQ$ and $OR$ of length 1, along the $x$-axis, $y$-axis and $z$-axis, respectively, where $O(0,0,0)$ is the origin. Let $S\\left(\\frac{1}{2}, \\frac{1}{2}, \\frac{1}{2}\\right)$ be the centre of the cube and $T$ be the vertex of the cube opposite to the origin $O$ such that $S$ lies on the diagonal $OT$. If $\\vec{p}=\\overrightarrow{SP}, \\vec{q}=\\overrightarrow{SQ}, \\vec{r}=\\overrightarrow{SR}$ and $\\vec{t}=\\overrightarrow{ST}$, then what is the value of $|(\\vec{p} \\times \\vec{q}) \\times(\\vec{r} \\times \\vec{t})|$?",
+        "gold": "0.5"
+    },
+    {
+        "description": "JEE Adv 2018 Paper 2",
+        "index": 50,
+        "subject": "math",
+        "type": "Numeric",
+        "question": "دع \n\n\\[\nX=\\left({ }^{10} C_{1}\\right)^{2}+2\\left({ }^{10} C_{2}\\right)^{2}+3\\left({ }^{10} C_{3}\\right)^{2}+\\cdots+10\\left({ }^{10} C_{10}\\right)^{2}\n\\]\n\nحيث ${ }^{10} C_{r}, r \\in\\{1,2, \\cdots, 10\\}$ تمثل معاملات الثنائي. إذاً، ما هو قيمة $\\frac{1}{1430} X$؟",
+        "gold": "646"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 1,
+        "subject": "phy",
+        "type": "MCQ",
+        "question": "نظرًا لوجود سحابة غازية كروية بكثافة كتلة $\\rho(r)$ في الفضاء الحر حيث $r$ هو المسافة الشعاعية عن مركزها. تتكون السحابة الغازية من جزيئات ذات كتلة متساوية $m$ تتحرك في مدارات دائرية حول المركز المشترك بنفس الطاقة الحركية $K$. القوة العاملة على الجزيئات هي قوتها الجاذبة المتبادلة. إذا كانت $\\rho(r)$ ثابتة مع الزمن، فإن كثافة عدد الجزيئات $n(r)=\\rho(r) / m$ تكون\n\n[ حيث $G$ هو الثابت الجاذبي العام]\n\n(A) $\\frac{K}{2 \\pi r^{2} m^{2} G}$\n\n(B) $\\frac{K}{\\pi r^{2} m^{2} G}$\n\n(C) $\\frac{3 K}{\\pi r^{2} m^{2} G}$\n\n(D) $\\frac{K}{6 \\pi r^{2} m^{2} G}$",
+        "gold": "A"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 2,
+        "subject": "phy",
+        "type": "MCQ",
+        "question": "قوقع قشرة عازلة رقيقة كروية ذات نصف قطر $R$ شحنة موزعة بشكل موحد بحيث يكون الفرق الكهربائي عند سطحها هو $V_{0}$. يتم عمل فتحة بمساحة صغيرة $\\alpha 4 \\pi R^{2}(\\alpha \\ll 1)$ على القشرة دون التأثير على باقي القشرة. أيًّا من العبارات التالية هي الصحيحة؟\n\n(A) يتم تقليل الفرق الكهربائي عند مركز القشرة بمقدار $2 \\alpha V_{0}$.\n\n(B) يتم تقليل قيمة الحقل الكهربائي في مركز القشرة بمقدار $\\frac{\\alpha V_{0}}{2 R}$.\n\n(C) نسبة الفرق الكهربائي في مركز القشرة إلى ذلك في النقطة التي تبعد $\\frac{1}{2} R$ من المركز نحو الفتحة ستكون $\\frac{1-\\alpha}{1-2 \\alpha}$.\n\n(D) يتم تقليل قيمة الحقل الكهربائي في نقطة، تقع على مستقيم يمر عبر الفتحة ومركز القشرة، عند بعد $2 R$ من مركز القشرة الكروية بمقدار $\\frac{\\alpha V_{0}}{2 R}$.",
+        "gold": "C"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 3,
+        "subject": "phy",
+        "type": "MCQ",
+        "question": "سلك يحمل تيارًا يسخن قضيبًا معدنيًا. يوفر السلك قدرة ثابتة $(P)$ للقضيب. يتم إغلاق القضيب المعدني في حاوية عازلة. يُلاحظ أن درجة الحرارة $(T)$ في القضيب المعدني تتغير مع الزمن $(t)$ على النحو التالي\n\n\\[\nT(t)=T_{0}\\left(1+\\beta t^{\\frac{1}{4}}\\right)\n\\]\n\nحيث أن $\\beta$ ثابت بأبعاد مناسبة بينما $T_{0}$ ثابت بأبعاد درجة الحرارة. سعة الحرارية للمعدن هي\n\n(A) $\\frac{4 P\\left(T(t)-T_{0}\\right)^{3}}{\\beta^{4} T_{0}^{4}}$\n\n(B) $\\frac{4 P\\left(T(t)-T_{0}\\right)^{4}}{\\beta^{4} T_{0}^{5}}$\n\n(C) $\\frac{4 P\\left(T(t)-T_{0}\\right)^{2}}{\\beta^{4} T_{0}^{3}}$\n\n(D) $\\frac{4 P\\left(T(t)-T_{0}\\right)}{\\beta^{4} T_{0}^{2}}$",
+        "gold": "A"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 4,
+        "subject": "phy",
+        "type": "MCQ",
+        "question": "في عينة إشعاعية ، إما أن تتحلل أنوية ${ }_{19}^{40} \\mathrm{~K}$ إلى أنوية مستقرة ${ }_{20}^{40} \\mathrm{Ca}$ بثابت تحللي $4.5 \\times 10^{-10}$ سنويًا ، أو إلى ${ }_{18}^{40} \\mathrm{Ar}$ المستقرة بثابت تحللي $0.5 \\times 10^{-10}$ سنويًا. بالنظر إلى أن جميع ${ }_{20}^{40} \\mathrm{Ca}$ و ${ }_{18}^{40} \\mathrm{Ar}$ المستقرة تتكون بواسطة ${ }_{19}^{40} \\mathrm{~K}$ فقط في هذه العينة. في الزمن $t \\times 10^{9}$ سنة ، إذا كانت نسبة مجموع الأنوية المستقرة ${ }_{20}^{40} \\mathrm{Ca}$ و ${ }_{18}^{40} \\mathrm{Ar}$ إلى الأنوية الإشعاعية ${ }_{19}^{40} \\mathrm{~K}$ تساوي 99 ، فإن قيمة $t$ ستكون\n\n[مع العلم: $\\ln 10=2.3]$\n\nأ) 1.15\n\nب) 9.2\n\nج) 2.3\n\nد) 4.6",
+        "gold": "B"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 8,
+        "subject": "phy",
+        "type": "MCQ(multiple)",
+        "question": "تحمل قشرة مشحونة ذات نصف قطر $R$ شحنة إجمالية $Q$. بالنظر إلى $\\Phi$ كتدفق للمجال الكهربائي من خلال سطح أسطواني مغلق ذو ارتفاع $h$، نصف قطر $r$، ومع مركزه متماثل مع مركز القشرة. هنا، مركز الأسطوانة هو نقطة على محور الأسطوانة المتساوية المسافة من أعلى الأسطوانة وأسفلها. أي من البنود التالية صحيحة؟\n\n$\\left[\\epsilon_{0}\\right.$ هو ثابت العزل في الفضاء الحر]\n\n(A) إذا كانت $h>2R$ و$ r>R$، فإن $\\Phi=Q/\\epsilon_{0}$\n\n(B) إذا كانت $h<8R/5$ و$ r=3R/5$، فإن $\\Phi=0$\n\n(C) إذا كانت $h>2R$ و$ r=3R/5$، فإن $\\Phi=Q/5\\epsilon_{0}$\n\n(D) إذا كانت $h>2R$ و$ r=4R/5$، فإن $\\Phi=Q/5\\epsilon_{0}$",
+        "gold": "ABC"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 11,
+        "subject": "phy",
+        "type": "MCQ(multiple)",
+        "question": "دعونا نفكر في نظام وحدات يكون فيه الكتلة والزخم الزاوي بدون أبعاد. إذا كان للطول أبعاد $L$، أيٌّ من البيانات التالية صحيحة؟\n\n(A) أبعاد الزخم الخطي هي $L^{-1}$\n\n(B) أبعاد الطاقة هي $L^{-2}$\n\n(C) أبعاد القوة هي $L^{-3}$\n\n(D) أبعاد الطاقة الكهربائية هي $L^{-5}$",
+        "gold": "ABC"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 12,
+        "subject": "phy",
+        "type": "MCQ(multiple)",
+        "question": "يحتوي جهازا قياس التيار باللفات المتحركة متطابقان على مقاومة $10 \\Omega$ وتشتيت كامل عند تيار $2 \\mu \\mathrm{A}$. يتم تحويل أحدهما إلى جهاز قياس الجهد بقراءة كاملة $100 \\mathrm{mV}$ والآخر إلى أمبيرمتر بتيار كامل $1 \\mathrm{~mA}$ باستخدام مقاومات مناسبة. يتم استخدام هذان الجهازان لقياس الجهد والتيار في تجربة قانون أوم مع مقاومة $R=1000$ $\\Omega$ باستخدام خلية مثالية. أيٌّ من العبارات التالية هو / هي صحيحة؟\n\n(A) مقاومة جهاز القياس للجهد ستكون $100 \\mathrm{k} \\Omega$\n\n(B) مقاومة الأمبيرمتر ستكون $0.02 \\Omega$ (نتِج بتقريب للعدد العشري ثاني المكان بعد الفاصلة)\n\n(C) القيمة المقاسة للمقاومة $R$ ستكون $978 \\Omega<R<982 \\Omega$\n\n(D) إذا تم استبدال الخلية المثالية بخلية تحتوي على مقاومة داخلية قيمتها $5 \\Omega$، فإن القيمة المقاسة للمقاومة $R$ ستكون أكبر من $1000 \\Omega$",
+        "gold": "BC"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 16,
+        "subject": "phy",
+        "type": "Numeric",
+        "question": "مكثف لوحتين متوازيتين بسعة $C$ له فراغ $d$ بين اللوحين بمساحة $A$. المنطقة بين اللوحين مملوءة بـ $N$ طبقات عازلة، متوازيه للواجهتين، كل منها بسمك $\\delta=\\frac{d}{N}$. ثابت العزل للطبقة $m^{th}$ هو $K_{m}=K\\left(1+\\frac{m}{N}\\right)$. عندما يكون $N$ كبيرًا جدًا $\\left(>10^{3}\\right)$، السعة $C$ تكون $\\alpha\\left(\\frac{K \\epsilon_{0} A}{d \\ln 2}\\right)$. ما قيمة $\\alpha$؟ $\\left[\\epsilon_{0}\\right.$ هو ثابت العزل للفراغ].",
+        "gold": "1"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 19,
+        "subject": "chem",
+        "type": "MCQ",
+        "question": "اللون الأخضر الناتج في اختبار خيوط البوراكس لملح الكروميوم (III) يعود إلى\n\n(A) ${Cr(BO_{2})_{3}}$\n\n(B) ${Cr_{2}(~B_{4}O_{7})_{3}}$\n\n(C) ${Cr_{2}O_{3}}$\n\n(D) ${CrB}$",
+        "gold": "C"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 20,
+        "subject": "chem",
+        "type": "MCQ",
+        "question": "الجبس، المالاكيت، المغنتيت والكريوليت على التوالي هي\n\n(A) $\\mathrm{ZnSO}_{4}, \\mathrm{CuCO}_{3}, \\mathrm{Fe}_{2} \\mathrm{O}_{3}, \\mathrm{AlF}_{3}$\n\n(B) $\\mathrm{ZnSO}_{4}, \\mathrm{Cu}(\\mathrm{OH})_{2}, \\mathrm{Fe}_{3} \\mathrm{O}_{4}, \\mathrm{Na}_{3} \\mathrm{AlF}_{6}$\n\n(C) $\\mathrm{ZnCO}_{3}, \\mathrm{CuCO}_{3} \\cdot \\mathrm{Cu}(\\mathrm{OH})_{2}, \\mathrm{Fe}_{3} \\mathrm{O}_{4}, \\mathrm{Na}_{3} \\mathrm{AlF}_{6}$\n\n(D) $\\mathrm{ZnCO}_{3}, \\mathrm{CuCO}_{3}, \\mathrm{Fe}_{2} \\mathrm{O}_{3}, \\mathrm{Na}_{3} \\mathrm{AlF}_{6}$",
+        "gold": "C"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 23,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "يخضع كلوريد قصدير $\\mathrm{Q}$ لتفاعلات التالية (غير متوازنة)\n\n$\\mathrm{Q}+\\mathrm{Cl}^{-} \\rightarrow \\mathrm{X}$\n\n$\\mathrm{Q}+\\mathrm{Me}_{3} \\mathrm{~N} \\rightarrow \\mathrm{Y}$\n\n$\\mathbf{Q}+\\mathrm{CuCl}_{2} \\rightarrow \\mathbf{Z}+\\mathrm{CuCl}$\n\n$\\mathrm{X}$ هو أنيون أحادي له هندسة هرمية. كل من $\\mathrm{Y}$ و $\\mathrm{Z}$ هما مركبات متعادلة.\n\nاختر الخيارات الصحيحة:\n\n(A) الذرة المركزية في $\\mathrm{X}$ مهجنة على النمط $s p^{3}$\n\n(B) هناك رابط تناسقي في $\\mathrm{Y}$\n\n(C) الحالة الأكسدة للذرة المركزية في $\\mathrm{Z}$ هي +2\n\n(D) الذرة المركزية في $\\mathrm{Z}$ تحتوي على زوج وحيد من الإلكترونات",
+        "gold": "AB"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 24,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "الاندماج بين $\\mathrm{MnO}_{2}$ و $\\mathrm{KOH}$ في وجود $\\mathrm{O}_{2}$ يُنتج ملحًا W. الحل القلوي لـ $\\mathbf{W}$ عند التأكسد الكهرلي يُنتج ملحًا آخر $\\mathrm{X}$. أيونات المنغنيز الموجودة في $\\mathbf{W}$ و $\\mathbf{X}$ على التوالي هي $\\mathbf{Y}$ و $\\mathbf{Z}$. التصريح(ات) الصحيح(ة) هو (هي):\n\nأ) في الحل المائي الحمضي، $\\mathrm{Y}$ يخضع لتفاعل التفاوض لإعطاء $\\mathrm{Z}$ و $\\mathrm{MnO}_{2}$.\n\nب) كل من $\\mathrm{Y}$ و $\\mathrm{Z}$ لهما لون وشكل رباعي الوجوه.\n\nج) $\\mathrm{Y}$ غير مغناطيسي في الطبيعة بينما $\\mathrm{Z}$ هو مغناطيسي.\n\nد) في كل من $\\mathbf{Y}$ و $\\mathbf{Z}$، يحدث ربط $\\pi$ بين مدارات $p$ الأوكسجين ومدارات $d$ المنغنيز.",
+        "gold": "ABD"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 25,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "اختر الرد (الردود) من الخيارات التالية، حيث تكون الحالة القياسية للانحلالية متساوية مع الحالة القياسية للتشكيل.\n\n(A) $2 \\mathrm{H}_{2}(\\mathrm{~g})+\\mathrm{O}_{2}(\\mathrm{~g}) \\rightarrow 2 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{l})$\n\n(B) $2 \\mathrm{C}(\\mathrm{g})+3 \\mathrm{H}_{2}(\\mathrm{~g}) \\rightarrow \\mathrm{C}_{2} \\mathrm{H}_{6}(\\mathrm{~g})$\n\n(C) $\\frac{3}{2} \\mathrm{O}_{2}(\\mathrm{~g}) \\rightarrow \\mathrm{O}_{3}(\\mathrm{~g})$\n\n(D) $\\frac{1}{8} \\mathrm{~S}_{8}(\\mathrm{~s})+\\mathrm{O}_{2}(\\mathrm{~g}) \\rightarrow \\mathrm{SO}_{2}(\\mathrm{~g})$",
+        "gold": "CD"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 26,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "أيٌّ من العبارات التالية صحيحة بخصوص سرعة متوسطة مربعة الجذر (\\(u_{rms}\\)) ومتوسط الطاقة الحركية الترجمانية (\\(\\varepsilon_{\\text {av }}\\)) لجزيء في غاز في التوازن؟\n\n(أ) يتضاعف \\(u_{rms}\\) عندما يُرتفع درجة حرارته أربع مرات\n\n(ب) يتضاعف \\(\\varepsilon_{av}\\) عندما تُرتفع درجة حرارته أربع مرات\n\n(ج) \\(\\varepsilon_{av}\\) عند درجة حرارة معيّنة لا تتوقف على كتلته الجزيئية\n\n(د) \\(u_{rms}\\) تناسبيًا عكسيًا مع جذر تربيعي لكتلته الجزيئية",
+        "gold": "ACD"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 27,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "كل خيار من الخيارات التالية يحتوي على مجموعة من أربع جزيئات. حدد الخيار/الخيارات التي تحتوي على جميع الجزيئات الأربعة التي تمتلك نقطة ديبول دائمة عند درجة الحرارة الغرفية.\n\n(A) $\\mathrm{BeCl}_{2}, \\mathrm{CO}_{2}, \\mathrm{BCl}_{3}, \\mathrm{CHCl}_{3}$\n\n(B) $\\mathrm{NO}_{2}, \\mathrm{NH}_{3}, \\mathrm{POCl}_{3}, \\mathrm{CH}_{3} \\mathrm{Cl}$\n\n(C) $\\mathrm{BF}_{3}, \\mathrm{O}_{3}, \\mathrm{SF}_{6}, \\mathrm{XeF}_{6}$\n\n(D) $\\mathrm{SO}_{2}, \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{Cl}, \\mathrm{H}_{2} \\mathrm{Se}, \\mathrm{BrF}_{5}$",
+        "gold": "BD"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 28,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "في التسلسل التحللي،\n\n${ }_{92}^{238} \\mathrm{U} \\stackrel{-\\mathrm{x}_{1}}{\\longrightarrow}{ }_{90}^{234} \\mathrm{Th} \\stackrel{-\\mathrm{x}_{2}}{\\longrightarrow}{ }_{91}^{234} \\mathrm{~Pa} \\stackrel{-\\mathrm{x}_{3}}{\\longrightarrow}{ }^{234} \\mathbf{Z} \\stackrel{-\\mathrm{x}_{4}}{\\longrightarrow}{ }_{90}^{230} \\mathrm{Th}$\n\n$\\mathrm{x}_{1}, \\mathrm{x}_{2}, \\mathrm{x}_{3}$ و $\\mathrm{x}_{4}$ هي الجسيمات / الإشعاعات التي تنبعث من النظائر الدقيقة. الخيار الصحيح(أو الصحيحة) هو\n\n(A) $\\mathrm{x}_{1}$ سيُنحرف نحو اللوحة المشحونة سالبًا\n\n(B) $\\mathrm{x}_{2}$ هو $\\beta^{-}$\n\n(C) $\\mathrm{x}_{3}$ هو اشعاع $\\gamma$\n\n(D) $\\mathbf{Z}$ هو نظير لليورانيوم",
+        "gold": "ABD"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 29,
+        "subject": "chem",
+        "type": "MCQ(multiple)",
+        "question": "أيٌّ من العبارات التالية صحيحة؟\n\n(A) الكربوهيدرات الأحادية لا يمكن تحليلها بالتحلل المائي لإعطاء بولي هيدروكسي الدهيدات والكيتونات\n\n(B) تؤدي أكسدة الجلوكوز بالماء البروميني إلى حمض الجلوتاميك\n\n(C) يؤدي تحلل سكر السكروز إلى جلوكوز يميل إلى اليمين وفركتوز تميل إلى اليسار\n\n(D) تسمى الشكلين الهيمياسيتاليين مكوني الحلقة ذات الستة أعضاء للجلوكوز $\\mathrm{D}-(+)$ بالأنوميرات",
+        "gold": "ACD"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 31,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "من بين $\\mathrm{B}_{2} \\mathrm{H}_{6}, \\mathrm{~B}_{3} \\mathrm{~N}_{3} \\mathrm{H}_{6}, \\mathrm{~N}_{2} \\mathrm{O}, \\mathrm{N}_{2} \\mathrm{O}_{4}, \\mathrm{H}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{3}$ و $\\mathrm{H}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{8}$، ما هو إجمالي عدد الجزيئات التي تحتوي على رابط تساهمي بين ذرتين من نفس النوع؟",
+        "gold": "4"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 32,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "عند $143 \\mathrm{~K}$، تتفاعل $\\mathrm{XeF}_{4}$ مع $\\mathrm{O}_{2} \\mathrm{~F}_{2}$ لتنتج مركب الزينون $\\mathrm{Y}$. ما هو إجمالي عدد أزواج الإلكترونات الوحيدة الموجودة في جزيء $\\mathrm{Y}$؟",
+        "gold": "19"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 34,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "عند تذويب $0.5 \\mathrm{~g}$ من مذيب غير طارد وغير أيوني في $39 \\mathrm{~g}$ من البنزين، تقل ضغطه البخاري من $650 \\mathrm{~mm} \\mathrm{Hg}$ إلى $640 \\mathrm{~mm} \\mathrm{Hg}$. ما هي انخفاض درجة انصهار البنزين (بالكلفن) عند إضافة المذيب؟ (البيانات المعطاة: كتلة مولية وثابت انخفاض درجة الانصهار المولية للبنزين هي $78 \\mathrm{~g}$ $\\mathrm{mol}^{-1}$ و $5.12 \\mathrm{~K} \\mathrm{~kg} \\mathrm{~mol}^{-1}$، على التوالي)",
+        "gold": "1.02"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 35,
+        "subject": "chem",
+        "type": "Numeric",
+        "question": "considr the kinetic data given in the following table for the reaction $\\mathrm{A}+\\mathrm{B}+\\mathrm{C} \\rightarrow$ Product.\n\n\\begin{center}\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nExperiment No. & $\\begin{array}{c}{[\\mathrm{A}]} \\\\ \\left(\\mathrm{mol} \\mathrm{dm}^{-3}\\right)\\end{array}$ & $\\begin{array}{c}{[\\mathrm{B}]} \\\\ \\left(\\mathrm{mol} \\mathrm{dm}^{-3}\\right)\\end{array}$ & $\\begin{array}{c}{[\\mathrm{C}]} \\\\ \\left(\\mathrm{mol} \\mathrm{dm}^{-3}\\right)\\end{array}$ & $\\begin{array}{c}\\text { Rate of reaction } \\\\ \\left(\\mathrm{mol} \\mathrm{dm}^{-3} \\mathrm{~s}^{-1}\\right)\\end{array}$ \\\\\n\\hline\n1 & 0.2 & 0.1 & 0.1 & $6.0 \\times 10^{-5}$ \\\\\n\\hline\n2 & 0.2 & 0.2 & 0.1 & $6.0 \\times 10^{-5}$ \\\\\n\\hline\n3 & 0.2 & 0.1 & 0.2 & $1.2 \\times 10^{-4}$ \\\\\n\\hline\n4 & 0.3 & 0.1 & 0.1 & $9.0 \\times 10^{-5}$ \\\\\n\\hline\n\\end{tabular}\n\\end{center}\n\nThe rate of the reaction for $[\\mathrm{A}]=0.15 \\mathrm{~mol} \\mathrm{dm}^{-3},[\\mathrm{~B}]=0.25 \\mathrm{~mol} \\mathrm{dm}^{-3}$ and $[\\mathrm{C}]=0.15 \\mathrm{~mol} \\mathrm{dm}^{-3}$ is found to be $\\mathbf{Y} \\times 10^{-5} \\mathrm{~mol} \\mathrm{dm}^{-3} \\mathrm{~s}^{-1}$. What is the value of $\\mathbf{Y}$?",
+        "gold": "6.75"
+    },
+    {
+        "description": "JEE Adv 2019 Paper 1",
+        "index": 37,
+        "subject": "math",
+        "type": "MCQ",
+        "question": "دع $S$ يكون المجموعة المكونة من جميع الأعداد العقدية $Z$ التي تحقق $|z-2+i| \\geq \\sqrt{5}$. إذا كان العدد العقدي $Z_{0}$ مثلًا للشرط $\\frac{1}{\\left|Z_{0}-1\\right|}$ هو الأقصى في المجموعة $\\left\\{\\frac{1}{|z-1|}: z \\in S\\right\\}$، فإن الحجة الأساسية لـ $\\frac{4-z_{0}-\\overline{z_{0}}}{Z_{0}-\\overline{z_{0}}+2 i}$ هي\n\n(A) $-\\frac{\\pi}{2}$\n\n(B) $\\frac{\\pi}{4}$\n\n(C) $\\frac{\\pi}{2}$\n\n(D) $\\frac{3 \\pi}{4}$",
+        "gold": "A"
+    }
+]

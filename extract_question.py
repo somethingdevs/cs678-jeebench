@@ -17,7 +17,7 @@ for item in data:
     counter += 1  # Increment the counter for the next question
 
 # Write the dictionary to a new JSON file
-with open('data/sequential_questions_output.json', 'w', encoding='utf-8') as outfile:
+with open('sequential_questions_output.json', 'w', encoding='utf-8') as outfile:
     json.dump(questions_dict, outfile, indent=4)
 
 print("Questions have been successfully extracted and written to sequential_questions_output.json.")

@@ -9,19 +9,40 @@ import multiprocessing
 from copy import deepcopy
 from functools import partial
 
+# prompt_library = {
+#     "MCQ": "इस समस्या में केवल एक ही विकल्प सही होगा। विस्तृत समाधान दें और समाधान को अंतिम उत्तर के साथ समाप्त करें।",
+#     "MCQ(multiple)": "इस समस्या में अनेक विकल्प सही हो सकते हैं। विस्तृत समाधान दें और समाधान को अंतिम उत्तर के साथ समाप्त करें।",
+#     "Integer": "इस समस्या में, अंतिम उत्तर एक गैर-ऋणात्मक पूर्णांक होगा। विस्तृत समाधान दें और समाधान को अंतिम उत्तर के साथ समाप्त करें।",
+#     "Numeric": "इस समस्या में, अंतिम एक संख्यात्मक मान होगा। संख्यात्मक उत्तर दशमलव के दूसरे अंक तक सही दें। विस्तृत समाधान दें और समाधान को अंतिम उत्तर के साथ समाप्त करें।",
+# }
+
+# prompt_library = {
+#     "MCQ": "In this problem, only one option will be correct. Give a detailed solution and end the solution with the final answer.",
+#     "MCQ(multiple)": "In this problem, multiple options can be correct. Give a detailed solution and end the solution with the final answer.",
+#     "Integer": "In this problem, the final answer will be a non-negative integer. Give a detailed solution and end the solution with the final answer.",
+#     "Numeric": "In this problem, the final will be a numeric value. Give the numerical answer correct upto the 2nd decimal digit. Give a detailed solution and end the solution with the final answer.",
+# }
+
+# prompt_library = {
+#     "MCQ": "في هذه المسألة، سيكون خيار واحد فقط هو الصحيح. اذكر حلاً مفصلاً وأنهِ الحل بالإجابة النهائية.",
+#     "MCQ(multiple)": "في هذه المسألة، يمكن أن تكون الخيارات المتعددة صحيحة. اذكر حلاً مفصلاً وأنهِ الحل بالإجابة النهائية.",
+#     "Integer": "في هذه المسألة، ستكون الإجابة النهائية عددًا صحيحًا غير سالب. اذكر حلاً مفصلاً وأنهِ الحل بالإجابة النهائية.",
+#     "Numeric": "في هذه المسألة، سيكون الناتج النهائي قيمة رقمية. اكتب الإجابة العددية الصحيحة حتى الرقم العشري الثاني. اذكر حلاً مفصلاً وأنهِ الحل بالإجابة النهائية.",
+# }
+
 prompt_library = {
-    "MCQ": "In this problem, only one option will be correct. Give a detailed solution and end the solution with the final answer.",
-    "MCQ(multiple)": "In this problem, multiple options can be correct. Give a detailed solution and end the solution with the final answer.",
-    "Integer": "In this problem, the final answer will be a non-negative integer. Give a detailed solution and end the solution with the final answer.",
-    "Numeric": "In this problem, the final will be a numeric value. Give the numerical answer correct upto the 2nd decimal digit. Give a detailed solution and end the solution with the final answer.",
+    "MCQ": "在这个问题中，只有一个选项是正确的。请给出详细的解决方案，并在解决方案的最后给出最终答案。",
+    "MCQ(multiple)": "在这个问题中，多个选项都可能是正确的。请给出详细的解决方案，并在解决方案的最后给出最终答案。",
+    "Integer": "在这个问题中，最终答案将是一个非负整数。请给出详细的解决方案，并在解决方案的最后给出最终答案。",
+    "Numeric": "在这个问题中，最终答案将是一个数值。给出正确的数字答案，精确到小数点后第二位。请给出详细的解决方案，并在解决方案的最后给出最终答案。",
 }
 
-few_shot_examples = json.load(open('data/few_shot_examples.json'))
+few_shot_examples = json.load(open('data/few_shot_examples.json', encoding='utf-8'))
 
 
 def write_in_file(response_file, response_dict, question, mode, model_nickname):
     if os.path.exists(response_file):
-        with open(response_file, 'r') as infile:
+        with open(response_file, 'r', encoding='utf-8') as infile:
             responses = json.load(infile)
     else:
         responses = []
@@ -36,8 +57,9 @@ def write_in_file(response_file, response_dict, question, mode, model_nickname):
     if not found:
         responses.append(response_dict)
 
-    json.dump(sorted(responses, key=lambda elem: (elem['description'], elem['index'])), open(response_file, 'w'),
-              indent=4)
+    json.dump(sorted(responses, key=lambda elem: (elem['description'], elem['index'])),
+              open(response_file, 'w', encoding='utf-8'),
+              indent=4, ensure_ascii=False)
     print(f"####UPDATED {response_file}, Current size : {len(responses)}####")
 
 
@@ -117,7 +139,7 @@ def main():
     '''
     args = argparse.ArgumentParser()
     args.add_argument('--model', default='gpt-3.5-turbo')
-    args.add_argument('--data', default='data/dataset.json')
+    args.add_argument('--data', default='data/updated_chinese_dataset.json')
     args.add_argument('--mode', default='normal')
     args.add_argument('--num_procs', default=1, type=int)
     args.add_argument('--max_questions', default=1, type=int)
@@ -138,7 +160,7 @@ def main():
 
     out_file_dir = f'responses/{model_nickname[args.model]}_{args.mode}_responses'
     out_file = os.path.join(out_file_dir, 'responses.json')
-    questions = json.load(open(args.data))
+    questions = json.load(open(args.data, encoding='utf-8'))
 
     rem_ques = []
 
@@ -146,7 +168,7 @@ def main():
 
         for question in tqdm(questions[:args.max_questions]):
             if os.path.exists(out_file):
-                with open(out_file, 'r') as infile:
+                with open(out_file, 'r', encoding='utf-8') as infile:
                     responses = json.load(infile)
                     found = False
 

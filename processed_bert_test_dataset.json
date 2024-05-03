@@ -1,0 +1,582 @@
+[
+  {
+    "question_id": "400",
+    "question": "List I describes thermodynamic processes in four different systems. List\r\nII gives the magnitudes (either exactly or as a close approximation) of\r\npossible changes in the internal energy of the system due to the\r\nprocess. List-I (I) 10⁻³ kg of water at 100^(∘)C is converted to steam\r\nat the same temperature, at a pressure of 10⁵ Pa. The volume of the\r\nsystem changes from 10⁻⁶ m³ to 10⁻³ m³ in the process. Latent heat of\r\nwater  = 2250 kJ/kg. (II) 0.2 moles of a rigid diatomic ideal gas with\r\nvolume V at temperature 500 K undergoes an isobaric expansion to volume\r\n3 V. Assume R = 8.0 J mol⁻¹ K⁻¹. (III) One mole of a monatomic ideal gas\r\nis compressed adiabatically from volume $V=\\frac{1}{3} m^3$ and pressure\r\n2kPa to volume $\\frac{V}{8}$. (IV) Three moles of a diatomic ideal gas\r\nwhose molecules can vibrate, is given 9 kJ of heat and undergoes\r\nisobaric expansion.\r\n\r\nList-II (P) 2 kJ (Q) 7 kJ (R) 4 kJ (S) 5 kJ (T) 3 kJ\r\n\r\nWhich one of the following options is correct? (A) I → T, II → R, III\r\n → S, IV → Q,\r\n\r\n(B) I  → S, II → P, III  → T, IV → P,\r\n\r\n(C) I → P, II → R, III → T, IV → Q.\r\n\r\n(D) I → Q, II → R, III  → S, IV  → T,\r\n",
+    "answer": "C"
+  },
+  {
+    "question_id": "401",
+    "question": "2 mol of Hg(g) is combusted in a fixed volume bomb calorimeter with\r\nexcess of O₂ at 298 K and 1 atm into HgO(s). During the reaction,\r\ntemperature increases from 298.0 K to 312.8 K. If heat capacity of the\r\nbomb calorimeter and enthalpy of formation of Hg(g) are 20.00 kJ K⁻¹ and\r\n61.32 kJ mol⁻¹ at 298 K, respectively, the calculated standard molar\r\nenthalpy of formation of HgO(s) at 298 K is XkJmolm⁻¹. What is the value\r\nof |X|?\r\n\r\n[Given: Gas constant R = 8.3 J K⁻¹ mol⁻¹ ]\r\n",
+    "answer": "90.39"
+  },
+  {
+    "question_id": "402",
+    "question": "What is the reduction potential (E⁰, in V) of MnO₄⁻(aq)/Mn(s)?\r\n\r\n[Given:\r\nE_((MnO₄⁻(aq)/MnO₂( s)))⁰ = 1.68 V; E_((MnO₂( s)/Mn²⁺(aq)))⁰ = 1.21 V; E_((Mn²⁺(aq)/Mn(s)))⁰ = −1.03 V]\r\n",
+    "answer": "0.77"
+  },
+  {
+    "question_id": "403",
+    "question": "A solution is prepared by mixing 0.01 mol each of H₂CO₃, NaHCO₃, Na₂CO₃,\r\nand NaOH in 100 mL of water. What is the pH of the resulting solution?\r\n\r\n[Given: p K_(a1) and p K_(a2) of H₂CO₃ are 6.37 and 10.32, respectively;\r\nlog 2 = 0.30 ]\r\n",
+    "answer": "10.02"
+  },
+  {
+    "question_id": "404",
+    "question": "The treatment of an aqueous solution of 3.74 g of Cu(NO₃)₂ with excess\r\nKI results in a brown solution along with the formation of a\r\nprecipitate. Passing H₂ S through this brown solution gives another\r\nprecipitate X. What is the amount of X (in g )?\r\n\r\n[Given: Atomic mass of\r\nH = 1,  N = 14, O = 16,  S = 32,  K = 39, Cu = 63, I = 127 ]\r\n",
+    "answer": "0.32"
+  },
+  {
+    "question_id": "405",
+    "question": "Dissolving 1.24 g of white phosphorous in boiling NaOH solution in an\r\ninert atmosphere gives a gas Q. What is the amount of CuSO₄ (in g)\r\nrequired to completely consume the gas Q?\r\n\r\n[Given: Atomic mass of H = 1, O = 16, Na = 23, P = 31,  S = 32, Cu = 63\r\n]\r\n",
+    "answer": "2.38"
+  },
+  {
+    "question_id": "406",
+    "question": "For diatomic molecules, the correct statement(s) about the molecular\r\norbitals formed by the overlap of two 2p_(z) orbitals is(are)\r\n\r\n(A) σ orbital has a total of two nodal planes.\r\n\r\n(B) σ^(*) orbital has one node in the xz-plane containing the molecular\r\naxis.\r\n\r\n(C) π orbital has one node in the plane which is perpendicular to the\r\nmolecular axis and goes through the center of the molecule.\r\n\r\n(D) π^(*) orbital has one node in the xy-plane containing the molecular\r\naxis.\r\n",
+    "answer": "AD"
+  },
+  {
+    "question_id": "407",
+    "question": "The correct option(s) related to adsorption processes is(are)\r\n\r\n(A) Chemisorption results in a unimolecular layer.\r\n\r\n(B) The enthalpy change during physisorption is in the range of 100 to\r\n140 kJ mol⁻¹.\r\n\r\n(C) Chemisorption is an endothermic process.\r\n\r\n(D) Lowering the temperature favors physisorption processes.\r\n",
+    "answer": "AD"
+  },
+  {
+    "question_id": "408",
+    "question": "The electrochemical extraction of aluminum from bauxite ore involves\r\n\r\n(A) the reaction of Al₂O₃ with coke (C) at a temperature  > 2500^(∘)C.\r\n\r\n(B) the neutralization of aluminate solution by passing CO₂ gas to\r\nprecipitate hydrated alumina (Al₂O₃ ⋅ 3H₂O).\r\n\r\n(C) the dissolution of Al₂O₃ in hot aqueous NaOH.\r\n\r\n(D) the electrolysis of Al₂O₃ mixed with Na₃AlF₆ to give Al and CO₂.\r\n",
+    "answer": "BCD"
+  },
+  {
+    "question_id": "409",
+    "question": "The treatment of galena with HNO₃ produces a gas that is\r\n\r\n(A) paramagnetic\r\n\r\n(B) bent in geometry\r\n\r\n(C) an acidic oxide\r\n\r\n(D) colorless\r\n",
+    "answer": "AD"
+  },
+  {
+    "question_id": "410",
+    "question": "LIST-I contains compounds and LIST-II contains reactions\r\n\r\nLIST-I (I) H₂O₂ (II) Mg(OH)₂ (III) BaCl₂ (IV) CaCO₃\r\n\r\nLIST-II (P) Mg(HCO₃)₂ + Ca(OH)₂→ (Q) BaO₂ + H₂SO₄→ (R) Ca(OH)₂ + MgCl₂→\r\n(S) BaO₂ + HCl→ (T) Ca(HCO₃)₂ + Ca(OH)₂→\r\n\r\nMatch each compound in LIST-I with its formation reaction(s) in LIST-II,\r\nand choose the correct option (A) I → Q; II → P; III  → S; IV → R\r\n\r\n(B) I → T; II → P; III → Q; IV  → R\r\n\r\n(C) I → T; II → R; III → Q; IV → P\r\n\r\n(D) I → Q; II → R; III  → S; IV  → P\r\n",
+    "answer": "D"
+  },
+  {
+    "question_id": "411",
+    "question": "LIST-I contains metal species and LIST-II contains their properties.\r\n\r\nLIST-I (I) [Cr(CN)₆]⁴⁻ (II) [RuCl₆]²⁻ (III) [Cr(H₂O)₆]²⁺ (IV)\r\n[Fe(H₂O)₆]²⁺\r\n\r\nLIST-II (P) t_(2 g) orbitals contain 4 electrons (Q) μ (spin-only\r\n = 4.9BM (R) low spin complex ion (S) metal ion in 4+ oxidation state\r\n(T) d⁴ species\r\n\r\n[Given: Atomic number of Cr = 24, Ru = 44, Fe = 26 ]\r\n\r\nMatch each metal species in LIST-I with their properties in LIST-II, and\r\nchoose the correct option\r\n\r\n(A) I → R, T; II → P, S; III → Q, T; IV → P, Q\r\n\r\n(B) I → R, S; II → P, T; III → P, Q; IV → Q, T\r\n\r\n(C) I  → P, R; II → R, S; III  → R, T; IV  → P, T\r\n\r\n(D) I → Q, T; II  → S, T; III  → P, T; IV  → Q, R\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "412",
+    "question": "Match the compounds in LIST-I with the observations in LIST-II, and\r\nchoose the correct option.\r\n\r\nLIST-I\r\n\r\n(I) Aniline (II) o-Cresol (III) Cysteine (IV) Caprolactam\r\n\r\nLIST-II\r\n\r\n(P) Sodium fusion extract of the compound on boiling with FeSO₄,\r\nfollowed by acidification with conc. H₂SO₄, gives Prussian blue color.\r\n(Q) Sodium fusion extract of the compound on treatment with sodium\r\nnitroprusside gives blood red color. (R) Addition of the compound to a\r\nsaturated solution of NaHCO₃ results in effervescence. (S) The compound\r\nreacts with bromine water to give a white precipitate. (T) Treating the\r\ncompound with neutral FeCl₃ solution produces violet color.\r\n\r\n(A) I → P, Q; II  → S; III  → Q, R; IV  → P\r\n\r\n(B) I → P; II  → R, S; III  → R; IV  → Q, S\r\n\r\n(C) I → Q, S; II  → P, T; III  → P; IV  → S\r\n\r\n(D) I → P, S; II  → T; III  → Q, R; IV  → P\r\n",
+    "answer": "D"
+  },
+  {
+    "question_id": "413",
+    "question": "Let α and β be real numbers such that\r\n$-\\frac{\\pi}{4}<\\beta<0<\\alpha<\\frac{\\pi}{4}$. If\r\n$\\sin (\\alpha+\\beta)=\\frac{1}{3}$ and $\\cos (\\alpha-\\beta)=\\frac{2}{3}$,\r\nthen what is the greatest integer less than or equal to\r\n\r\n$$\\left(\\frac{\\sin \\alpha}{\\cos \\beta}+\\frac{\\cos \\beta}{\\sin \\alpha}+\\frac{\\cos \\alpha}{\\sin \\beta}+\\frac{\\sin \\beta}{\\cos \\alpha}\\right)^{2}$$\r\n?\r\n",
+    "answer": "1"
+  },
+  {
+    "question_id": "414",
+    "question": "If y(x) is the solution of the differential equation\r\n\r\nxdy − (y² − 4y)dx = 0 for x > 0,  y(1) = 2,\r\n\r\nand the slope of the curve y = y(x) is never zero, then what is the\r\nvalue of $10 y(\\sqrt{2})$?\r\n",
+    "answer": "8"
+  },
+  {
+    "question_id": "415",
+    "question": "What is the greatest integer less than or equal to\r\n\r\n$$\\int_{1}^{2} \\log _{2}\\left(x^{3}+1\\right) d x+\\int_{1}^{\\log _{2} 9}\\left(2^{x}-1\\right)^{\\frac{1}{3}} d x$$\r\n?\r\n",
+    "answer": "5"
+  },
+  {
+    "question_id": "416",
+    "question": "What is the product of all positive real values of x satisfying the\r\nequation\r\n\r\nx^((16(log₅x)³ − 68log₅x)) = 5⁻¹⁶\r\n?\r\n",
+    "answer": "1"
+  },
+  {
+    "question_id": "417",
+    "question": "If\r\n\r\n$$\\beta=\\lim _{x \\rightarrow 0} \\frac{e^{x^{3}}-\\left(1-x^{3}\\right)^{\\frac{1}{3}}+\\left(\\left(1-x^{2}\\right)^{\\frac{1}{2}}-1\\right) \\sin x}{x \\sin ^{2} x},$$\r\n\r\nthen what is the value of 6β?\r\n",
+    "answer": "5"
+  },
+  {
+    "question_id": "418",
+    "question": "Let β be a real number. Consider the matrix\r\n\r\n$$A=\\left(\\begin{array}{ccc}\r\n\r\n\\beta & 0 & 1 \\\\\r\n\r\n2 & 1 & -2 \\\\\r\n\r\n3 & 1 & -2\r\n\r\n\\end{array}\\right)$$\r\n\r\nIf A⁷ − (β − 1)A⁶ − βA⁵ is a singular matrix, then what is the value of\r\n9β?\r\n",
+    "answer": "3"
+  },
+  {
+    "question_id": "419",
+    "question": "Consider the hyperbola\r\n\r\n$$\\frac{x^{2}}{100}-\\frac{y^{2}}{64}=1$$\r\n\r\nwith foci at S and S₁, where S lies on the positive x-axis. Let P be a\r\npoint on the hyperbola, in the first quadrant. Let ∠SPS₁ = α, with\r\n$\\alpha<\\frac{\\pi}{2}$. The straight line passing through the point S\r\nand having the same slope as that of the tangent at P to the hyperbola,\r\nintersects the straight line S₁P at P₁. Let δ be the distance of P from\r\nthe straight line SP₁, and β = S₁P. Then what is the greatest integer\r\nless than or equal to $\\frac{\\beta \\delta}{9} \\sin \\frac{\\alpha}{2}$?\r\n",
+    "answer": "7"
+  },
+  {
+    "question_id": "420",
+    "question": "Consider the functions f, g : ℝ → ℝ defined by\r\n\r\n$$f(x)=x^{2}+\\frac{5}{12} \\quad \\text { and } \\quad g(x)= \\begin{cases}2\\left(1-\\frac{4|x|}{3}\\right), & |x| \\leq \\frac{3}{4} \\\\ 0, & |x|>\\frac{3}{4}\\end{cases}$$\r\n\r\nIf α is the area of the region\r\n\r\n$$\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}:|x| \\leq \\frac{3}{4}, 0 \\leq y \\leq \\min \\{f(x), g(x)\\}\\right\\}$$\r\n\r\nthen what is the value of 9α?\r\n",
+    "answer": "6"
+  },
+  {
+    "question_id": "421",
+    "question": "Let PQRS be a quadrilateral in a plane, where\r\nQR = 1, ∠PQR = ∠QRS = 70^(∘), ∠PQS = 15^(∘) and ∠PRS = 40^(∘). If\r\n∠RPS = θ^(∘), PQ = α and PS = β, then the interval(s) that contain(s)\r\nthe value of 4αβsin θ^(∘) is/are\r\n\r\n(A) $(0, \\sqrt{2})$\r\n\r\n(B) (1, 2)\r\n\r\n(C) $(\\sqrt{2}, 3)$\r\n\r\n(D) $(2 \\sqrt{2}, 3 \\sqrt{2})$\r\n",
+    "answer": "AB"
+  },
+  {
+    "question_id": "422",
+    "question": "Let\r\n\r\n$$\\alpha=\\sum_{k=1}^{\\infty} \\sin ^{2 k}\\left(\\frac{\\pi}{6}\\right)$$\r\n\r\nLet g : [0, 1] → ℝ be the function defined by\r\n\r\ng(x) = 2^(αx) + 2^(α(1 − x))\r\n\r\nThen, which of the following statements is/are TRUE ?\r\n\r\n(A) The minimum value of g(x) is $2^{\\frac{7}{6}}$\r\n\r\n(B) The maximum value of g(x) is $1+2^{\\frac{1}{3}}$\r\n\r\n(C) The function g(x) attains its maximum at more than one point\r\n\r\n(D) The function g(x) attains its minimum at more than one point\r\n",
+    "answer": "ABC"
+  },
+  {
+    "question_id": "423",
+    "question": "Let z̄ denote the complex conjugate of a complex number z. If z is a\r\nnon-zero complex number for which both real and imaginary parts of\r\n\r\n$$(\\bar{z})^{2}+\\frac{1}{z^{2}}$$\r\n\r\nare integers, then which of the following is/are possible value(s) of\r\n|z| ?\r\n\r\n(A) $\\left(\\frac{43+3 \\sqrt{205}}{2}\\right)^{\\frac{1}{4}}$\r\n\r\n(B) $\\left(\\frac{7+\\sqrt{33}}{4}\\right)^{\\frac{1}{4}}$\r\n\r\n(C) $\\left(\\frac{9+\\sqrt{65}}{4}\\right)^{\\frac{1}{4}}$\r\n\r\n(D) $\\left(\\frac{7+\\sqrt{13}}{6}\\right)^{\\frac{1}{4}}$\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "424",
+    "question": "Let G be a circle of radius R > 0. Let G₁, G₂, …, G_(n) be n circles of\r\nequal radius r > 0. Suppose each of the n circles G₁, G₂, …, G_(n)\r\ntouches the circle G externally. Also, for i = 1, 2, …, n − 1, the\r\ncircle G_(i) touches G_(i + 1) externally, and G_(n) touches G₁\r\nexternally. Then, which of the following statements is/are TRUE?\r\n\r\n(A) If n = 4, then $(\\sqrt{2}-1) r<R$\r\n\r\n(B) If n = 5, then r < R\r\n\r\n(C) If n = 8, then $(\\sqrt{2}-1) r<R$\r\n\r\n(D) If n = 12, then $\\sqrt{2}(\\sqrt{3}+1) r>R$\r\n",
+    "answer": "CD"
+  },
+  {
+    "question_id": "425",
+    "question": "Let î, ĵ and k̂ be the unit vectors along the three positive coordinate\r\naxes. Let\r\n\r\na⃗ = 3î + ĵ − k̂,\r\nb⃗ = î + b₂ĵ + b₃k̂,  b₂, b₃ ∈ ℝ,\r\nc⃗ = c₁î + c₂ĵ + c₃k̂,  c₁, c₂, c₃ ∈ ℝ\r\n\r\nbe three vectors such that b₂b₃ > 0, a⃗ ⋅ b⃗ = 0 and\r\n\r\n$$\\left(\\begin{array}{ccc}\r\n\r\n0 & -c_{3} & c_{2} \\\\\r\n\r\nc_{3} & 0 & -c_{1} \\\\\r\n\r\n-c_{2} & c_{1} & 0\r\n\r\n\\end{array}\\right)\\left(\\begin{array}{l}\r\n\r\n1 \\\\\r\n\r\nb_{2} \\\\\r\n\r\nb_{3}\r\n\r\n\\end{array}\\right)=\\left(\\begin{array}{r}\r\n\r\n3-c_{1} \\\\\r\n\r\n1-c_{2} \\\\\r\n\r\n-1-c_{3}\r\n\r\n\\end{array}\\right) .$$\r\n\r\nThen, which of the following is/are TRUE ?\r\n\r\n(A) a⃗ ⋅ c⃗ = 0\r\n\r\n(B) b⃗ ⋅ c⃗ = 0\r\n\r\n(C) $|\\vec{b}|>\\sqrt{10}$\r\n\r\n(D) $|\\vec{c}| \\leq \\sqrt{11}$\r\n",
+    "answer": "BCD"
+  },
+  {
+    "question_id": "426",
+    "question": "For x ∈ ℝ, let the function y(x) be the solution of the differential\r\nequation\r\n\r\n$$\\frac{d y}{d x}+12 y=\\cos \\left(\\frac{\\pi}{12} x\\right), \\quad y(0)=0$$\r\n\r\nThen, which of the following statements is/are TRUE?\r\n\r\n(A) y(x) is an increasing function\r\n\r\n(B) y(x) is a decreasing function\r\n\r\n(C) There exists a real number β such that the line y = β intersects the\r\ncurve y = y(x) at infinitely many points\r\n\r\n(D) y(x) is a periodic function\r\n",
+    "answer": "C"
+  },
+  {
+    "question_id": "427",
+    "question": "Consider 4 boxes, where each box contains 3 red balls and 2 blue balls.\r\nAssume that all 20 balls are distinct. In how many different ways can 10\r\nballs be chosen from these 4 boxes so that from each box at least one\r\nred ball and one blue ball are chosen?\r\n\r\n(A) 21816\r\n\r\n(B) 85536\r\n\r\n(C) 12096\r\n\r\n(D) 156816\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "428",
+    "question": "If\r\n$M=\\left(\\begin{array}{rr}\\frac{5}{2} & \\frac{3}{2} \\\\ -\\frac{3}{2} & -\\frac{1}{2}\\end{array}\\right)$,\r\nthen which of the following matrices is equal to M²⁰²² ?\r\n\r\n(A)\r\n$\\left(\\begin{array}{rr}3034 & 3033 \\\\ -3033 & -3032\\end{array}\\right)$\r\n\r\n(B)\r\n$\\left(\\begin{array}{ll}3034 & -3033 \\\\ 3033 & -3032\\end{array}\\right)$\r\n\r\n(C)\r\n$\\left(\\begin{array}{rr}3033 & 3032 \\\\ -3032 & -3031\\end{array}\\right)$\r\n\r\n(D)\r\n$\\left(\\begin{array}{rr}3032 & 3031 \\\\ -3031 & -3030\\end{array}\\right)$\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "429",
+    "question": "Suppose that\r\n\r\nBox-I contains 8 red, 3 blue and 5 green balls,\r\n\r\nBox-II contains 24 red, 9 blue and 15 green balls,\r\n\r\nBox-III contains 1 blue, 12 green and 3 yellow balls,\r\n\r\nBox-IV contains 10 green, 16 orange and 6 white balls.\r\n\r\nA ball is chosen randomly from Box-I; call this ball b. If b is red then\r\na ball is chosen randomly from Box-II, if b is blue then a ball is\r\nchosen randomly from Box-III, and if b is green then a ball is chosen\r\nrandomly from Box-IV. The conditional probability of the event ’one of\r\nthe chosen balls is white’ given that the event ’at least one of the\r\nchosen balls is green’ has happened, is equal to\r\n\r\n(A) $\\frac{15}{256}$\r\n\r\n(B) $\\frac{3}{16}$\r\n\r\n(C) $\\frac{5}{52}$\r\n\r\n(D) $\\frac{1}{8}$\r\n",
+    "answer": "C"
+  },
+  {
+    "question_id": "430",
+    "question": "For positive integer n, define\r\n\r\n$$f(n)=n+\\frac{16+5 n-3 n^{2}}{4 n+3 n^{2}}+\\frac{32+n-3 n^{2}}{8 n+3 n^{2}}+\\frac{48-3 n-3 n^{2}}{12 n+3 n^{2}}+\\cdots+\\frac{25 n-7 n^{2}}{7 n^{2}}$$\r\n\r\nThen, the value of lim_(n → ∞)f(n) is equal to\r\n\r\n(A) $3+\\frac{4}{3} \\log _{e} 7$\r\n\r\n(B) $4-\\frac{3}{4} \\log _{e}\\left(\\frac{7}{3}\\right)$\r\n\r\n(C) $4-\\frac{4}{3} \\log _{e}\\left(\\frac{7}{3}\\right)$\r\n\r\n(D) $3+\\frac{3}{4} \\log _{e} 7$\r\n",
+    "answer": "B"
+  },
+  {
+    "question_id": "431",
+    "question": "A particle of mass 1 kg is subjected to a force which depends on the\r\nposition as F⃗= −k(xî + yĵ)kgks⁻² with k = 1 kg s⁻². At time t = 0, the\r\nparticle’s position r⃗=\r\n$\\left(\\frac{1}{\\sqrt{2}} \\hat{i}+\\sqrt{2} \\hat{j}\\right) m$ and its\r\nvelocity\r\n$\\vec{v}=\\left(-\\sqrt{2} \\hat{i}+\\sqrt{2} \\hat{j}+\\frac{2}{\\pi} \\hat{k}\\right) m s^{-1}$.\r\nLet v_(x) and v_(y) denote the x and the y components of the particle’s\r\nvelocity, respectively. Ignore gravity. When z = 0.5 m, what is the\r\nvalue of (xv_(y) − yv_(x)) in m²s⁻¹?\r\n",
+    "answer": "3"
+  },
+  {
+    "question_id": "432",
+    "question": "In a radioactive decay chain reaction, ₉₀²³⁰Th nucleus decays into\r\n₈₄²¹⁴Po nucleus. What is the ratio of the number of α to number of\r\nβ⁻particles emitted in this process?\r\n",
+    "answer": "2"
+  },
+  {
+    "question_id": "433",
+    "question": "In a particular system of units, a physical quantity can be expressed in\r\nterms of the electric charge e, electron mass m_(e), Planck’s constant\r\nh, and Coulomb’s constant $k=\\frac{1}{4 \\pi \\epsilon_{0}}$, where ϵ₀ is\r\nthe permittivity of vacuum. In terms of these physical constants, the\r\ndimension of the magnetic field is\r\n[B] = [e]^(α)[m_(e)]^(β)[h]^(γ)[k]^(δ). The value of α + β + γ + δ is\r\n",
+    "answer": "4"
+  },
+  {
+    "question_id": "434",
+    "question": "On a frictionless horizontal plane, a bob of mass m = 0.1 kg is attached\r\nto a spring with natural length l₀ = 0.1 m. The spring constant is\r\nk₁ = 0.009Nm⁻¹ when the length of the spring l > l₀ and is\r\nk₂ = 0.016Nm⁻¹ when l < l₀. Initially the bob is released from l=\r\n0.15 m. Assume that Hooke’s law remains valid throughout the motion. If\r\nthe time period of the full oscillation is T = (nπ)s, then what is the\r\ninteger closest to n?\r\n",
+    "answer": "6"
+  },
+  {
+    "question_id": "435",
+    "question": "A bubble has surface tension S. The ideal gas inside the bubble has\r\nratio of specific heats γ= $\\frac{5}{3}$. The bubble is exposed to the\r\natmosphere and it always retains its spherical shape. When the\r\natmospheric pressure is P_(a1), the radius of the bubble is found to be\r\nr₁ and the temperature of the enclosed gas is T₁. When the atmospheric\r\npressure is P_(a2), the radius of the bubble and the temperature of the\r\nenclosed gas are r₂ and T₂, respectively.\r\n\r\nWhich of the following statement(s) is(are) correct?\r\n\r\n(A) If the surface of the bubble is a perfect heat insulator, then\r\n$\\left(\\frac{r_{1}}{r_{2}}\\right)^{5}=\\frac{P_{a 2}+\\frac{2 S}{r_{2}}}{P_{a 1}+\\frac{2 S}{r_{1}}}$.\r\n\r\n(B) If the surface of the bubble is a perfect heat insulator, then the\r\ntotal internal energy of the bubble including its surface energy does\r\nnot change with the external atmospheric pressure.\r\n\r\n(C) If the surface of the bubble is a perfect heat conductor and the\r\nchange in atmospheric temperature is negligible, then\r\n$\\left(\\frac{r_{1}}{r_{2}}\\right)^{3}=\\frac{P_{a 2}+\\frac{4 S}{r_{2}}}{P_{a 1}+\\frac{4 S}{r_{1}}}$.\r\n\r\n(D) If the surface of the bubble is a perfect heat insulator, then\r\n$\\left(\\frac{T_{2}}{T_{1}}\\right)^{\\frac{5}{2}}=\\frac{P_{a 2}+\\frac{4 S}{r_{2}}}{P_{a 1}+\\frac{4 S}{r_{1}}}$.\r\n",
+    "answer": "CD"
+  },
+  {
+    "question_id": "436",
+    "question": "A disk of radius R with uniform positive charge density σ is placed on\r\nthe xy plane with its center at the origin. The Coulomb potential along\r\nthe z-axis is\r\n\r\n$$V(z)=\\frac{\\sigma}{2 \\epsilon_{0}}\\left(\\sqrt{R^{2}+z^{2}}-z\\right)$$\r\n\r\nA particle of positive charge q is placed initially at rest at a point\r\non the z axis with z = z₀ and z₀ > 0. In addition to the Coulomb force,\r\nthe particle experiences a vertical force F⃗ = −ck̂ with c > 0. Let\r\n$\\beta=\\frac{2 c \\epsilon_{0}}{q \\sigma}$. Which of the following\r\nstatement(s) is(are) correct?\r\n\r\n(A) For $\\beta=\\frac{1}{4}$ and $z_{0}=\\frac{25}{7} R$, the particle\r\nreaches the origin.\r\n\r\n(B) For $\\beta=\\frac{1}{4}$ and $z_{0}=\\frac{3}{7} R$, the particle\r\nreaches the origin.\r\n\r\n(C) For $\\beta=\\frac{1}{4}$ and $z_{0}=\\frac{R}{\\sqrt{3}}$, the particle\r\nreturns back to z = z₀.\r\n\r\n(D) For β > 1 and z₀ > 0, the particle always reaches the origin.\r\n",
+    "answer": "ACD"
+  },
+  {
+    "question_id": "437",
+    "question": "When light of a given wavelength is incident on a metallic surface, the\r\nminimum potential needed to stop the emitted photoelectrons is 6.0 V.\r\nThis potential drops to 0.6 V if another source with wavelength four\r\ntimes that of the first one and intensity half of the first one is used.\r\nWhat are the wavelength of the first source and the work function of the\r\nmetal, respectively? [Take $\\frac{h c}{e}=1.24 \\times$ 10⁻⁶ JmC⁻¹.]\r\n\r\n(A) 1.72 × 10⁻⁷ m, 1.20eV\r\n\r\n(B) 1.72 × 10⁻⁷ m, 5.60eV\r\n\r\n(C) 3.78 × 10⁻⁷ m, 5.60eV\r\n\r\n(D) 3.78 × 10⁻⁷ m, 1.20eV\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "438",
+    "question": "Area of the cross-section of a wire is measured using a screw gauge. The\r\npitch of the main scale is 0.5 mm. The circular scale has 100 divisions\r\nand for one full rotation of the circular scale, the main scale shifts\r\nby two divisions. The measured readings are listed below.\r\n\r\n  Measurement condition                                                                                    Main scale reading   Circular scale reading\r\n  -------------------------------------------------------------------------------------------------------- -------------------- ------------------------\r\n  $\\begin{array}{l}\\text { Two arms of gauge touching } \\\\ \\text { each other without wire }\\end{array}$   0 division           4 divisions\r\n  Attempt-1: With wire                                                                                     4 divisions          20 divisions\r\n  Attempt-2: With wire                                                                                     4 divisions          16 divisions\r\n\r\nWhat are the diameter and cross-sectional area of the wire measured\r\nusing the screw gauge?\r\n\r\n(A) 2.22 ± 0.02 mm, π(1.23 ± 0.02)mm²\r\n\r\n(B) 2.22 ± 0.01 mm, π(1.23 ± 0.01)mm²\r\n\r\n(C) 2.14 ± 0.02 mm, π(1.14 ± 0.02)mm²\r\n\r\n(D) 2.14 ± 0.01 mm, π(1.14 ± 0.01)mm²\r\n",
+    "answer": "C"
+  },
+  {
+    "question_id": "439",
+    "question": "Concentration of H₂SO₄ and Na₂SO₄ in a solution is 1M and 1.8 × 10⁻²M,\r\nrespectively. Molar solubility of PbSO₄ in the same solution is\r\nX × 10^(−Y)M (expressed in scientific notation). What is the value of Y?\r\n\r\n[Given: Solubility product of PbSO₄(K_(sp)) = 1.6 × 10⁻⁸. For\r\nH₂SO₄, K_(al) is very large and K_(a2) = 1.2 × 10⁻²]\r\n",
+    "answer": "6"
+  },
+  {
+    "question_id": "440",
+    "question": "An aqueous solution is prepared by dissolving 0.1 mol of an ionic salt\r\nin 1.8 kg of water at 35^(∘)C. The salt remains 90% dissociated in the\r\nsolution. The vapour pressure of the solution is 59.724 mm of Hg. Vapor\r\npressure of water at 35^(∘)C is 60.000 mm of Hg. What is the number of\r\nions present per formula unit of the ionic salt?\r\n",
+    "answer": "5"
+  },
+  {
+    "question_id": "441",
+    "question": "The reaction of Xe and O₂ F₂ gives a Xe compound P. What is the number\r\nof moles of HF produced by the complete hydrolysis of 1 mol of P?\r\n",
+    "answer": "4"
+  },
+  {
+    "question_id": "442",
+    "question": "Thermal decomposition of AgNO₃ produces two paramagnetic gases. What is\r\nthe total number of electrons present in the antibonding molecular\r\norbitals of the gas that has the higher number of unpaired electrons?\r\n",
+    "answer": "6"
+  },
+  {
+    "question_id": "443",
+    "question": "To check the principle of multiple proportions, a series of pure binary\r\ncompounds (P_(m)Q_(n)) were analyzed and their composition is tabulated\r\nbelow. The correct option(s) is(are)\r\n\r\n  Compound   Weight % of P   Weight % of Q\r\n  ---------- --------------- ---------------\r\n  1          50              50\r\n  2          44.4            55.6\r\n  3          40              60\r\n\r\n(A) If empirical formula of compound 3 is P₃Q₄, then the empirical\r\nformula of compound 2 is P₃Q₅.\r\n\r\n(B) If empirical formula of compound 3 is P₃Q₂ and atomic weight of\r\nelement P is 20 , then the atomic weight of Q is 45 .\r\n\r\n(C) If empirical formula of compound 2 is PQ, then the empirical formula\r\nof the compound 1 is P₅Q₄.\r\n\r\n(D) If atomic weight of P and Q are 70 and 35 , respectively, then the\r\nempirical formula of compound 1 is P₂Q.\r\n",
+    "answer": "BC"
+  },
+  {
+    "question_id": "444",
+    "question": "The correct option(s) about entropy (S) is(are)\r\n\r\n[R= gas constant, F= Faraday constant, T= Temperature ]\r\n\r\n(A) For the reaction, M(s) + 2H⁺(aq) → H₂(g) + M²⁺(aq), if\r\n$\\frac{d E_{c e l l}}{d T}=\\frac{R}{F}$, then the entropy change of the\r\nreaction is R (assume that entropy and internal energy changes are\r\ntemperature independent).\r\n\r\n(B) The cell reaction,\r\nPt (s)|H₂(g, 1bar)|H⁺(aq, 0.01M)∥H⁺(aq, 0.1M)|H₂(g, 1bar)|Pt (s), is an\r\nentropy driven process.\r\n\r\n(C) For racemization of an optically active compound, ΔS > 0.\r\n\r\n(D) ΔS > 0, for [Ni(H₂O₆]²⁺ + 3 en  → [Ni(en)₃]²⁺ + 6H₂O (where en =\r\nethylenediamine).\r\n",
+    "answer": "BCD"
+  },
+  {
+    "question_id": "445",
+    "question": "The compound(s) which react(s) with NH₃ to give boron nitride (BN)\r\nis(are)\r\n\r\n(A) B\r\n\r\n(B) B₂H₆\r\n\r\n(C) B₂O₃\r\n\r\n(D) HBF₄\r\n",
+    "answer": "ABC"
+  },
+  {
+    "question_id": "446",
+    "question": "The correct option(s) related to the extraction of iron from its ore in\r\nthe blast furnace operating in the temperature range 900 − 1500 K\r\nis(are)\r\n\r\n(A) Limestone is used to remove silicate impurity.\r\n\r\n(B) Pig iron obtained from blast furnace contains about 4% carbon.\r\n\r\n(C) Coke (C) converts CO₂ to CO.\r\n\r\n(D) Exhaust gases consist of NO₂ and CO.\r\n",
+    "answer": "ABC"
+  },
+  {
+    "question_id": "447",
+    "question": "Among the following, the correct statement(s) about polymers is(are)\r\n\r\n(A) The polymerization of chloroprene gives natural rubber.\r\n\r\n(B) Teflon is prepared from tetrafluoroethene by heating it with\r\npersulphate catalyst at high pressures.\r\n\r\n(C) PVC are thermoplastic polymers.\r\n\r\n(D) Ethene at 350-570 K temperature and 1000-2000 atm pressure in the\r\npresence of a peroxide initiator yields high density polythene.\r\n",
+    "answer": "BC"
+  },
+  {
+    "question_id": "448",
+    "question": "Atom X occupies the fcc lattice sites as well as alternate tetrahedral\r\nvoids of the same lattice. The packing efficiency (in %) of the\r\nresultant solid is closest to\r\n\r\n(A) 25\r\n\r\n(B) 35\r\n\r\n(C) 55\r\n\r\n(D) 75\r\n",
+    "answer": "B"
+  },
+  {
+    "question_id": "449",
+    "question": "The reaction of HClO₃ with HCl gives a paramagnetic gas, which upon\r\nreaction with O₃ produces\r\n\r\n(A) Cl₂O\r\n\r\n(B) ClO₂\r\n\r\n(C) Cl₂O₆\r\n\r\n(D) Cl₂O₇\r\n",
+    "answer": "C"
+  },
+  {
+    "question_id": "450",
+    "question": "The reaction of Pb(NO₃)₂ and NaCl in water produces a precipitate that\r\ndissolves upon the addition of HCl of appropriate concentration. The\r\ndissolution of the precipitate is due to the formation of\r\n\r\n(A) PbCl₂\r\n\r\n(B) PbCl₄\r\n\r\n(C) [PbCl₄]²⁻\r\n\r\n(D) [PbCl₆]²⁻\r\n",
+    "answer": "C"
+  },
+  {
+    "question_id": "451",
+    "question": "Let S = (0, 1) ∪ (1, 2) ∪ (3, 4) and T = {0, 1, 2, 3}. Then which of the\r\nfollowing statements is(are) true?\r\n\r\n(A) There are infinitely many functions from S to T\r\n\r\n(B) There are infinitely many strictly increasing functions from S to T\r\n\r\n(C) The number of continuous functions from S to T is at most 120\r\n\r\n(D) Every continuous function from S to T is differentiable\r\n",
+    "answer": "ACD"
+  },
+  {
+    "question_id": "452",
+    "question": "Let T₁ and T₂ be two distinct common tangents to the ellipse\r\n$E: \\frac{x^{2}}{6}+\\frac{y^{2}}{3}=1$ and the parabola P : y² = 12x.\r\nSuppose that the tangent T₁ touches P and E at the points A₁ and A₂,\r\nrespectively and the tangent T₂ touches P and E at the points A₄ and A₃,\r\nrespectively. Then which of the following statements is(are) true?\r\n\r\n(A) The area of the quadrilateral A₁A₂A₃A₄ is 35 square units\r\n\r\n(B) The area of the quadrilateral A₁A₂A₃A₄ is 36 square units\r\n\r\n(C) The tangents T₁ and T₂ meet the x-axis at the point (−3, 0)\r\n\r\n(D) The tangents T₁ and T₂ meet the x-axis at the point (−6, 0)\r\n",
+    "answer": "AC"
+  },
+  {
+    "question_id": "453",
+    "question": "Let f : [0, 1] → [0, 1] be the function defined by\r\n$f(x)=\\frac{x^{3}}{3}-x^{2}+\\frac{5}{9} x+\\frac{17}{36}$. Consider the\r\nsquare region S = [0, 1] × [0, 1]. Let G = {(x, y) ∈ S : y > f(x)} be\r\ncalled the green region and R = {(x, y) ∈ S : y < f(x)} be called the\r\nred region. Let L_(h) = {(x, h) ∈ S : x ∈ [0, 1]} be the horizontal line\r\ndrawn at a height h ∈ [0, 1]. Then which of the following statements\r\nis(are) true?\r\n\r\n(A) There exists an $h \\in\\left[\\frac{1}{4}, \\frac{2}{3}\\right]$ such\r\nthat the area of the green region above the line L_(h) equals the area\r\nof the green region below the line L_(h)\r\n\r\n(B) There exists an $h \\in\\left[\\frac{1}{4}, \\frac{2}{3}\\right]$ such\r\nthat the area of the red region above the line L_(h) equals the area of\r\nthe red region below the line L_(h)\r\n\r\n(C) There exists an $h \\in\\left[\\frac{1}{4}, \\frac{2}{3}\\right]$ such\r\nthat the area of the green region above the line L_(h) equals the area\r\nof the red region below the line L_(h)\r\n\r\n(D) There exists an $h \\in\\left[\\frac{1}{4}, \\frac{2}{3}\\right]$ such\r\nthat the area of the red region above the line L_(h) equals the area of\r\nthe green region below the line L_(h)\r\n",
+    "answer": "BCD"
+  },
+  {
+    "question_id": "454",
+    "question": "Let f : (0, 1) → ℝ be the function defined as $f(x)=\\sqrt{n}$ if\r\n$x \\in\\left[\\frac{1}{n+1}, \\frac{1}{n}\\right)$ where n ∈ ℕ. Let\r\ng : (0, 1) → ℝ be a function such that\r\n$\\int_{x^{2}}^{x} \\sqrt{\\frac{1-t}{t}} d t<g(x)<2 \\sqrt{x}$ for all\r\nx ∈ (0, 1). Then lim_(x → 0)f(x)g(x)\r\n\r\n(A) does NOT exist\r\n\r\n(B) is equal to 1\r\n\r\n(C) is equal to 2\r\n\r\n(D) is equal to 3\r\n",
+    "answer": "C"
+  },
+  {
+    "question_id": "455",
+    "question": "Let Q be the cube with the set of vertices\r\n{(x₁, x₂, x₃) ∈ ℝ³ : x₁, x₂, x₃ ∈ {0, 1}}. Let F be the set of all\r\ntwelve lines containing the diagonals of the six faces of the cube Q.\r\nLet S be the set of all four lines containing the main diagonals of the\r\ncube Q; for instance, the line passing through the vertices (0, 0, 0)\r\nand (1, 1, 1) is in S. For lines ℓ₁ and ℓ₂, let d(ℓ₁, ℓ₂) denote the\r\nshortest distance between them. Then the maximum value of d(ℓ₁, ℓ₂), as\r\nℓ₁ varies over F and ℓ₂ varies over S, is\r\n\r\n(A) $\\frac{1}{\\sqrt{6}}$\r\n\r\n(B) $\\frac{1}{\\sqrt{8}}$\r\n\r\n(C) $\\frac{1}{\\sqrt{3}}$\r\n\r\n(D) $\\frac{1}{\\sqrt{12}}$\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "456",
+    "question": "Let\r\n$X=\\left\\{(x, y) \\in \\mathbb{Z} \\times \\mathbb{Z}: \\frac{x^{2}}{8}+\\frac{y^{2}}{20}<1\\right.$\r\nand y² < 5x}. Three distinct points P, Q and R are randomly chosen from\r\nX. Then the probability that P, Q and R form a triangle whose area is a\r\npositive integer, is\r\n\r\n(A) $\\frac{71}{220}$\r\n\r\n(B) $\\frac{73}{220}$\r\n\r\n(C) $\\frac{79}{220}$\r\n\r\n(D) $\\frac{83}{220}$\r\n",
+    "answer": "B"
+  },
+  {
+    "question_id": "457",
+    "question": "Let P be a point on the parabola y² = 4ax, where a > 0. The normal to\r\nthe parabola at P meets the x-axis at a point Q. The area of the\r\ntriangle PFQ, where F is the focus of the parabola, is 120 . If the\r\nslope m of the normal and a are both positive integers, then the pair\r\n(a, m) is\r\n\r\n(A) (2, 3)\r\n\r\n(B) (1, 3)\r\n\r\n(C) (2, 4)\r\n\r\n(D) (3, 4)\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "458",
+    "question": "Let $\\tan ^{-1}(x) \\in\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$, for\r\nx ∈ ℝ. Then what is the number of real solutions of the equation\r\n\r\n$\\sqrt{1+\\cos (2 x)}=\\sqrt{2} \\tan ^{-1}(\\tan x)$ in the set\r\n$\\left(-\\frac{3 \\pi}{2},-\\frac{\\pi}{2}\\right) \\cup\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right) \\cup\\left(\\frac{\\pi}{2}, \\frac{3 \\pi}{2}\\right)$?\r\n",
+    "answer": "3"
+  },
+  {
+    "question_id": "459",
+    "question": "Let n ≥ 2 be a natural number and f : [0, 1] → ℝ be the function defined\r\nby\r\n\r\n$$f(x)= \\begin{cases}n(1-2 n x) & \\text { if } 0 \\leq x \\leq \\frac{1}{2 n} \\\\ 2 n(2 n x-1) & \\text { if } \\frac{1}{2 n} \\leq x \\leq \\frac{3}{4 n} \\\\ 4 n(1-n x) & \\text { if } \\frac{3}{4 n} \\leq x \\leq \\frac{1}{n} \\\\ \\frac{n}{n-1}(n x-1) & \\text { if } \\frac{1}{n} \\leq x \\leq 1\\end{cases}$$\r\n\r\nIf n is such that the area of the region bounded by the curves\r\nx = 0, x = 1, y = 0 and y = f(x) is 4 , then what is the maximum value\r\nof the function f?\r\n",
+    "answer": "8"
+  },
+  {
+    "question_id": "460",
+    "question": "Let $7 \\overbrace{5 \\cdots 5}^{r} 7$ denote the (r + 2) digit number\r\nwhere the first and the last digits are 7 and the remaining r digits are\r\n5 . Consider the sum\r\n$S=77+757+7557+\\cdots+7 \\overbrace{5 \\cdots 5}^{98}7$. If\r\n$S=\\frac{7 \\overbrace{5 \\cdots 5}^{99}7+m}{n}$, where m and n are\r\nnatural numbers less than 3000 , then what is the value of m + n?\r\n",
+    "answer": "1219"
+  },
+  {
+    "question_id": "461",
+    "question": "Let\r\n$A=\\left\\{\\frac{1967+1686 i \\sin \\theta}{7-3 i \\cos \\theta}: \\theta \\in \\mathbb{R}\\right\\}$.\r\nIf A contains exactly one positive integer n, then what is the value of\r\nn?\r\n",
+    "answer": "281"
+  },
+  {
+    "question_id": "462",
+    "question": "Let P be the plane $\\sqrt{3} x+2 y+3 z=16$ and let\r\nS = {αî + βĵ + γk̂ : α² + β² + γ² = 1 and the distance of (α, β, γ) from\r\nthe plane P is $\\left.\\frac{7}{2}\\right\\}$. Let u⃗, v⃗ and w⃗ be three\r\ndistinct vectors in S such that |u⃗ − v⃗| = |v⃗ − w⃗| = |w⃗ − u⃗|. Let V be\r\nthe volume of the parallelepiped determined by vectors u⃗, v⃗ and w⃗. Then\r\nwhat is the value of $\\frac{80}{\\sqrt{3}} V$?\r\n",
+    "answer": "45"
+  },
+  {
+    "question_id": "463",
+    "question": "Let a and b be two nonzero real numbers. If the coefficient of x⁵ in the\r\nexpansion of $\\left(a x^{2}+\\frac{70}{27 b x}\\right)^{4}$ is equal to\r\nthe coefficient of x⁻⁵ in the expansion of\r\n$\\left(a x-\\frac{1}{b x^{2}}\\right)^{7}$, then the value of 2b is\r\n",
+    "answer": "3"
+  },
+  {
+    "question_id": "464",
+    "question": "Let α, β and γ be real numbers. Consider the following system of linear\r\nequations\r\n\r\nx + 2y + z = 7\r\n\r\nx + αz = 11\r\n\r\n2x − 3y + βz = γ\r\n\r\nMatch each entry in List-I to the correct entries in List-II.\r\n\r\nList-I\r\n\r\n(P) If $\\beta=\\frac{1}{2}(7 \\alpha-3)$ and γ = 28, then the system has\r\n\r\n(Q) If $\\beta=\\frac{1}{2}(7 \\alpha-3)$ and γ ≠ 28, then the system has\r\n\r\n(R) If $\\beta \\neq \\frac{1}{2}(7 \\alpha-3)$ where α = 1 and γ ≠ 28, then\r\nthe system has\r\n\r\n(S) If $\\beta \\neq \\frac{1}{2}(7 \\alpha-3)$ where α = 1 and γ = 28, then\r\nthe system has\r\n\r\nList-II\r\n\r\n(1) a unique solution\r\n\r\n(2) no solution\r\n\r\n(3) infinitely many solutions\r\n\r\n(4) x = 11, y = −2 and z = 0 as a solution\r\n\r\n(5) x = −15, y = 4 and z = 0 as a solution\r\n\r\nThe correct option is:\r\n\r\n(A) (P) → (3)  (Q) → (2)  (R) → (1)  (S) → (4)\r\n\r\n(B) (P) → (3)  (Q) → (2)  (R) → (5)  (S) → (4)\r\n\r\n(C) (P) → (2)  (Q) → (1)  (R) → (4)  (S) → (5)\r\n\r\n(D) (P) → (2)  (Q) → (1)  (R) → (1)   (S) → (3)\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "465",
+    "question": "Consider the given data with frequency distribution\r\n\r\n$$\\begin{array}{ccccccc}\r\n\r\nx_{i} & 3 & 8 & 11 & 10 & 5 & 4 \\\\\r\n\r\nf_{i} & 5 & 2 & 3 & 2 & 4 & 4\r\n\r\n\\end{array}$$\r\n\r\nMatch each entry in List-I to the correct entries in List-II.\r\n\r\nList-I\r\n\r\n(P) The mean of the above data is\r\n\r\n(Q) The median of the above data is\r\n\r\n(R) The mean deviation about the mean of the above data is\r\n\r\n(S) The mean deviation about the median of the above data is\r\n\r\nList-II\r\n\r\n(1) 2.5\r\n\r\n(2) 5\r\n\r\n(3) 6\r\n\r\n(4) 2.7\r\n\r\n(5) 2.4\r\n\r\nThe correct option is:\r\n\r\n(A) (P) → (3)   (Q) → (2)    (R) → (4)    (S) → (5)\r\n\r\n(B) (P) → (3)  (Q) → (2)  (R) → (1)  (S) → (5)\r\n\r\n(C) (P) → (2)  (Q) → (3)  (R) → (4)  (S) → (1)\r\n\r\n(D) (P)→ (3)    (Q) → (3)    (R) → (5)    (S) → (5)\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "466",
+    "question": "Let ℓ₁ and ℓ₂ be the lines r⃗₁ = λ(î + ĵ + k̂) and\r\nr⃗₂ = (ĵ − k̂) + μ(î + k̂), respectively. Let X be the set of all the\r\nplanes H that contain the line ℓ₁. For a plane H, let d(H) denote the\r\nsmallest possible distance between the points of ℓ₂ and H. Let H₀ be a\r\nplane in X for which d(H₀) is the maximum value of d(H) as H varies over\r\nall planes in X.\r\n\r\nMatch each entry in List-I to the correct entries in List-II.\r\n\r\nList-I\r\n\r\n(P) The value of d(H₀) is\r\n\r\n(Q) The distance of the point (0, 1, 2) from H₀ is\r\n\r\n(R) The distance of origin from H₀ is\r\n\r\n(S) The distance of origin from the point of intersection of planes\r\ny = z, x = 1 and H₀ is\r\n\r\nList-II\r\n\r\n(1) $\\sqrt{3}$\r\n\r\n(2) $\\frac{1}{\\sqrt{3}}$\r\n\r\n(3) 0\r\n\r\n(4) $\\sqrt{2}$\r\n\r\n(5) $\\frac{1}{\\sqrt{2}}$\r\n\r\nThe correct option is:\r\n\r\n(A) (P) → (2)  (Q) → (4)  (R) → (5)  (S) → (1)\r\n\r\n(B) (P) → (5)  (Q) → (4)  (R) → (3)  (S)→ (1)\r\n\r\n(C) (P) → (2)  (Q) → (1)  (R) → (3)  (S)→ (2)\r\n\r\n(D) (P) → (5)  (Q) → (1)  (R) → (4)  (S) → (2)\r\n",
+    "answer": "B"
+  },
+  {
+    "question_id": "467",
+    "question": "Let z be a complex number satisfying |z|³ + 2z² + 4z̄ − 8 = 0, where z̄\r\ndenotes the complex conjugate of z. Let the imaginary part of z be\r\nnonzero.\r\n\r\nMatch each entry in List-I to the correct entries in List-II.\r\n\r\nList-I\r\n\r\n(P) |z|² is equal to\r\n\r\n(Q) |Z − Z̄|² is equal to\r\n\r\n(R) |Z|² + |Z + Z̄|² is equal to\r\n\r\n(S) |z + 1|² is equal to\r\n\r\nList-II\r\n\r\n(1) 12\r\n\r\n(2) 4\r\n\r\n(3) 8\r\n\r\n(4) 10\r\n\r\n(5) 7\r\n\r\nThe correct option is:\r\n\r\n(A)(P) → (1)  (Q) → (3)  (R) → (5)  (S)→ (4)\r\n\r\n(B) (P) → (2)  (Q) → (1)  (R) → (3)  (S) → (5)\r\n\r\n(C) (P) → (2)  (Q) → (4)  (R) → (5)  (S) → (1)\r\n\r\n(D) (P) → (2)  (Q) → (3)  (R) → (5)  (S) → (4)\r\n",
+    "answer": "B"
+  },
+  {
+    "question_id": "468",
+    "question": "A bar of mass M = 1.00 kg and length L = 0.20 m is lying on a horizontal\r\nfrictionless surface. One end of the bar is pivoted at a point about\r\nwhich it is free to rotate. A small mass m = 0.10 kg is moving on the\r\nsame horizontal surface with 5.00 m s⁻¹ speed on a path perpendicular to\r\nthe bar. It hits the bar at a distance L/2 from the pivoted end and\r\nreturns back on the same path with speed v. After this elastic\r\ncollision, the bar rotates with an angular velocity ω. Which of the\r\nfollowing statement is correct?\r\n\r\n(A) ω = 6.98rads⁻¹ and v = 4.30 m s⁻¹\r\n\r\n(B) ω = 3.75rads⁻¹ and v = 4.30 m s⁻¹\r\n\r\n(C) ω = 3.75rads⁻¹ and v = 10.0 m s⁻¹\r\n\r\n(D) ω = 6.80rads⁻¹ and v = 4.10 m s⁻¹\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "469",
+    "question": "One mole of an ideal gas expands adiabatically from an initial state\r\n(T_(A), V₀) to final state (T_(f), 5V₀). Another mole of the same gas\r\nexpands isothermally from a different initial state (T_(B), V₀) to the\r\nsame final state (T_(f), 5V₀). The ratio of the specific heats at\r\nconstant pressure and constant volume of this ideal gas is γ. What is\r\nthe ratio T_(A)/T_(B) ?\r\n\r\n(A) 5^(γ − 1)\r\n\r\n(B) 5^(1 − γ)\r\n\r\n(C) 5^(γ)\r\n\r\n(D) 5^(1 + γ)\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "470",
+    "question": "Two satellites P and Q are moving in different circular orbits around\r\nthe Earth (radius R ). The heights of P and Q from the Earth surface are\r\nh_(P) and h_(Q), respectively, where h_(P) = R/3. The accelerations of P\r\nand Q due to Earth’s gravity are g_(P) and g_(Q), respectively. If\r\ng_(P)/g_(Q) = 36/25, what is the value of h_(Q) ?\r\n\r\n(A) 3R/5\r\n\r\n(B) R/6\r\n\r\n(C) 6R/5\r\n\r\n(D) 5R/6\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "471",
+    "question": "A Hydrogen-like atom has atomic number Z. Photons emitted in the\r\nelectronic transitions from level n = 4 to level n = 3 in these atoms\r\nare used to perform photoelectric effect experiment on a target metal.\r\nThe maximum kinetic energy of the photoelectrons generated is 1.95eV. If\r\nthe photoelectric threshold wavelength for the target metal is 310 nm,\r\nwhat is the value of Z?\r\n\r\n[Given: hc = 1240eV − nm and Rhc = 13.6eV, where R is the Rydberg\r\nconstant, h is the Planck’s constant and c is the speed of light in\r\nvacuum]\r\n",
+    "answer": "3"
+  },
+  {
+    "question_id": "472",
+    "question": "In an experiment for determination of the focal length of a thin convex\r\nlens, the distance of the object from the lens is 10 ± 0.1 cm and the\r\ndistance of its real image from the lens is 20 ± 0.2 cm. The error in\r\nthe determination of focal length of the lens is n%. What is the value\r\nof n?\r\n",
+    "answer": "1"
+  },
+  {
+    "question_id": "473",
+    "question": "A closed container contains a homogeneous mixture of two moles of an\r\nideal monatomic gas (γ = 5/3) and one mole of an ideal diatomic gas\r\n(γ = 7/5). Here, γ is the ratio of the specific heats at constant\r\npressure and constant volume of an ideal gas. The gas mixture does a\r\nwork of 66 Joule when heated at constant pressure. What is the change in\r\nits internal energy in Joule.\r\n",
+    "answer": "121"
+  },
+  {
+    "question_id": "474",
+    "question": "A person of height 1.6 m is walking away from a lamp post of height 4 m\r\nalong a straight path on the flat ground. The lamp post and the person\r\nare always perpendicular to the ground. If the speed of the person is\r\n60 cm s⁻¹, then what is the speed of the tip of the person’s shadow on\r\nthe ground with respect to the person in cms⁻¹?\r\n",
+    "answer": "40"
+  },
+  {
+    "question_id": "475",
+    "question": "List-I shows different radioactive decay processes and List-II provides\r\npossible emitted particles. Match each entry in List-I with an\r\nappropriate entry from List-II, and choose the correct option.\r\n\r\nList-I\r\n\r\n(P) ₉₂²³⁸U → ₉₁²³⁴ Pa\r\n\r\n(Q) ₈₂²¹⁴ Pb → ₈₂²¹⁰ Pb\r\n\r\n(R) ₈₁²¹⁰Tl → ₈₂²⁰⁶ Pb\r\n\r\n(S) ₉₁²²⁸ Pa → ₈₈²²⁴Ra\r\n\r\nList-II\r\n\r\n(1) one α particle and one β⁺particle\r\n\r\n(2) three β⁻particles and one α particle\r\n\r\n(3) two β⁻particles and one α particle\r\n\r\n(4) one α particle and one β⁻particle\r\n\r\n(5) one α particle and two β⁺particles\r\n\r\n(A) P → 4, Q → 3, R → 2, S → 1\r\n\r\n(B) P → 4, Q → 1, R → 2, S → 5\r\n\r\n(C) P → 5, Q → 3, R → 1, S → 4\r\n\r\n(D) P → 5, Q → 1, R → 3, S → 2\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "476",
+    "question": "Match the temperature of a black body given in List-I with an\r\nappropriate statement in List-II, and choose the correct option.\r\n\r\n[Given: Wien’s constant as 2.9 × 10⁻³ m − K and\r\n$\\frac{h c}{e}=1.24 \\times 10^{-6} \\mathrm{~V}-\\mathrm{m}$ ]\r\n\r\nList-I\r\n\r\n(P) 2000 K\r\n\r\n(Q) 3000 K\r\n\r\n(R) 5000 K\r\n\r\n(S) 10000 K\r\n\r\nList-II\r\n\r\n(1) The radiation at peak wavelength can lead to emission of\r\nphotoelectrons from a metal of work function 4eV.\r\n\r\n(2) The radiation at peak wavelength is visible to human eye.\r\n\r\n(3) The radiation at peak emission wavelength will result in the widest\r\ncentral maximum of a single slit diffraction.\r\n\r\n(4) The power emitted per unit area is 1/16 of that emitted by a\r\nblackbody at temperature 6000 K.\r\n\r\n(5) The radiation at peak emission wavelength can be used to image human\r\nbones.\r\n\r\n(A) P → 3, Q → 5, R → 2, S → 3\r\n\r\n(B) P → 3, Q → 2, R → 4, S → 1\r\n\r\n(C) P → 3, Q → 4, R → 2, S → 1\r\n\r\n(D) P → 1, Q → 2, R → 5, S → 3\r\n",
+    "answer": "C"
+  },
+  {
+    "question_id": "477",
+    "question": "A series LCR circuit is connected to a 45sin (ωt) Volt source. The\r\nresonant angular frequency of the circuit is 10⁵rads⁻¹ and current\r\namplitude at resonance is I₀. When the angular frequency of the source\r\nis ω = 8 × 10⁴rads⁻¹, the current amplitude in the circuit is 0.05I₀. If\r\nL = 50mH, match each entry in List-I with an appropriate value from\r\nList-II and choose the correct option.\r\n\r\nList-I\r\n\r\n(P) I₀ in mA\r\n\r\n(Q) The quality factor of the circuit\r\n\r\n(R) The bandwidth of the circuit in rads⁻¹\r\n\r\n(S) The peak power dissipated at resonance in Watt\r\n\r\nList-II\r\n\r\n(1) 44.4\r\n\r\n(2) 18\r\n\r\n(3) 400\r\n\r\n(4) 2250\r\n\r\n(5) 500\r\n\r\n(A) P → 2, Q → 3, R → 5, S → 1\r\n\r\n(B) P → 3, Q → 1, R → 4, S → 2\r\n\r\n(C) P → 4, Q → 5, R → 3, S → 1\r\n\r\n(D) P → 4, Q → 2, R → 1, S → 5\r\n",
+    "answer": "B"
+  },
+  {
+    "question_id": "478",
+    "question": "The correct statement(s) related to processes involved in the extraction\r\nof metals is(are)\r\n\r\n(A) Roasting of Malachite produces Cuprite.\r\n\r\n(B) Calcination of Calamine produces Zincite.\r\n\r\n(C) Copper pyrites is heated with silica in a reverberatory furnace to\r\nremove iron.\r\n\r\n(D) Impure silver is treated with aqueous KCN in the presence of oxygen\r\nfollowed by reduction with zinc metal.\r\n",
+    "answer": "BCD"
+  },
+  {
+    "question_id": "479",
+    "question": "Plotting 1/Λ_(m) against cΛ_(m) for aqueous solutions of a monobasic\r\nweak acid (HX) resulted in a straight line with y-axis intercept of P\r\nand slope of S. The ratio P/S is\r\n\r\n[Λ_(m)= molar conductivity\r\n\r\nΛ_(m)^(o)= limiting molar conductivity\r\n\r\nc= molar concentration\r\n\r\nK_(a)= dissociation constant of HX ]\r\n\r\n(A) K_(a)Λ_(m)^(o)\r\n\r\n(B) K_(a)Λ_(m)^(o)/2\r\n\r\n(C) 2 K_(a)Λ_(m)^(o)\r\n\r\n(D) 1/(K_(a)Λ_(m)^(o))\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "480",
+    "question": "On decreasing the pH from 7 to 2, the solubility of a sparingly soluble\r\nsalt (MX) of a weak acid (HX) increased from 10⁻⁴ mol L⁻¹ to\r\n10⁻³ mol L⁻¹. The p K_(a) of HX is\r\n\r\n(A) 3\r\n\r\n(B) 4\r\n\r\n(C) 5\r\n\r\n(D) 2\r\n",
+    "answer": "B"
+  },
+  {
+    "question_id": "481",
+    "question": "The stoichiometric reaction of 516 g of dimethyldichlorosilane with\r\nwater results in a tetrameric cyclic product X in 75% yield. What is the\r\nweight (in g) obtained of X?\r\n\r\n[Use, molar mass (gmol⁻¹) : H = 1, C = 12, O = 16, Si = 28, Cl = 35.5 ]\r\n",
+    "answer": "222"
+  },
+  {
+    "question_id": "482",
+    "question": "A gas has a compressibility factor of 0.5 and a molar volume of\r\n0.4dm³ mol⁻¹ at a temperature of 800 K and pressure x atm. If it shows\r\nideal gas behaviour at the same temperature and pressure, the molar\r\nvolume will be ydm³ mol⁻¹. What is the value of x/y?\r\n\r\n[Use: Gas constant, R = 8 × 10⁻² L atm KKol⁻¹ ]\r\n",
+    "answer": "100"
+  },
+  {
+    "question_id": "483",
+    "question": "Match the reactions (in the given stoichiometry of the reactants) in\r\nList-I with one of their products given in List-II and choose the\r\ncorrect option.\r\n\r\nList-I\r\n\r\n(P) P₂O₃ + 3H₂O→\r\n\r\n(Q) P₄ + 3NaOH + 3H₂O→\r\n\r\n(R) PCl₅ + CH₃COOH→\r\n\r\n(S) H₃PO₂ + 2H₂O + 4AgNO₃→\r\n\r\nList-II\r\n\r\n(1) P(O)(OCH₃)Cl₂\r\n\r\n(2) H₃PO₃\r\n\r\n(3) PH₃\r\n\r\n(4) POCl₃\r\n\r\n(5) H₃PO₄\r\n\r\n(A) P → 2; Q → 3; R → 1; S → 5\r\n\r\n(B) P → 3; Q  → 5; R  → 4; S → 2\r\n\r\n(C) P → 5; Q → 2; R → 1; S  → 3\r\n\r\n(D) P  → 2; Q  → 3; R  → 4; S → 5\r\n",
+    "answer": "D"
+  },
+  {
+    "question_id": "484",
+    "question": "Match the electronic configurations in List-I with appropriate metal\r\ncomplex ions in List-II and choose the correct option.\r\n\r\n[Atomic Number: Fe = 26, Mn = 25, Co = 27 ]\r\n\r\nList-I\r\n\r\n(P) t_(2g)⁶e_(g)⁰\r\n\r\n(Q) t_(2g)³e_(g)²\r\n\r\n(R) e²t₂³\r\n\r\n(S) t_(2g)⁴e_(g)²\r\n\r\nList-II\r\n\r\n(1) [Fe(H₂O)₆]²⁺\r\n\r\n(2) [Mn(H₂O)₆]²⁺\r\n\r\n(3) [Co(NH₃)₆]³⁺\r\n\r\n(4) [FeCl₄]⁻\r\n\r\n(5) [CoCl₄]²⁻\r\n\r\n(A) P → 1; Q  → 4; R → 2; S → 3\r\n\r\n(B) P → 1; Q → 2; R → 4; S → 5\r\n\r\n(C) P → 3; Q → 2; R → 5; S → 1\r\n\r\n(D) P → 3; Q → 2; R → 4; S → 1\r\n",
+    "answer": "D"
+  },
+  {
+    "question_id": "485",
+    "question": "The major products obtained from the reactions in List-II are the\r\nreactants for the named reactions mentioned in List-I. Match List-I with\r\nList-II and choose the correct option.\r\n\r\nList-I\r\n\r\n(P) Etard reaction\r\n\r\n(Q) Gattermann reaction\r\n\r\n(R) Gattermann-Koch reaction\r\n\r\n(S) Rosenmund reduction\r\n\r\nList-II\r\n\r\n(1) Acetophenone\r\n$\\stackrel{\\mathrm{Zn}-\\mathrm{Hg}, \\mathrm{HCl}}{\\longrightarrow}$\r\n\r\n(2) Toluene\r\n$\\underset{\\text{(ii)}\\mathrm{SOCl}_{2}}{\\stackrel{\\text { (i) } \\mathrm{KMnO}_{4}, \\mathrm{KOH}, \\Delta}{\\longrightarrow}}$\r\n\r\n(3) Benzene\r\n$\\underset{\\text { anhyd. } \\mathrm{AlCl}_{3}}{\\stackrel{\\mathrm{CH}_{3} \\mathrm{Cl}}{\\longrightarrow}}$\r\n\r\n(4) Aniline\r\n$\\underset{273-278 \\mathrm{~K}}{\\stackrel{\\mathrm{NaNO}_{2} / \\mathrm{HCl}}{\\longrightarrow}}$\r\n\r\n(5) Phenol $\\stackrel{\\mathrm{Zn}, \\Delta}{\\longrightarrow}$\r\n\r\n(A) P → 2; Q → 4; R → 1; S → 3\r\n\r\n(B) P → 1; Q → 3; R → 5; S → 2\r\n\r\n(C) P → 3; Q → 2; R → 1; S → 4\r\n\r\n(D) P → 3; Q → 4; R  → 5; S → 2\r\n",
+    "answer": "D"
+  },
+  {
+    "question_id": "486",
+    "question": "Let f : [1, ∞) → ℝ be a differentiable function such that\r\n$f(1)=\\frac{1}{3}$ and\r\n$3 \\int_{1}^{x} f(t) d t=x f(x)-\\frac{x^{3}}{3}, x \\in[1, \\infty)$. Let\r\ne denote the base of the natural logarithm. Then the value of f(e) is\r\n\r\n(A) $\\frac{e^{2}+4}{3}$\r\n\r\n(B) $\\frac{\\log _{e} 4+e}{3}$\r\n\r\n(C) $\\frac{4 e^{2}}{3}$\r\n\r\n(D) $\\frac{e^{2}-4}{3}$\r\n",
+    "answer": "C"
+  },
+  {
+    "question_id": "487",
+    "question": "Consider an experiment of tossing a coin repeatedly until the outcomes\r\nof two consecutive tosses are same. If the probability of a random toss\r\nresulting in head is $\\frac{1}{3}$, then the probability that the\r\nexperiment stops with head is\r\n\r\n(A) $\\frac{1}{3}$\r\n\r\n(B) $\\frac{5}{21}$\r\n\r\n(C) $\\frac{4}{21}$\r\n\r\n(D) $\\frac{2}{7}$\r\n",
+    "answer": "B"
+  },
+  {
+    "question_id": "488",
+    "question": "For any y ∈ ℝ, let cot⁻¹(y) ∈ (0, π) and\r\n$\\tan ^{-1}(y) \\in\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$. Then the\r\nsum of all the solutions of the equation\r\n$\\tan ^{-1}\\left(\\frac{6 y}{9-y^{2}}\\right)+\\cot ^{-1}\\left(\\frac{9-y^{2}}{6 y}\\right)=\\frac{2 \\pi}{3}$\r\nfor 0 < |y| < 3, is equal to\r\n\r\n(A) $2 \\sqrt{3}-3$\r\n\r\n(B) $3-2 \\sqrt{3}$\r\n\r\n(C) $4 \\sqrt{3}-6$\r\n\r\n(D) $6-4 \\sqrt{3}$\r\n",
+    "answer": "C"
+  },
+  {
+    "question_id": "489",
+    "question": "Let the position vectors of the points P, Q, R and S be\r\na⃗ = î + 2ĵ − 5k̂, b⃗ = 3î + 6ĵ + 3k̂,\r\n$\\vec{c}=\\frac{17}{5} \\hat{i}+\\frac{16}{5} \\hat{j}+7 \\hat{k}$ and\r\nd⃗ = 2î + ĵ + k̂, respectively. Then which of the following statements is\r\ntrue?\r\n\r\n(A) The points P, Q, R and S are NOT coplanar\r\n\r\n(B) $\\frac{\\vec{b}+2 \\vec{d}}{3}$ is the position vector of a point\r\nwhich divides PR internally in the ratio 5 : 4\r\n\r\n(C) $\\frac{\\vec{b}+2 \\vec{d}}{3}$ is the position vector of a point\r\nwhich divides PR externally in the ratio 5 : 4\r\n\r\n(D) The square of the magnitude of the vector b⃗ × d⃗ is 95\r\n",
+    "answer": "B"
+  },
+  {
+    "question_id": "490",
+    "question": "Let M = (a_(ij)), i, j ∈ {1, 2, 3}, be the 3 × 3 matrix such that\r\na_(ij) = 1 if j + 1 is divisible by i, otherwise a_(ij) = 0. Then which\r\nof the following statements is(are) true?\r\n\r\n(A) M is invertible\r\n\r\n(B) There exists a nonzero column matrix\r\n$\\left(\\begin{array}{l}a_{1} \\\\ a_{2} \\\\ a_{3}\\end{array}\\right)$ such\r\nthat\r\n$M\\left(\\begin{array}{l}a_{1} \\\\ a_{2} \\\\ a_{3}\\end{array}\\right)=\\left(\\begin{array}{c}-a_{1} \\\\ -a_{2} \\\\ -a_{3}\\end{array}\\right)$\r\n\r\n(C) The set {X ∈ ℝ³ : MX = 0} ≠ {0}, where\r\n$\\mathbf{0}=\\left(\\begin{array}{l}0 \\\\ 0 \\\\ 0\\end{array}\\right)$\r\n\r\n(D) The matrix (M − 2I) is invertible, where I is the 3 × 3 identity\r\nmatrix\r\n",
+    "answer": "BC"
+  },
+  {
+    "question_id": "491",
+    "question": "Let f : (0, 1) → ℝ be the function defined as\r\n$f(x)=[4 x]\\left(x-\\frac{1}{4}\\right)^{2}\\left(x-\\frac{1}{2}\\right)$,\r\nwhere [x] denotes the greatest integer less than or equal to x. Then\r\nwhich of the following statements is(are) true?\r\n\r\n(A) The function f is discontinuous exactly at one point in (0, 1)\r\n\r\n(B) There is exactly one point in (0, 1) at which the function f is\r\ncontinuous but NOT differentiable\r\n\r\n(C) The function f is NOT differentiable at more than three points in\r\n(0, 1)\r\n\r\n(D) The minimum value of the function f is $-\\frac{1}{512}$\r\n",
+    "answer": "AB"
+  },
+  {
+    "question_id": "492",
+    "question": "Let S be the set of all twice differentiable functions f from ℝ to ℝ\r\nsuch that $\\frac{d^{2} f}{d x^{2}}(x)>0$ for all x ∈ (−1, 1). For f ∈ S,\r\nlet X_(f) be the number of points x ∈ (−1, 1) for which f(x) = x. Then\r\nwhich of the following statements is(are) true?\r\n\r\n(A) There exists a function f ∈ S such that X_(f) = 0\r\n\r\n(B) For every function f ∈ S, we have X_(f) ≤ 2\r\n\r\n(C) There exists a function f ∈ S such that X_(f) = 2\r\n\r\n(D) There does NOT exist any function f in S such that X_(f) = 1\r\n",
+    "answer": "ABC"
+  },
+  {
+    "question_id": "493",
+    "question": "For x ∈ ℝ, let\r\n$\\tan ^{-1}(x) \\in\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$. Then what\r\nis the minimum value of the function f : ℝ → ℝ defined by\r\n$f(x)=\\int_{0}^{x \\tan ^{-1} x} \\frac{e^{(t-\\cos t)}}{1+t^{2023}} d t$?\r\n",
+    "answer": "0"
+  },
+  {
+    "question_id": "494",
+    "question": "For x ∈ ℝ, let y(x) be a solution of the differential equation\r\n$\\left(x^{2}-5\\right) \\frac{d y}{d x}-2 x y=-2 x\\left(x^{2}-5\\right)^{2}$\r\nsuch that y(2) = 7.\r\n\r\nThen what is the maximum value of the function y(x)?\r\n",
+    "answer": "16"
+  },
+  {
+    "question_id": "495",
+    "question": "Let X be the set of all five digit numbers formed using 1,2,2,2,4,4,0.\r\nFor example, 22240 is in X while 02244 and 44422 are not in X. Suppose\r\nthat each element of X has an equal chance of being chosen. Let p be the\r\nconditional probability that an element chosen at random is a multiple\r\nof 20 given that it is a multiple of 5 . Then what is the value of 38p\r\nequal to?\r\n",
+    "answer": "31"
+  },
+  {
+    "question_id": "496",
+    "question": "",
+    "answer": "512"
+  },
+  {
+    "question_id": "497",
+    "question": "$R=\\left\\{\\left(\\begin{array}{lll}a & 3 & b \\\\ c & 2 & d \\\\ 0 & 5 & 0\\end{array}\\right): a, b, c, d \\in\\{0,3,5,7,11,13,17,19\\}\\right\\}$.\r\nThen what is the number of invertible matrices in R?\r\n",
+    "answer": "3780"
+  },
+  {
+    "question_id": "498",
+    "question": "Let C₁ be the circle of radius 1 with center at the origin. Let C₂ be\r\nthe circle of radius r with center at the point A = (4, 1), where\r\n1 < r < 3. Two distinct common tangents PQ and ST of C₁ and C₂ are\r\ndrawn. The tangent PQ touches C₁ at P and C₂ at Q. The tangent ST\r\ntouches C₁ at S and C₂ at T. Mid points of the line segments PQ and ST\r\nare joined to form a line which meets the x-axis at a point B. If\r\n$A B=\\sqrt{5}$, then what is the value of r²?\r\n",
+    "answer": "2"
+  },
+  {
+    "question_id": "499",
+    "question": "Consider an obtuse angled triangle ABC in which the difference between\r\nthe largest and the smallest angle is $\\frac{\\pi}{2}$ and whose sides\r\nare in arithmetic progression. Suppose that the vertices of this\r\ntriangle lie on a circle of radius 1. Let a be the area of the triangle\r\nABC. Then what is the value of (64a)²?\r\n",
+    "answer": "1008"
+  },
+  {
+    "question_id": "500",
+    "question": "Consider an obtuse angled triangle ABC in which the difference between\r\nthe largest and the smallest angle is $\\frac{\\pi}{2}$ and whose sides\r\nare in arithmetic progression. Suppose that the vertices of this\r\ntriangle lie on a circle of radius 1. Then what is the inradius of the\r\ntriangle ABC?\r\n",
+    "answer": "0.25"
+  },
+  {
+    "question_id": "501",
+    "question": "Young’s modulus of elasticity Y is expressed in terms of three derived\r\nquantities, namely, the gravitational constant G, Planck’s constant h\r\nand the speed of light c, as Y = c^(α)h^(β)G^(γ). Which of the following\r\nis the correct option?\r\n\r\n(A) α = 7, β = −1, γ = −2\r\n\r\n(B) α = −7, β = −1, γ = −2\r\n\r\n(C) α = 7, β = −1, γ = 2\r\n\r\n(D) α = −7, β = 1, γ = −2\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "502",
+    "question": "A particle of mass m is moving in the xy-plane such that its velocity at\r\na point (x, y) is given as\r\n$\\overrightarrow{\\mathrm{v}}=\\alpha(y \\hat{x}+2 x \\hat{y})$, where α is\r\na non-zero constant. What is the force F⃗ acting on the particle?\r\n\r\n(A) F⃗ = 2mα²(xx̂ + yŷ)\r\n\r\n(B) F⃗ = mα²(yx̂ + 2xŷ)\r\n\r\n(C) F⃗ = 2mα²(yx̂ + xŷ)\r\n\r\n(D) F⃗ = mα²(xx̂ + 2yŷ)\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "503",
+    "question": "An ideal gas is in thermodynamic equilibrium. The number of degrees of\r\nfreedom of a molecule of the gas is n. The internal energy of one mole\r\nof the gas is U_(n) and the speed of sound in the gas is v_(n). At a\r\nfixed temperature and pressure, which of the following is the correct\r\noption?\r\n\r\n(A) v₃ < v₆ and U₃ > U₆\r\n\r\n(B) v₅ > v₃ and U₃ > U₅\r\n\r\n(C) v₅ > v₇ and U₅ < U₇\r\n\r\n(D) v₆ < v₇ and U₆ < U₇\r\n",
+    "answer": "C"
+  },
+  {
+    "question_id": "504",
+    "question": "The electric field associated with an electromagnetic wave propagating\r\nin a dielectric medium is given by\r\n$\\vec{E}=30(2 \\hat{x}+\\hat{y}) \\sin \\left[2 \\pi\\left(5 \\times 10^{14} t-\\frac{10^{7}}{3} z\\right)\\right] \\mathrm{Vm}^{-1}$.\r\nWhich of the following option(s) is(are) correct?\r\n\r\n[Given: The speed of light in vacuum, c = 3 × 10⁸ m s⁻¹ ]\r\n\r\n(A)\r\n$B_{x}=-2 \\times 10^{-7} \\sin \\left[2 \\pi\\left(5 \\times 10^{14} t-\\frac{10^{7}}{3} z\\right)\\right] \\mathrm{Wb} \\mathrm{m}^{-2}$.\r\n\r\n(B)\r\n$B_{y}=2 \\times 10^{-7} \\sin \\left[2 \\pi\\left(5 \\times 10^{14} t-\\frac{10^{7}}{3} z\\right)\\right] \\mathrm{Wb} \\mathrm{m}^{-2}$.\r\n\r\n(C) The wave is polarized in the xy-plane with polarization\r\n\r\nangle 30^(∘) with respect to the x-axis.\r\n\r\n(D) The refractive index of the medium is 2 .\r\n",
+    "answer": "AD"
+  },
+  {
+    "question_id": "505",
+    "question": "A string of length 1 m and mass 2 × 10⁻⁵ kg is under tension T. When the\r\nstring vibrates, two successive harmonics are found to occur at\r\nfrequencies 750 Hz and 1000 Hz. What is the value of tension T in\r\nNewton?\r\n",
+    "answer": "5"
+  },
+  {
+    "question_id": "506",
+    "question": "In a radioactive decay process, the activity is defined as\r\n$A=-\\frac{d N}{d t}$, where N(t) is the number of radioactive nuclei at\r\ntime t. Two radioactive sources, S₁ and S₂ have same activity at time\r\nt = 0. At a later time, the activities of S₁ and S₂ are A₁ and A₂,\r\nrespectively. When S₁ and S₂ have just completed their 3^(rd ) and\r\n7^(th ) half-lives, respectively, what is the ratio A₁/A₂?\r\n",
+    "answer": "16"
+  },
+  {
+    "question_id": "507",
+    "question": "Consider the following statements related to colloids.\r\n\r\n(I) Lyophobic colloids are not formed by simple mixing of dispersed\r\nphase and dispersion medium.\r\n\r\n(II) For emulsions, both the dispersed phase and the dispersion medium\r\nare liquid.\r\n\r\n(III) Micelles are produced by dissolving a surfactant in any solvent at\r\nany temperature.\r\n\r\n(IV) Tyndall effect can be observed from a colloidal solution with\r\ndispersed phase having the same refractive index as that of the\r\ndispersion medium.\r\n\r\nThe option with the correct set of statements is\r\n\r\n(A) (I) and (II)\r\n\r\n(B) (II) and (III)\r\n\r\n(C) (III) and (IV)\r\n\r\n(D) (II) and (IV)\r\n",
+    "answer": "A"
+  },
+  {
+    "question_id": "508",
+    "question": "The complex(es), which can exhibit the type of isomerism shown by [\r\nPt(NH₃)₂Br₂], is(are) [en  = H₂NCH₂CH₂NH₂ ]\r\n\r\n(A) [Pt (en)(SCN)₂]\r\n\r\n(B) [Zn(NH₃)₂Cl₂]\r\n\r\n(C) [Pt(NH₃)₂Cl₄]\r\n\r\n(D) [Cr(en)₂(H₂O)(SO₄)]⁺\r\n",
+    "answer": "CD"
+  },
+  {
+    "question_id": "509",
+    "question": "Atoms of metals x, y, and z form face-centred cubic (fcc) unit cell of\r\nedge length L_(x), body-centred cubic (bcc) unit cell of edge length\r\nL_(y), and simple cubic unit cell of edge length L_(z), respectively.\r\n\r\nIf\r\n$\\mathrm{r}_{\\mathrm{z}}=\\frac{\\sqrt{3}}{2} \\mathrm{r}_{\\mathrm{y}} ; \\mathrm{r}_{\\mathrm{y}}=\\frac{8}{\\sqrt{3}} \\mathrm{r}_{\\mathrm{x}} ; \\mathrm{M}_{\\mathrm{z}}=\\frac{3}{2} \\mathrm{M}_{\\mathrm{y}}$\r\nand M_(Z) = 3M_(x), then the correct statement(s) is(are)\r\n\r\n[Given: M_(x), M_(y), and M_(z) are molar masses of metals x, y, and z,\r\nrespectively.\r\n\r\nr_(x), r_(y), and r_(z) are atomic radii of metals x, y, and z,\r\nrespectively.]\r\n\r\n(A) Packing efficiency of unit cell of x> Packing efficiency of unit\r\ncell of y> Packing efficiency of unit cell of z\r\n\r\n(B) L_(y) > L_(z)\r\n\r\n(C) L_(x) > L_(y)\r\n\r\n(D) Density of x> Density of y\r\n",
+    "answer": "ABD"
+  },
+  {
+    "question_id": "510",
+    "question": "  H₂ S (5 moles) reacts completely with acidified aqueous potassium\r\npermanganate solution. In this reaction, the number of moles of water\r\nproduced is x, and the number of moles of electrons involved is y. The\r\nvalue of (x + y) is\r\n",
+    "answer": "18"
+  },
+  {
+    "question_id": "511",
+    "question": "Among\r\n[I₃]⁺, [SiO₄]⁴⁻, SO₂Cl₂, XeF₂, SF₄, ClF₃, Ni(CO)₄, XeO₂ F₂, [PtCl₄]²⁻, XeF₄,\r\nand SOCl₂, what is the total number of species having sp³ hybridised\r\ncentral atom?\r\n",
+    "answer": "5"
+  },
+  {
+    "question_id": "512",
+    "question": "Consider the following molecules: Br₃O₈,  F₂O, H₂ S₄O₆, H₂ S₅O₆, and\r\nC₃O₂.\r\n\r\nCount the number of atoms existing in their zero oxidation state in each\r\nmolecule. What is their sum?\r\n",
+    "answer": "6"
+  },
+  {
+    "question_id": "513",
+    "question": "50 mL of 0.2 molal urea solution (density  = 1.012 g mL⁻¹ at 300 K ) is\r\nmixed with 250 mL of a solution containing 0.06 g of urea. Both the\r\nsolutions were prepared in the same solvent. What is the osmotic\r\npressure (in Torr) of the resulting solution at 300 K?\r\n\r\n[Use: Molar mass of urea  = 60 g mol⁻¹; gas constant, R = 62 L Torr\r\nK⁻¹ mol⁻¹;\r\n\r\nAssume, Δ_(mix )H = 0, Δ_(mix )V = 0 ]\r\n",
+    "answer": "682"
+  },
+  {
+    "question_id": "514",
+    "question": "A trinitro compound, 1,3,5-tris-(4-nitrophenyl)benzene, on complete\r\nreaction with an excess of Sn/HCl gives a major product, which on\r\ntreatment with an excess of NaNO₂/HCl at 0^(∘)C provides P as the\r\nproduct. P, upon treatment with excess of H₂O at room temperature, gives\r\nthe product Q. Bromination of Q in aqueous medium furnishes the product\r\nR. The compound P upon treatment with an excess of phenol under basic\r\nconditions gives the product S.\r\n\r\nThe molar mass difference between compounds Q and R is 474 g mol⁻¹ and\r\nbetween compounds P and S is 172.5 g mol⁻¹. What is the number of\r\nheteroatoms present in one molecule of R?\r\n\r\n[Use: Molar mass (in g mol⁻¹ ):\r\nH = 1, C = 12,  N = 14, O = 16, Br = 80, Cl = 35.5\r\n\r\nAtoms other than C and H are considered as heteroatoms]\r\n",
+    "answer": "9"
+  },
+  {
+    "question_id": "515",
+    "question": "A trinitro compound, 1,3,5-tris-(4-nitrophenyl)benzene, on complete\r\nreaction with an excess of Sn/HCl gives a major product, which on\r\ntreatment with an excess of NaNO₂/HCl at 0^(∘)C provides P as the\r\nproduct. P, upon treatment with excess of H₂O at room temperature, gives\r\nthe product Q. Bromination of Q in aqueous medium furnishes the product\r\nR. The compound P upon treatment with an excess of phenol under basic\r\nconditions gives the product S.\r\n\r\nThe molar mass difference between compounds Q and R is 474 g mol⁻¹ and\r\nbetween compounds P and S is 172.5 g mol⁻¹. What is the total number of\r\ncarbon atoms and heteroatoms present in one molecule of S?\r\n\r\n[Use: Molar mass (in gmol⁻¹ ):\r\nH = 1, C = 12,  N = 14, O = 16, Br = 80, Cl = 35.5\r\n\r\nAtoms other than C and H are considered as heteroatoms]\r\n",
+    "answer": "51"
+  }
+]

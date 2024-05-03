@@ -1,0 +1,4 @@
+Type,count,GPT3.5_normal,GPT4_0613_normal
+MCQ,15,0.4,0.6
+MCQ(multiple),40,0.181,0.294
+Numeric,45,0.378,0.311

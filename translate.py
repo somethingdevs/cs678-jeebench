@@ -17,12 +17,15 @@ def fetch_answers_from_gpt(questions_file, output_file, api_key):
 
         # Loop through questions and send them to GPT-3.5
         for key, question in questions.items():
+            if not (17 <= int(key) <= 101):
+                continue
+
             try:
-                full_prompt = f"Can you translate this to French. Please keep the latex intact: {question}"
+                full_prompt = f"Can you translate this to Chinese. Please keep the latex intact: {question}"
                 response = openai.ChatCompletion.create(
                     model="gpt-3.5-turbo",
                     messages=[{"role": "system",
-                               "content": "Translate the following English text to French, keeping LaTeX code intact."},
+                               "content": "Translate the following English text to Chinese, keeping LaTeX code intact."},
                               {"role": "user", "content": question}],
                     max_tokens=1000
                 )
@@ -49,9 +52,10 @@ def fetch_answers_from_gpt(questions_file, output_file, api_key):
 
 
 def main():
-    questions_file = 'data/sequential_questions_output.json'
-    output_file = 'translated_french.json'
+    questions_file = 'sequential_questions_output.json'
+    output_file = 'translated_chinese1.json'
     # api_key = 'your-openai-api-key'  # Make sure to use your actual OpenAI API key
+    api_key = ''  # Replace this with your actual OpenAI API key
 
     fetch_answers_from_gpt(questions_file, output_file, api_key)
 
