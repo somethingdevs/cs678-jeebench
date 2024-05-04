@@ -41,7 +41,9 @@ D:.
 
 ## How did we run the code
 
-As it turns out, the code uses teh responses that the author already had with him to generate the results. This led to giving the same results every single time. We generated new answers to the question prompts and used them but were only able to use 114 questions since OpenAI rate limited us and the cost that incurred were significant.
+As it turns out, the code uses teh responses that the author already had with him to generate the results. This led to
+giving the same results every single time. We generated new answers to the question prompts and used them but were only
+able to use 114 questions since OpenAI rate limited us and the cost that incurred were significant.
 
 We then edited the code to run only 114 questions on each model and ended up getting roughly close values.
 
@@ -91,6 +93,11 @@ python inference.py --model gpt-3.5-turbo --mode normal --max_questions 10 --num
 ```bash
 python inference.py --model gpt-4-0613 --mode normal --max_questions 10 --num_procs 4
 ```
+
+#### Running mBERT model
+
+Run all the code cells in the bert_jee.ipynb file to get results. Make sure you have all the modules downloaded and set
+the data path to reflect the actual files.
 
 ### Evaluating Results
 
