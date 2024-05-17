@@ -1,6 +1,8 @@
 fork of https://github.com/dair-iitd/jeebench
 
-# JEEBench(EMNLP 2023)
+# LLMS vs JEE Advanced: Indian Teenagers Worst Nightmare!
+
+## Reproduction of JEEBench(EMNLP 2023) with additional Model
 
 Repository for Course Project of CS-678 by Ali and Anjan. Paper chosen to replicate is: "Have LLMs Advanced Enough? A
 Harder Problem Solving Benchmark For Large Language Models" accepted in EMNLP 2023 as a Main conference
